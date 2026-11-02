@@ -1,0 +1,1486 @@
+[
+  {
+    "id": "accountability_001",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Who is responsible for obtaining informed consent for surgery?",
+    "options": [
+      "The surgeon or practitioner performing the procedure",
+      "The circulating nurse, who witnesses the signature and checks the form",
+      "The patient's family",
+      "The scrub person"
+    ],
+    "correctIndex": 0,
+    "explanation": "The practitioner explains risks, benefits, and alternatives; the nurse may witness the signature."
+  },
+  {
+    "id": "accountability_002",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "When a perioperative nurse witnesses a consent signature, the nurse is attesting that:",
+    "options": [
+      "The surgeon is qualified",
+      "The patient fully understands all of the risks and alternatives",
+      "The procedure will be successful",
+      "The signature is the patient's and was given voluntarily"
+    ],
+    "correctIndex": 3,
+    "explanation": "If the patient lacks understanding, the nurse notifies the practitioner before surgery proceeds."
+  },
+  {
+    "id": "accountability_003",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which elements must be proven for a claim of negligence?",
+    "options": [
+      "Assault, battery, and harm",
+      "Intent, motive, and harm that was caused to the patient",
+      "Duty, breach of duty, causation, and damages",
+      "Consent, privacy, and safety"
+    ],
+    "correctIndex": 2,
+    "explanation": "All four elements must be established in a negligence or malpractice claim."
+  },
+  {
+    "id": "accountability_004",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "'Res ipsa loquitur' is most likely to apply in which situation?",
+    "options": [
+      "A patient is discharged on time",
+      "A sponge is retained in a patient after surgery",
+      "A patient refuses surgery",
+      "A patient has an expected complication that was disclosed during consent"
+    ],
+    "correctIndex": 1,
+    "explanation": "The doctrine ('the thing speaks for itself') applies when injury would not ordinarily occur without negligence."
+  },
+  {
+    "id": "accountability_005",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which statement reflects current views on accountability in the OR?",
+    "options": [
+      "Only the hospital is ever liable",
+      "The surgeon is responsible for all nursing actions taken in the OR",
+      "Nurses cannot be sued if a surgeon is present",
+      "Nurses are accountable for their own practice and can be held individually liable"
+    ],
+    "correctIndex": 3,
+    "explanation": "The 'captain of the ship' doctrine has largely given way to individual professional accountability."
+  },
+  {
+    "id": "accountability_006",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "A registered nurse's legal scope of practice is defined by:",
+    "options": [
+      "The nursing school curriculum",
+      "The hospital cafeteria policy",
+      "The state nurse practice act",
+      "The surgeon's preference card"
+    ],
+    "correctIndex": 2,
+    "explanation": "Each state's nurse practice act and board of nursing define RN scope of practice."
+  },
+  {
+    "id": "accountability_007",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "How often must the CNOR credential be renewed?",
+    "options": [
+      "Every year",
+      "Every 5 years",
+      "It never expires",
+      "Every 10 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "CNOR certification is renewed on a 5-year cycle through CCI's recertification options."
+  },
+  {
+    "id": "accountability_008",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which is required to sit for the CNOR certification exam?",
+    "options": [
+      "A current, unrestricted RN license",
+      "A surgical technologist certificate",
+      "No license is required",
+      "A medical degree"
+    ],
+    "correctIndex": 0,
+    "explanation": "Candidates must hold a current, unrestricted RN license and meet perioperative experience requirements set by CCI."
+  },
+  {
+    "id": "accountability_009",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "A just culture approach distinguishes among:",
+    "options": [
+      "Individual errors, team errors, and leadership errors",
+      "Intentional acts, reported acts, and unreported acts",
+      "Human error, at-risk behavior, and reckless behavior",
+      "Minor errors, major errors, and sentinel events"
+    ],
+    "correctIndex": 2,
+    "explanation": "Just culture consoles human error, coaches at-risk behavior, and holds reckless behavior accountable."
+  },
+  {
+    "id": "accountability_010",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Respecting a competent patient's decision to refuse a procedure reflects which ethical principle?",
+    "options": [
+      "Autonomy",
+      "Fidelity",
+      "Justice",
+      "Beneficence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Autonomy is the right to self-determination, including the right to refuse treatment."
+  },
+  {
+    "id": "accountability_011",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "The ethical principle of nonmaleficence means:",
+    "options": [
+      "Telling the truth",
+      "Avoiding harm to the patient",
+      "Doing good for the patient and promoting the patient's well-being",
+      "Treating everyone fairly"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nonmaleficence is 'do no harm'; beneficence is doing good."
+  },
+  {
+    "id": "accountability_012",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which event is classified as a sentinel event?",
+    "options": [
+      "A minor bruise from an IV start",
+      "A delayed case start",
+      "A patient waiting 15 minutes for transport",
+      "Surgery performed on the wrong site"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sentinel events result in death, permanent harm, or severe temporary harm; wrong-site surgery is reviewed as a sentinel event."
+  },
+  {
+    "id": "accountability_013",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "How should an error in a paper medical record be corrected?",
+    "options": [
+      "Scribble over it completely",
+      "Tear out the page",
+      "Draw a single line through it, write the correction, and initial and date it",
+      "Use correction fluid so the original entry cannot be read again"
+    ],
+    "correctIndex": 2,
+    "explanation": "Corrections must keep the original entry legible; EHRs use amendment functions per policy."
+  },
+  {
+    "id": "accountability_014",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "Which type of evidence generally provides the strongest support for a practice change?",
+    "options": [
+      "A systematic review or meta-analysis of randomized controlled trials",
+      "A manufacturer's advertisement for a new device, with testimonials",
+      "Expert opinion",
+      "A single case report"
+    ],
+    "correctIndex": 0,
+    "explanation": "Evidence hierarchies place systematic reviews of RCTs at the highest level."
+  },
+  {
+    "id": "accountability_015",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "A nurse suspects a colleague is impaired while on duty. What is the appropriate action?",
+    "options": [
+      "Confront the colleague in front of patients",
+      "Report the concern to the supervisor according to policy",
+      "Wait to see if it happens again before taking any action",
+      "Ignore it to avoid conflict"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patient safety requires reporting; many organizations and boards offer assistance programs."
+  },
+  {
+    "id": "accountability_016",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "A nurse has a moral objection to participating in a specific procedure. What should the nurse do?",
+    "options": [
+      "Tell the patient they are wrong",
+      "Leave the room during the procedure",
+      "Refuse to participate after the patient has been anesthetized and the case has begun",
+      "Notify the manager in advance so care can be reassigned without abandonment"
+    ],
+    "correctIndex": 3,
+    "explanation": "Conscientious objection must be communicated in advance and must never result in patient abandonment."
+  },
+  {
+    "id": "accountability_017",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "A competent adult patient withdraws consent in the holding area. What should the nurse do?",
+    "options": [
+      "Stop preparation, notify the surgeon, and document the patient's decision",
+      "Ask the family to sign instead",
+      "Proceed because consent was signed",
+      "Give sedation to calm the patient so that preparation can continue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Consent can be withdrawn at any time before the procedure; the decision must be respected."
+  },
+  {
+    "id": "accountability_018",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which action violates professional standards related to social media?",
+    "options": [
+      "Reading a professional blog",
+      "Posting a photo of an OR case even with the patient's face hidden",
+      "Posting about general nursing pride and teamwork without any case details",
+      "Sharing a public AORN article"
+    ],
+    "correctIndex": 1,
+    "explanation": "Images or details that may identify a patient or case violate privacy and professional standards."
+  },
+  {
+    "id": "accountability_019",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "While the patient is anesthetized, a primary role of the perioperative RN is to act as the patient's:",
+    "options": [
+      "Surrogate decision-maker",
+      "Legal guardian",
+      "Advocate",
+      "Informed consent provider"
+    ],
+    "correctIndex": 2,
+    "explanation": "The perioperative nurse advocates for the patient's safety, dignity, and rights when they cannot speak for themselves."
+  },
+  {
+    "id": "accountability_020",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "In the PDSA quality improvement cycle, 'S' stands for:",
+    "options": [
+      "Stop",
+      "Summarize",
+      "Sterilize",
+      "Study"
+    ],
+    "correctIndex": 3,
+    "explanation": "Plan, Do, Study, Act is an iterative model for testing changes."
+  },
+  {
+    "id": "accountability_021",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "A perioperative nurse is asked to perform a task outside the nurse's competency. What is the best response?",
+    "options": [
+      "Ask an unlicensed assistant to do it so the work is not delayed",
+      "Do it and document later",
+      "Decline to perform it alone and seek education or assistance per policy",
+      "Perform it to avoid delays"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nurses are accountable for practicing within their competence and scope."
+  },
+  {
+    "id": "accountability_022",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Performing a procedure on a patient without consent can be considered:",
+    "options": [
+      "Negligence only",
+      "Slander",
+      "Libel",
+      "Battery"
+    ],
+    "correctIndex": 3,
+    "explanation": "Battery is unauthorized touching; consent protects patient autonomy."
+  },
+  {
+    "id": "accountability_023",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Restraining a competent patient against their will without legal justification can be considered:",
+    "options": [
+      "Defamation",
+      "False imprisonment",
+      "Abandonment",
+      "Invasion of privacy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Unjustified restraint violates patient rights."
+  },
+  {
+    "id": "accountability_024",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which situation allows treatment without written consent?",
+    "options": [
+      "A life-threatening emergency when the patient cannot consent and no surrogate is available",
+      "A patient who refuses",
+      "A minor with parents present, when the parents refuse a recommended treatment",
+      "A routine elective case"
+    ],
+    "correctIndex": 0,
+    "explanation": "Implied consent applies in emergencies when delay would harm the patient."
+  },
+  {
+    "id": "accountability_025",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which patient is generally able to consent to their own surgery?",
+    "options": [
+      "A sedated adult",
+      "An emancipated minor",
+      "A patient with severe cognitive impairment",
+      "A minor who is not emancipated in most situations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Emancipated minors can consent according to state law."
+  },
+  {
+    "id": "accountability_026",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "A nurse leaves an assigned patient in the PACU without handing off care. This may be considered:",
+    "options": [
+      "Informed consent",
+      "Advocacy",
+      "Delegation of the patient's care to a qualified staff member",
+      "Patient abandonment"
+    ],
+    "correctIndex": 3,
+    "explanation": "Leaving without proper handoff may constitute abandonment."
+  },
+  {
+    "id": "accountability_027",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which law requires hospitals to ask patients about advance directives?",
+    "options": [
+      "Patient Self-Determination Act",
+      "ADA",
+      "HIPAA, which sets privacy standards for protected health information",
+      "OSHA"
+    ],
+    "correctIndex": 0,
+    "explanation": "The PSDA requires facilities to inform patients of their rights to make advance directives."
+  },
+  {
+    "id": "accountability_028",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which doctrine holds an employer responsible for the negligent acts of employees within their job scope?",
+    "options": [
+      "Res ipsa loquitur",
+      "Good Samaritan law, which protects those who give emergency aid",
+      "Respondeat superior",
+      "Informed consent"
+    ],
+    "correctIndex": 2,
+    "explanation": "Employers can be liable for employees' actions during employment."
+  },
+  {
+    "id": "accountability_029",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which situation best describes malpractice?",
+    "options": [
+      "Any unexpected outcome that occurs after surgery",
+      "An error by an unlicensed person that causes no harm to the patient",
+      "A known complication disclosed during consent",
+      "Professional negligence by a licensed practitioner that causes harm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Malpractice involves breach of professional duty causing harm."
+  },
+  {
+    "id": "accountability_030",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "Which element must be proven to show causation in a negligence case?",
+    "options": [
+      "The patient was unhappy",
+      "The facility had a policy",
+      "The breach of duty directly caused the patient's injury",
+      "The nurse had a license and was working within the scope of practice"
+    ],
+    "correctIndex": 2,
+    "explanation": "Causation links the breach to the harm."
+  },
+  {
+    "id": "accountability_031",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Who can sign consent for a minor in most cases?",
+    "options": [
+      "The circulating nurse",
+      "A parent or legal guardian",
+      "The surgeon",
+      "Any adult relative who is present with the minor at the hospital"
+    ],
+    "correctIndex": 1,
+    "explanation": "Legal guardians provide consent for minors unless laws allow otherwise."
+  },
+  {
+    "id": "accountability_032",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "A patient signs consent and then asks the nurse a question about risks. What is the nurse's responsibility?",
+    "options": [
+      "Notify the surgeon to clarify the patient's questions",
+      "Explain all risks in detail and change the consent form if needed",
+      "Tell the patient not to worry",
+      "Ignore the question"
+    ],
+    "correctIndex": 0,
+    "explanation": "The surgeon is responsible for informed consent; the nurse advocates for clarification."
+  },
+  {
+    "id": "accountability_033",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which statement about consent forms is correct?",
+    "options": [
+      "The form replaces the discussion",
+      "The form documents that the informed consent process occurred",
+      "Consent can be obtained after sedation if the patient nods in agreement",
+      "Only the nurse explains risks"
+    ],
+    "correctIndex": 1,
+    "explanation": "The discussion is the essence of consent; the form documents it."
+  },
+  {
+    "id": "accountability_034",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "A patient with fluctuating capacity is scheduled for surgery. What is the best approach?",
+    "options": [
+      "Assess capacity at the time of consent and involve a surrogate if needed",
+      "Obtain consent when the patient is sedated and calm in the holding area",
+      "Ask the family to sign without assessment",
+      "Proceed without consent"
+    ],
+    "correctIndex": 0,
+    "explanation": "Capacity must be present at the time of consent."
+  },
+  {
+    "id": "accountability_035",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which ethical principle relates to telling the truth?",
+    "options": [
+      "Beneficence",
+      "Fidelity",
+      "Justice",
+      "Veracity"
+    ],
+    "correctIndex": 3,
+    "explanation": "Veracity is honesty in communication."
+  },
+  {
+    "id": "accountability_036",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which ethical principle relates to keeping promises and commitments?",
+    "options": [
+      "Justice",
+      "Autonomy",
+      "Fidelity",
+      "Nonmaleficence"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fidelity involves loyalty and keeping commitments."
+  },
+  {
+    "id": "accountability_037",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which ethical principle involves fair distribution of resources?",
+    "options": [
+      "Justice",
+      "Veracity",
+      "Fidelity",
+      "Autonomy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Justice means treating people fairly and equitably."
+  },
+  {
+    "id": "accountability_038",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "A nurse discovers a colleague altering a count sheet. What is the most appropriate action?",
+    "options": [
+      "Discuss it only with friends",
+      "Report the behavior through the appropriate chain of command",
+      "Alter the sheet back to the correct count without telling anyone else",
+      "Ignore it to avoid conflict"
+    ],
+    "correctIndex": 1,
+    "explanation": "Falsification threatens patient safety and must be reported."
+  },
+  {
+    "id": "accountability_039",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which document outlines professional ethical standards for nurses?",
+    "options": [
+      "The Joint Commission National Patient Safety Goals",
+      "AORN Guidelines for Perioperative Practice",
+      "The state nurse practice act",
+      "ANA Code of Ethics for Nurses"
+    ],
+    "correctIndex": 3,
+    "explanation": "The ANA Code guides ethical practice."
+  },
+  {
+    "id": "accountability_040",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "What is the main purpose of a nurse practice act?",
+    "options": [
+      "To set hospital budgets for nursing and the staffing ratios",
+      "To regulate pharmacists",
+      "To define the scope of nursing practice and protect the public",
+      "To set surgeon schedules"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nurse practice acts are state laws governing nursing."
+  },
+  {
+    "id": "accountability_041",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which action is required if a nurse witnesses suspected child abuse?",
+    "options": [
+      "Report it according to mandatory reporting laws",
+      "Tell only the surgeon",
+      "Confront the parents",
+      "Ignore it unless the abuse is proven by the family or a witness"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nurses are mandated reporters in all states."
+  },
+  {
+    "id": "accountability_042",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "What does the 'P' stand for in a PICOT question?",
+    "options": [
+      "Plan",
+      "Population or patient",
+      "Procedure",
+      "Policy"
+    ],
+    "correctIndex": 1,
+    "explanation": "PICOT: Population, Intervention, Comparison, Outcome, Time."
+  },
+  {
+    "id": "accountability_043",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which body must approve research involving human subjects?",
+    "options": [
+      "The OR scheduling office",
+      "The hospital finance committee that approves the research budget",
+      "The vendor representative",
+      "An institutional review board (IRB)"
+    ],
+    "correctIndex": 3,
+    "explanation": "IRBs protect the rights and welfare of research participants."
+  },
+  {
+    "id": "accountability_044",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which statement best distinguishes quality improvement from research?",
+    "options": [
+      "QI cannot use data",
+      "QI always requires IRB approval",
+      "QI improves local processes, while research generates generalizable knowledge",
+      "Research is only done by managers, and QI is only done by staff nurses"
+    ],
+    "correctIndex": 2,
+    "explanation": "QI focuses on local improvement; research seeks generalizable findings."
+  },
+  {
+    "id": "accountability_045",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "A nurse wants to change a practice based on a single case report. What is the best response?",
+    "options": [
+      "Ask a vendor for advice",
+      "Review higher-level evidence and guidelines before changing practice",
+      "Change the practice immediately, since a case report is published evidence",
+      "Ignore the case report completely"
+    ],
+    "correctIndex": 1,
+    "explanation": "Practice changes should be based on strong evidence."
+  },
+  {
+    "id": "accountability_046",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which activity counts toward CNOR recertification?",
+    "options": [
+      "Holding the CNOR credential for 5 years without activity",
+      "Completing the facility's annual fire safety module only",
+      "Continuing education and professional activities as defined by CCI",
+      "Working a minimum number of overtime shifts"
+    ],
+    "correctIndex": 2,
+    "explanation": "Recertification requires meeting CCI criteria such as continuing education."
+  },
+  {
+    "id": "accountability_047",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "What is the purpose of AORN Guidelines for Perioperative Practice?",
+    "options": [
+      "To provide evidence-based recommendations for perioperative care",
+      "To set hospital budgets",
+      "To replace state laws and regulations that govern nursing practice",
+      "To license nurses"
+    ],
+    "correctIndex": 0,
+    "explanation": "AORN guidelines support safe, evidence-based practice."
+  },
+  {
+    "id": "accountability_048",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which action demonstrates professional accountability?",
+    "options": [
+      "Hiding mistakes that did not cause harm to the patient",
+      "Changing documentation",
+      "Blaming others",
+      "Reporting one's own error promptly"
+    ],
+    "correctIndex": 3,
+    "explanation": "Accountability includes transparency and learning from errors."
+  },
+  {
+    "id": "accountability_049",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "A perioperative nurse is asked to participate in a research study. What must be ensured?",
+    "options": [
+      "Participation without the patient's knowledge, to prevent bias in the study",
+      "Using data without permission",
+      "Informed consent of participants and IRB approval",
+      "Skipping documentation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ethical research requires consent and oversight."
+  },
+  {
+    "id": "accountability_050",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which statement best describes lifelong learning?",
+    "options": [
+      "Learning only during nursing school, since practice stays the same",
+      "Continuing to update knowledge and skills throughout a career",
+      "Relying on outdated practices",
+      "Avoiding new techniques"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ongoing learning supports competent practice."
+  },
+  {
+    "id": "accountability_051",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "What is the role of peer review in nursing?",
+    "options": [
+      "To evaluate practice against standards and support improvement",
+      "To schedule cases",
+      "To punish staff members who have made mistakes in their practice",
+      "To set salaries"
+    ],
+    "correctIndex": 0,
+    "explanation": "Peer review promotes accountability and quality."
+  },
+  {
+    "id": "accountability_052",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which action best supports evidence-based practice in the OR?",
+    "options": [
+      "Ignoring research",
+      "Following tradition only",
+      "Copying another hospital's policy without reviewing it for local practice",
+      "Using current guidelines and evaluating outcomes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Evidence-based practice integrates research, expertise, and patient values."
+  },
+  {
+    "id": "accountability_053",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "Which outcome is most important when evaluating a practice change?",
+    "options": [
+      "Vendor satisfaction",
+      "Reduced paperwork only",
+      "Staff preference only, since staff satisfaction drives the results",
+      "Patient outcomes such as reduced infections or injuries"
+    ],
+    "correctIndex": 3,
+    "explanation": "Practice changes are evaluated by their effect on patient outcomes."
+  },
+  {
+    "id": "accountability_054",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which organization administers the CNOR certification?",
+    "options": [
+      "AORN, the professional association for perioperative nurses",
+      "Competency & Credentialing Institute (CCI)",
+      "ANA",
+      "TJC"
+    ],
+    "correctIndex": 1,
+    "explanation": "CCI administers the CNOR exam and certification."
+  },
+  {
+    "id": "accountability_055",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which behavior reflects professionalism?",
+    "options": [
+      "Maintaining confidentiality and respectful communication",
+      "Arriving late frequently and then making up the time later in the shift",
+      "Ignoring policies",
+      "Sharing patient stories on social media"
+    ],
+    "correctIndex": 0,
+    "explanation": "Professional behavior builds trust."
+  },
+  {
+    "id": "accountability_056",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which action supports a just culture?",
+    "options": [
+      "Hiding near misses",
+      "Ignoring all errors",
+      "Focusing on system improvements while holding people accountable for reckless behavior",
+      "Punishing all errors equally so that staff learn to avoid mistakes in the future"
+    ],
+    "correctIndex": 2,
+    "explanation": "Just culture balances learning and accountability."
+  },
+  {
+    "id": "accountability_057",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "Which situation represents reckless behavior in a just culture model?",
+    "options": [
+      "Knowingly ignoring a required safety step",
+      "Making a slip due to distraction",
+      "Using a workaround because of system issues that the unit has known about",
+      "Accidentally dropping an instrument"
+    ],
+    "correctIndex": 0,
+    "explanation": "Reckless behavior involves conscious disregard of risk."
+  },
+  {
+    "id": "accountability_058",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which practice supports patient advocacy?",
+    "options": [
+      "Ignoring patient concerns",
+      "Staying silent to avoid conflict with the surgeon or other team members",
+      "Speaking up when the patient's safety is at risk",
+      "Following unsafe orders"
+    ],
+    "correctIndex": 2,
+    "explanation": "Advocacy protects patients."
+  },
+  {
+    "id": "accountability_059",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "What is the main purpose of continuing education for perioperative nurses?",
+    "options": [
+      "To qualify for a higher hourly pay rate",
+      "To maintain competence and stay current with practice changes",
+      "To meet state requirements for hospital accreditation and the survey process",
+      "To replace the need for competency validation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Continuing education supports safe practice."
+  },
+  {
+    "id": "accountability_060",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which item is a key element of professional accountability for counts?",
+    "options": [
+      "Documenting counts before they are done",
+      "Allowing others to count without verification, to save time during the case",
+      "Skipping counts in short cases",
+      "Following count policy and documenting accurately"
+    ],
+    "correctIndex": 3,
+    "explanation": "Accurate counts are a nursing responsibility."
+  },
+  {
+    "id": "accountability_061",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "A nurse is asked to falsify a time-out record by a supervisor. What is the best response?",
+    "options": [
+      "Refuse and report through appropriate channels",
+      "Comply to avoid conflict",
+      "Ask a coworker to do it",
+      "Document a partial record and note that the time-out was started"
+    ],
+    "correctIndex": 0,
+    "explanation": "Falsification violates legal and ethical standards."
+  },
+  {
+    "id": "accountability_062",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which document allows a patient to appoint a person to make health care decisions if they become unable?",
+    "options": [
+      "Discharge instructions",
+      "Durable power of attorney for health care",
+      "A living will only, which does not name a decision-maker",
+      "Consent form"
+    ],
+    "correctIndex": 1,
+    "explanation": "A health care power of attorney designates a decision-maker."
+  },
+  {
+    "id": "accountability_063",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "A patient with a living will is unconscious during surgery and develops a complication. What should guide decisions?",
+    "options": [
+      "The surgeon's personal preferences, since the surgeon is the leader of the team",
+      "The nurse's beliefs",
+      "The hospital's budget",
+      "The patient's documented wishes and surrogate input"
+    ],
+    "correctIndex": 3,
+    "explanation": "Advance directives guide care when patients cannot speak for themselves."
+  },
+  {
+    "id": "accountability_064",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which action respects a patient's right to privacy?",
+    "options": [
+      "Allowing visitors to watch",
+      "Posting photos online",
+      "Closing doors and limiting exposure during care",
+      "Discussing the patient in public areas with other staff and visitors"
+    ],
+    "correctIndex": 2,
+    "explanation": "Privacy is a fundamental patient right."
+  },
+  {
+    "id": "accountability_065",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "During organ procurement, which ethical principle requires that donation decisions be voluntary?",
+    "options": [
+      "Autonomy",
+      "Fidelity",
+      "Nonmaleficence",
+      "Justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Donation must be voluntary and respect the patient's or family's wishes."
+  },
+  {
+    "id": "accountability_066",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which is a patient right in the perioperative setting?",
+    "options": [
+      "The right to perform their own surgery",
+      "The right to access other patients' records",
+      "The right to refuse treatment",
+      "The right to choose the OR temperature"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients may refuse treatment after being informed."
+  },
+  {
+    "id": "accountability_067",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which situation creates an ethical dilemma?",
+    "options": [
+      "A patient asks for a second warm blanket in the holding area",
+      "A case is delayed because of a late lab result",
+      "A surgeon prefers a different suture brand",
+      "A patient's wishes conflict with family requests"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ethical dilemmas involve conflicting values or obligations."
+  },
+  {
+    "id": "accountability_068",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "What is the role of an ethics committee?",
+    "options": [
+      "To schedule surgeries and assign operating rooms for the department",
+      "To provide guidance on complex ethical issues",
+      "To approve budgets",
+      "To discipline staff"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ethics committees help resolve ethical conflicts."
+  },
+  {
+    "id": "accountability_069",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "A patient with decision-making capacity refuses a life-saving procedure. What should the nurse do?",
+    "options": [
+      "Respect the decision, ensure understanding, and document",
+      "Ask the family to override the decision once the patient is sedated",
+      "Sedate the patient",
+      "Proceed anyway"
+    ],
+    "correctIndex": 0,
+    "explanation": "Competent adults may refuse treatment."
+  },
+  {
+    "id": "accountability_070",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which principle requires nurses to do good for patients?",
+    "options": [
+      "Fidelity",
+      "Justice, which means treating all patients fairly and equally",
+      "Beneficence",
+      "Veracity"
+    ],
+    "correctIndex": 2,
+    "explanation": "Beneficence means acting in the patient's best interest."
+  },
+  {
+    "id": "accountability_071",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which situation reflects a breach of confidentiality?",
+    "options": [
+      "Documenting in the chart",
+      "Discussing a patient's case with a friend outside work",
+      "Sharing information with the care team members who treat the patient",
+      "Reporting to a supervisor as required"
+    ],
+    "correctIndex": 1,
+    "explanation": "Confidentiality protects patient information."
+  },
+  {
+    "id": "accountability_072",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which statement about brain death determination is correct?",
+    "options": [
+      "It requires no testing",
+      "It is based only on family wishes",
+      "Nurses determine brain death alone, using the bedside examination",
+      "It is made according to legal and medical criteria by qualified providers"
+    ],
+    "correctIndex": 3,
+    "explanation": "Brain death determination follows established criteria."
+  },
+  {
+    "id": "accountability_073",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "A nurse disagrees with a surgeon's decision that may harm the patient. What is the best action?",
+    "options": [
+      "Raise the concern and use the chain of command if unresolved",
+      "Discuss it with the patient's family before the case has started",
+      "Refuse to work without explanation",
+      "Follow the decision silently"
+    ],
+    "correctIndex": 0,
+    "explanation": "Advocacy includes escalating concerns."
+  },
+  {
+    "id": "accountability_074",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which item is part of a patient's rights regarding medical records?",
+    "options": [
+      "The right to delete records",
+      "The right to change records without review by the health information staff",
+      "The right to access their own records according to law",
+      "The right to see other patients' records"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients have legal rights to access their records."
+  },
+  {
+    "id": "accountability_075",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which action supports culturally competent care?",
+    "options": [
+      "Assuming that all patients share the same beliefs and care preferences",
+      "Using stereotypes",
+      "Ignoring cultural needs",
+      "Asking about cultural preferences and incorporating them when possible"
+    ],
+    "correctIndex": 3,
+    "explanation": "Culturally competent care respects diversity."
+  },
+  {
+    "id": "accountability_076",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "A patient requests that their surgery not be discussed with family. What should the nurse do?",
+    "options": [
+      "Tell the family anyway",
+      "Respect the request and document it",
+      "Ignore the request",
+      "Ask the surgeon to override the request and update the family"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patients control who receives their health information."
+  },
+  {
+    "id": "accountability_077",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "Which situation may require a nurse to break confidentiality?",
+    "options": [
+      "A social media post",
+      "Mandatory reporting of abuse or certain communicable diseases",
+      "A coworker's request",
+      "A family member's curiosity about the patient's condition and recovery"
+    ],
+    "correctIndex": 1,
+    "explanation": "Law may require disclosure in specific situations."
+  },
+  {
+    "id": "accountability_078",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which principle requires nurses to avoid harm?",
+    "options": [
+      "Autonomy, which requires respect for the patient's right to decide",
+      "Justice",
+      "Fidelity",
+      "Nonmaleficence"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nonmaleficence is 'do no harm.'"
+  },
+  {
+    "id": "accountability_079",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which action demonstrates respect for autonomy?",
+    "options": [
+      "Providing information so patients can make informed choices",
+      "Withholding information",
+      "Pressuring patients",
+      "Making decisions for patients, since they do not know what is best"
+    ],
+    "correctIndex": 0,
+    "explanation": "Autonomy requires informed decision-making."
+  },
+  {
+    "id": "accountability_080",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which is an example of a moral distress situation?",
+    "options": [
+      "Disagreeing with a coworker about room setup",
+      "Being assigned to an unfamiliar specialty for a day by the manager",
+      "Being unable to act on what one believes is right because of constraints",
+      "Feeling anxious before a certification exam"
+    ],
+    "correctIndex": 2,
+    "explanation": "Moral distress occurs when constraints prevent ethical action."
+  },
+  {
+    "id": "accountability_081",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "A patient asks a nurse for personal opinion on a surgical choice. What is the best response?",
+    "options": [
+      "Provide information and support the patient's decision without imposing personal views",
+      "Tell the patient what you would do, since the patient trusts your judgment",
+      "Refuse to discuss",
+      "Tell the patient to ask the family"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nurses support informed decisions while respecting autonomy."
+  },
+  {
+    "id": "accountability_082",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which document defines what an RN is legally allowed to do?",
+    "options": [
+      "AORN Guidelines for Perioperative Practice",
+      "The ANA Code of Ethics for Nurses and its provisions for practice",
+      "The state nurse practice act and regulations",
+      "The facility's perioperative policy manual"
+    ],
+    "correctIndex": 2,
+    "explanation": "State laws define nursing scope."
+  },
+  {
+    "id": "accountability_083",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which action is outside the RN scope in most states?",
+    "options": [
+      "Developing a plan of care",
+      "Assessing patients before and after a surgical procedure",
+      "Educating patients",
+      "Prescribing medications without advanced practice authority"
+    ],
+    "correctIndex": 3,
+    "explanation": "Prescribing requires advanced practice licensure."
+  },
+  {
+    "id": "accountability_084",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "What should a nurse do if asked to perform a task not permitted by the nurse practice act?",
+    "options": [
+      "Perform it to avoid conflict and document that the task was requested",
+      "Decline and explain the scope limitation",
+      "Ignore the request",
+      "Ask a coworker to do it"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nurses must practice within legal scope."
+  },
+  {
+    "id": "accountability_085",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "A nurse moves to a new state. What is required before practicing as an RN there?",
+    "options": [
+      "A current CNOR credential from CCI",
+      "Completion of the new facility's orientation program and a skills check-off",
+      "A letter of verification from the former employer",
+      "Holding a valid license or multistate privilege recognized by that state"
+    ],
+    "correctIndex": 3,
+    "explanation": "Licensure requirements vary by state and compact status."
+  },
+  {
+    "id": "accountability_086",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which practice supports patient safety during surgery?",
+    "options": [
+      "Skipping the time-out",
+      "Leaving the room during the time-out",
+      "Participating in the time-out",
+      "Talking during the time-out"
+    ],
+    "correctIndex": 2,
+    "explanation": "Active participation ensures correct patient, procedure, and site."
+  },
+  {
+    "id": "accountability_087",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which action is appropriate if a nurse sees an unsafe practice by a surgeon?",
+    "options": [
+      "Speak up and report per policy",
+      "Wait until after the case",
+      "Discuss it only with friends outside work, so the surgeon does not hear",
+      "Ignore it"
+    ],
+    "correctIndex": 0,
+    "explanation": "Patient safety requires speaking up."
+  },
+  {
+    "id": "accountability_088",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which situation is a reportable event to the state or regulatory body in many jurisdictions?",
+    "options": [
+      "An instrument found missing from a tray before use",
+      "Wrong-site surgery",
+      "A first case starting 10 minutes late",
+      "A sterile tray opened and not used"
+    ],
+    "correctIndex": 1,
+    "explanation": "Serious adverse events are often reportable."
+  },
+  {
+    "id": "accountability_089",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "A nurse is fatigued after a long shift and is asked to stay for another case. What is the best response?",
+    "options": [
+      "Leave without notice",
+      "Agree without comment",
+      "Work the case but avoid documenting the long hours worked in the chart",
+      "Communicate fatigue and safety concerns to the manager"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fatigue increases errors; nurses should advocate for safe staffing."
+  },
+  {
+    "id": "accountability_090",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which practice helps protect patients from harm?",
+    "options": [
+      "Following policies and evidence-based guidelines",
+      "Following tradition only, since long-standing habits have proven safe",
+      "Skipping safety checks",
+      "Ignoring alarms"
+    ],
+    "correctIndex": 0,
+    "explanation": "Adherence to guidelines supports safe care."
+  },
+  {
+    "id": "accountability_091",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which action demonstrates accountability for medication safety?",
+    "options": [
+      "Giving medications without checking the label when the order is familiar",
+      "Ignoring labels",
+      "Verifying medications before administration",
+      "Relying on memory"
+    ],
+    "correctIndex": 2,
+    "explanation": "Verification prevents errors."
+  },
+  {
+    "id": "accountability_092",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which action is most appropriate when a nurse makes a medication error?",
+    "options": [
+      "Tell only a coworker and ask the coworker to keep it private",
+      "Assess the patient, notify the provider, and report the error",
+      "Hide the error",
+      "Change the record"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prompt reporting supports patient safety."
+  },
+  {
+    "id": "accountability_093",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "Which practice best supports accountability for retained surgical item prevention?",
+    "options": [
+      "Skipping counts in emergency cases without documenting the reason for the omission",
+      "Relying on the surgeon to remember",
+      "Counting only sponges",
+      "Following standardized count procedures and using adjunct technology when available"
+    ],
+    "correctIndex": 3,
+    "explanation": "Standardized practices reduce RSI risk."
+  },
+  {
+    "id": "accountability_094",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which statement best describes accountability?",
+    "options": [
+      "Avoiding feedback",
+      "Taking responsibility for one's actions and outcomes",
+      "Blaming others when a problem occurs during the procedure",
+      "Ignoring mistakes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Accountability includes ownership and learning."
+  },
+  {
+    "id": "accountability_095",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which action supports professional boundaries with patients?",
+    "options": [
+      "Maintaining therapeutic relationships and avoiding personal involvement",
+      "Sharing personal problems",
+      "Accepting large gifts",
+      "Friending patients on social media to keep in touch after discharge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Boundaries protect patients and nurses."
+  },
+  {
+    "id": "accountability_096",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which situation is an example of a conflict of interest?",
+    "options": [
+      "A nurse joins a committee",
+      "A nurse attends a professional conference paid for by the employer",
+      "A nurse receives gifts from a vendor while evaluating their products",
+      "A nurse completes education"
+    ],
+    "correctIndex": 2,
+    "explanation": "Conflicts of interest can bias decisions."
+  },
+  {
+    "id": "accountability_097",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "A nurse is asked to sign as a witness for a consent form after the patient has received sedation. What is the best action?",
+    "options": [
+      "Proceed without consent",
+      "Sign anyway",
+      "Notify the surgeon because consent may not be valid",
+      "Ask the family to sign instead, since the patient is no longer alert"
+    ],
+    "correctIndex": 2,
+    "explanation": "Consent must be obtained before sedation."
+  },
+  {
+    "id": "accountability_098",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which professional organization provides perioperative practice guidelines?",
+    "options": [
+      "AORN",
+      "EPA",
+      "FDA",
+      "OSHA"
+    ],
+    "correctIndex": 0,
+    "explanation": "AORN publishes perioperative guidelines."
+  },
+  {
+    "id": "accountability_099",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "A nurse wants to meet professional standards for charting. Which practice is expected?",
+    "options": [
+      "Documenting only when asked",
+      "Documenting before care is given to save time during busy periods",
+      "Leaving documentation for others",
+      "Documenting care accurately and in a timely manner"
+    ],
+    "correctIndex": 3,
+    "explanation": "Accurate documentation reflects care provided."
+  },
+  {
+    "id": "accountability_100",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which behavior by a staff nurse best strengthens the unit's safety culture?",
+    "options": [
+      "Blaming individuals",
+      "Reporting safety concerns and near misses",
+      "Hiding near misses so that the unit's safety record looks better",
+      "Ignoring trends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reporting allows system improvements."
+  },
+  {
+    "id": "accountability_101",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "A nurse notices a pattern of near misses involving a specific device. What is the best action?",
+    "options": [
+      "Tell only coworkers",
+      "Stop using the device without reporting it to anyone in the department",
+      "Report the pattern for review and possible system changes",
+      "Ignore it"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trend reporting helps prevent harm."
+  },
+  {
+    "id": "accountability_102",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which practice supports ethical use of social media by nurses?",
+    "options": [
+      "Posting photos with the names removed and the faces covered",
+      "Posting OR selfies with patients",
+      "Sharing case details with friends",
+      "Never posting patient information or images"
+    ],
+    "correctIndex": 3,
+    "explanation": "Patient privacy must be protected on social media."
+  },
+  {
+    "id": "accountability_103",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which action supports accountability for continuing competence?",
+    "options": [
+      "Relying on others to know",
+      "Seeking education when new technology is introduced",
+      "Using equipment without training because the vendor representative is present",
+      "Avoiding training"
+    ],
+    "correctIndex": 1,
+    "explanation": "Competence requires ongoing learning."
+  },
+  {
+    "id": "accountability_104",
+    "category": "accountability",
+    "difficulty": "medium",
+    "question": "Which situation could be considered negligence?",
+    "options": [
+      "Failing to apply a safety strap, leading to a fall",
+      "Documenting accurately",
+      "Following policy correctly and documenting the safety strap application",
+      "Reporting a near miss"
+    ],
+    "correctIndex": 0,
+    "explanation": "Negligence involves failing to meet the standard of care."
+  },
+  {
+    "id": "accountability_105",
+    "category": "accountability",
+    "difficulty": "hard",
+    "question": "Which statement about Good Samaritan laws is correct?",
+    "options": [
+      "They apply only to physicians",
+      "They give some protection for emergency care given in good faith outside the workplace",
+      "They require payment for services",
+      "They protect against all negligence claims for care given inside the hospital"
+    ],
+    "correctIndex": 1,
+    "explanation": "Protections vary by state and generally apply to off-duty emergency aid."
+  },
+  {
+    "id": "accountability_106",
+    "category": "accountability",
+    "difficulty": "easy",
+    "question": "Which practice supports accountability for patient identification?",
+    "options": [
+      "Using two identifiers before procedures",
+      "Using room number only",
+      "Skipping identification",
+      "Using the patient's diagnosis only, without checking other identifiers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Two identifiers prevent wrong-patient errors."
+  }
+]

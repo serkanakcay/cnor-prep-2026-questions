@@ -1,0 +1,1486 @@
+[
+  {
+    "id": "management_001",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which list reflects the five rights of delegation?",
+    "options": [
+      "Right task, circumstance, person, directions, and supervision/evaluation",
+      "Right bed, chart, team, tray, and implant",
+      "Right surgeon, room, case, cost, and time of day for the procedure",
+      "Right patient, drug, dose, route, and time of administration"
+    ],
+    "correctIndex": 0,
+    "explanation": "The five rights of delegation guide RNs in assigning tasks safely."
+  },
+  {
+    "id": "management_002",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which task should an RN NOT delegate to unlicensed assistive personnel?",
+    "options": [
+      "Restocking supplies",
+      "Transporting a stable patient from the holding area to the OR",
+      "Cleaning the room between cases",
+      "Performing the initial perioperative patient assessment"
+    ],
+    "correctIndex": 3,
+    "explanation": "Assessment, planning, and evaluation require nursing judgment and remain the RN's responsibility."
+  },
+  {
+    "id": "management_003",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "According to AORN's position, the circulating role should be filled by:",
+    "options": [
+      "Any surgical technologist",
+      "A patient care assistant",
+      "A registered nurse",
+      "A medical student"
+    ],
+    "correctIndex": 2,
+    "explanation": "AORN supports a perioperative RN circulator dedicated to each patient undergoing an operative or invasive procedure."
+  },
+  {
+    "id": "management_004",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "A piece of equipment malfunctions during surgery. What should the nurse do?",
+    "options": [
+      "Discard it immediately",
+      "Remove it from service, tag it, report it, and keep it for biomedical evaluation",
+      "Repair it in the room with the biomedical tools, then reuse it",
+      "Return it to storage for use in the next case after wiping it down"
+    ],
+    "correctIndex": 1,
+    "explanation": "Retaining the device and accessories supports investigation and required reporting."
+  },
+  {
+    "id": "management_005",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Under the Safe Medical Devices Act, a device-related patient death must be reported by the facility to:",
+    "options": [
+      "The FDA and the manufacturer",
+      "Only the patient's insurer and the hospital's risk management office",
+      "No one",
+      "Only the hospital board"
+    ],
+    "correctIndex": 0,
+    "explanation": "Facilities report device-related deaths to the FDA and the manufacturer; serious injuries are reported to the manufacturer (or FDA if unknown)."
+  },
+  {
+    "id": "management_006",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which department typically performs scheduled preventive maintenance on electrical OR equipment?",
+    "options": [
+      "Dietary services",
+      "Patient registration",
+      "Environmental services",
+      "Biomedical/clinical engineering"
+    ],
+    "correctIndex": 3,
+    "explanation": "Biomedical engineering inspects and maintains equipment and documents inspection status."
+  },
+  {
+    "id": "management_007",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "AORN recommends that perioperative RNs not work more than how many consecutive hours?",
+    "options": [
+      "24 hours",
+      "12 hours",
+      "16 hours",
+      "20 hours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fatigue increases errors; AORN recommends limits on consecutive hours and adequate rest between shifts."
+  },
+  {
+    "id": "management_008",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "A capital budget typically includes:",
+    "options": [
+      "Daily disposable supplies, such as drapes, gowns, and gloves for each case",
+      "Utility bills",
+      "Major equipment with a long useful life above a set cost threshold",
+      "Staff overtime pay"
+    ],
+    "correctIndex": 2,
+    "explanation": "Capital budgets cover large, durable purchases; operating budgets cover day-to-day expenses."
+  },
+  {
+    "id": "management_009",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "The primary role of a value analysis committee is to:",
+    "options": [
+      "Approve staff requests for new instruments on the spot",
+      "Select products based only on the lowest purchase cost",
+      "Negotiate surgeon block time with the OR director",
+      "Evaluate products for clinical quality, safety, outcomes, and cost"
+    ],
+    "correctIndex": 3,
+    "explanation": "Value analysis brings clinicians and supply chain together to make evidence-based product decisions."
+  },
+  {
+    "id": "management_010",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "OR 'turnover time' is commonly measured from:",
+    "options": [
+      "Patient out of the room to the next patient in the room",
+      "Anesthesia start to anesthesia end, for each individual patient in the room",
+      "Patient arrival to discharge",
+      "Incision to closure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Turnover time is a common efficiency metric reflecting cleaning and setup between cases."
+  },
+  {
+    "id": "management_011",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Before new equipment is used on patients, staff should:",
+    "options": [
+      "Learn how to use it while using it on the first patient",
+      "Receive education and have competency validated and documented",
+      "Read the box label only",
+      "Wait until a problem occurs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Competency validation reduces device-related errors."
+  },
+  {
+    "id": "management_012",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which conflict resolution approach seeks a solution that fully satisfies all parties?",
+    "options": [
+      "Avoiding",
+      "Competing",
+      "Collaborating",
+      "Accommodating"
+    ],
+    "correctIndex": 2,
+    "explanation": "Collaboration is a win-win approach that integrates both parties' concerns."
+  },
+  {
+    "id": "management_013",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which leadership style emphasizes inspiring a shared vision and motivating staff to exceed expectations?",
+    "options": [
+      "Transactional",
+      "Transformational",
+      "Autocratic",
+      "Laissez-faire"
+    ],
+    "correctIndex": 1,
+    "explanation": "Transformational leaders inspire and empower staff, often improving engagement and outcomes."
+  },
+  {
+    "id": "management_014",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "What is the primary role of a preceptor during orientation?",
+    "options": [
+      "Serve as the orientee's formal supervisor for discipline",
+      "Complete the orientee's documentation for them during their first few weeks",
+      "Guide, teach, and evaluate the new staff member's competency",
+      "Provide only clinical assignments without feedback"
+    ],
+    "correctIndex": 2,
+    "explanation": "Preceptors support competency-based orientation and socialization to the role."
+  },
+  {
+    "id": "management_015",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "In supply management, a 'par level' refers to:",
+    "options": [
+      "The predetermined quantity of an item to keep on hand",
+      "The number of items opened per procedure",
+      "The quantity needed for one month of all cases, plus a 20% buffer",
+      "The minimum quantity that triggers a recall"
+    ],
+    "correctIndex": 0,
+    "explanation": "Par levels help ensure supplies are available while controlling inventory costs."
+  },
+  {
+    "id": "management_016",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Loaner instrument sets should arrive:",
+    "options": [
+      "In the OR just before incision",
+      "Sterile and ready to use, with no inspection needed by the receiving facility",
+      "Only after the case is finished",
+      "With enough time for inspection, decontamination, and sterilization per the IFU"
+    ],
+    "correctIndex": 3,
+    "explanation": "Facilities must process loaners according to IFU; late arrival encourages unsafe shortcuts such as IUSS."
+  },
+  {
+    "id": "management_017",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "The primary purpose of an incident (event) report is to:",
+    "options": [
+      "Discipline the employee involved",
+      "Support quality improvement by identifying risks and system issues",
+      "Document in the patient's chart that an incident report was filed",
+      "Notify the media"
+    ],
+    "correctIndex": 1,
+    "explanation": "Event reports are confidential QI tools and are not referenced in the medical record."
+  },
+  {
+    "id": "management_018",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "A root cause analysis after a sentinel event focuses on:",
+    "options": [
+      "Identifying the one person to blame for the outcome of the event",
+      "Updating the staff schedule",
+      "Systems and processes that contributed to the event",
+      "Calculating cost savings"
+    ],
+    "correctIndex": 2,
+    "explanation": "RCA identifies underlying system causes and develops action plans to prevent recurrence."
+  },
+  {
+    "id": "management_019",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "What relative humidity range is generally recommended for operating rooms?",
+    "options": [
+      "20% to 60%",
+      "5% to 10%",
+      "Exactly 100%",
+      "70% to 90%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ventilation standards for ORs specify relative humidity between 20% and 60%."
+  },
+  {
+    "id": "management_020",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "Ventilation standards typically require how many total air changes per hour in an operating room?",
+    "options": [
+      "At least 6",
+      "At least 2",
+      "Exactly 100",
+      "At least 20"
+    ],
+    "correctIndex": 3,
+    "explanation": "ORs typically require at least 20 total air changes per hour, including at least 4 of outdoor air, with positive pressure."
+  },
+  {
+    "id": "management_021",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which action best reflects safe staffing practice for complex cases?",
+    "options": [
+      "Assigning staff with competencies matched to the patient's and procedure's needs",
+      "Assigning by seniority only",
+      "Assigning the newest staff to the most complex cases to build their skills quickly",
+      "Leaving the room unstaffed during breaks"
+    ],
+    "correctIndex": 0,
+    "explanation": "Staffing decisions should consider acuity, complexity, and staff competency."
+  },
+  {
+    "id": "management_022",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which task can an RN circulator appropriately delegate to a surgical technologist?",
+    "options": [
+      "Developing the nursing plan of care",
+      "Performing the initial patient assessment before the patient enters the OR",
+      "Evaluating the patient's response to care",
+      "Setting up the sterile field and passing instruments"
+    ],
+    "correctIndex": 3,
+    "explanation": "Assessment, planning, and evaluation are RN responsibilities; technical tasks may be delegated within scope."
+  },
+  {
+    "id": "management_023",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which factor is most important when assigning staff to a complex case?",
+    "options": [
+      "Staff seniority alone, regardless of the competencies needed for the case",
+      "Staff competencies matched to the procedure",
+      "Who arrived first",
+      "Staff preference only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Competency-based assignments promote safety."
+  },
+  {
+    "id": "management_024",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which leadership style involves sharing decision-making with staff?",
+    "options": [
+      "Laissez-faire",
+      "Bureaucratic",
+      "Democratic (participative)",
+      "Autocratic"
+    ],
+    "correctIndex": 2,
+    "explanation": "Participative leaders involve staff in decisions, which can increase engagement."
+  },
+  {
+    "id": "management_025",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "During an emergency, which leadership style is often most effective?",
+    "options": [
+      "Autocratic, with clear direction and rapid decisions",
+      "Laissez-faire",
+      "No leadership",
+      "Democratic, with a long group discussion before every decision is made"
+    ],
+    "correctIndex": 0,
+    "explanation": "Urgent situations require clear direction."
+  },
+  {
+    "id": "management_026",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "What is the purpose of a staff competency validation program?",
+    "options": [
+      "To reduce salaries for staff members who do not meet the standard",
+      "To ensure staff can perform skills safely",
+      "To replace orientation",
+      "To increase overtime"
+    ],
+    "correctIndex": 1,
+    "explanation": "Competency programs protect patients and staff."
+  },
+  {
+    "id": "management_027",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "A nurse delegates a task but does not check whether it was completed. Which delegation principle was missed?",
+    "options": [
+      "Right person",
+      "Right circumstance",
+      "Right task",
+      "Right supervision and evaluation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Delegation includes follow-up and evaluation."
+  },
+  {
+    "id": "management_028",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which action best supports staff retention?",
+    "options": [
+      "Limited education opportunities",
+      "Lack of feedback",
+      "Recognition, professional development, and supportive leadership",
+      "Frequent mandatory overtime that is scheduled with little or no notice"
+    ],
+    "correctIndex": 2,
+    "explanation": "Engaged staff are more likely to stay."
+  },
+  {
+    "id": "management_029",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "Which change theory step involves stabilizing the new process so it becomes the norm?",
+    "options": [
+      "Brainstorming",
+      "Unfreezing",
+      "Refreezing",
+      "Moving"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lewin's model: unfreezing, moving (change), and refreezing."
+  },
+  {
+    "id": "management_030",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which statement best describes a mentor?",
+    "options": [
+      "A person who evaluates the performance of a new employee only",
+      "A temporary assignment manager",
+      "A patient advocate",
+      "An experienced professional who supports long-term career growth"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mentors provide guidance and career support."
+  },
+  {
+    "id": "management_031",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which approach is best for handling staff conflict about scheduling?",
+    "options": [
+      "Allow the most senior person to decide the schedule without discussion",
+      "Meet with the staff involved and seek a collaborative solution",
+      "Ignore the conflict",
+      "Assign blame publicly"
+    ],
+    "correctIndex": 1,
+    "explanation": "Collaboration seeks solutions acceptable to all."
+  },
+  {
+    "id": "management_032",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "What is the main purpose of a performance evaluation?",
+    "options": [
+      "To provide feedback and set goals for growth",
+      "To reduce staff numbers during periods of lower surgical volume",
+      "To replace competency validation",
+      "To punish staff"
+    ],
+    "correctIndex": 0,
+    "explanation": "Evaluations support improvement and recognition."
+  },
+  {
+    "id": "management_033",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "A manager notices a pattern of late case starts. Which approach best identifies the cause?",
+    "options": [
+      "Blame the surgeons",
+      "Collect data and analyze the process with the team",
+      "Ignore the delays",
+      "Punish the first-case staff members who are late to the room"
+    ],
+    "correctIndex": 1,
+    "explanation": "Data-driven analysis identifies system issues."
+  },
+  {
+    "id": "management_034",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which responsibility belongs to the charge nurse in the OR?",
+    "options": [
+      "Administering anesthesia to patients in the room when the provider is on break",
+      "Writing medical orders",
+      "Coordinating staff assignments and room flow",
+      "Performing surgery"
+    ],
+    "correctIndex": 2,
+    "explanation": "Charge nurses coordinate staffing and workflow."
+  },
+  {
+    "id": "management_035",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which strategy helps reduce staff fatigue?",
+    "options": [
+      "Limiting consecutive work hours and ensuring breaks",
+      "Scheduling long shifts without breaks to reduce the number of handoffs",
+      "Removing rest periods",
+      "Encouraging double shifts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fatigue increases error risk."
+  },
+  {
+    "id": "management_036",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which action supports a culture of safety?",
+    "options": [
+      "Discouraging questions",
+      "Punishing all reports of errors and near misses to discourage mistakes",
+      "Hiding errors",
+      "Encouraging reporting of near misses without blame"
+    ],
+    "correctIndex": 3,
+    "explanation": "Reporting near misses helps prevent future harm."
+  },
+  {
+    "id": "management_037",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "Which leadership approach focuses on serving staff needs and supporting their growth?",
+    "options": [
+      "Transactional leadership",
+      "Servant leadership",
+      "Autocratic leadership",
+      "Laissez-faire leadership"
+    ],
+    "correctIndex": 1,
+    "explanation": "Servant leaders prioritize staff development and well-being."
+  },
+  {
+    "id": "management_038",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which action is part of orientation for new perioperative staff?",
+    "options": [
+      "Working without supervision on day 1 to build the new nurse's confidence",
+      "Skipping safety training",
+      "Learning policies, procedures, and competencies",
+      "Ignoring preceptor feedback"
+    ],
+    "correctIndex": 2,
+    "explanation": "Orientation provides foundational knowledge and skills."
+  },
+  {
+    "id": "management_039",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which factor is most important when determining safe staffing levels?",
+    "options": [
+      "Number of rooms open only, without regard to case complexity",
+      "Budget alone",
+      "Staff seniority only",
+      "Patient acuity and procedure complexity"
+    ],
+    "correctIndex": 3,
+    "explanation": "Staffing should match patient needs."
+  },
+  {
+    "id": "management_040",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which is a key role of a nurse manager during a staff shortage?",
+    "options": [
+      "Prioritize patient safety and adjust schedules or resources",
+      "Cancel all cases",
+      "Ignore the shortage",
+      "Require staff to work without breaks until the shortage is resolved"
+    ],
+    "correctIndex": 0,
+    "explanation": "Managers balance safety, workload, and resources."
+  },
+  {
+    "id": "management_041",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "Which outcome is most associated with high staff turnover?",
+    "options": [
+      "Increased costs and potential impact on quality",
+      "Improved team cohesion and more consistent practice across the unit",
+      "Lower training costs",
+      "Reduced errors"
+    ],
+    "correctIndex": 0,
+    "explanation": "Turnover increases orientation costs and can affect safety."
+  },
+  {
+    "id": "management_042",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which practice helps prevent use of expired supplies?",
+    "options": [
+      "Ignoring expiration dates",
+      "Using supplies until they look damaged",
+      "Regular checks and stock rotation",
+      "Storing new supplies in front"
+    ],
+    "correctIndex": 2,
+    "explanation": "Routine checks and rotation reduce waste and risk."
+  },
+  {
+    "id": "management_043",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "What is the recommended temperature range for most operating rooms?",
+    "options": [
+      "50-55 °F",
+      "About 68-75 °F (20-24 °C)",
+      "90-95 °F",
+      "80-85 °F"
+    ],
+    "correctIndex": 1,
+    "explanation": "ASHRAE and AORN guidance commonly cite 68-75 °F, adjusted for patient needs."
+  },
+  {
+    "id": "management_044",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which action is required after a device recall notice is received?",
+    "options": [
+      "Wait until the next inventory",
+      "Ignore it if the device works",
+      "Use the device until the existing supply runs out, then stop using it",
+      "Locate and remove affected devices and follow the recall instructions"
+    ],
+    "correctIndex": 3,
+    "explanation": "Recalls must be acted on promptly to protect patients."
+  },
+  {
+    "id": "management_045",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "A surgeon wants to use a new device that has not been evaluated by the facility. What is the most appropriate step?",
+    "options": [
+      "Use it immediately because the surgeon requests it",
+      "Ask the vendor to approve it",
+      "Use it on one patient to test",
+      "Follow the product evaluation process before use"
+    ],
+    "correctIndex": 3,
+    "explanation": "Product evaluation ensures safety, compatibility, and cost-effectiveness."
+  },
+  {
+    "id": "management_046",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which department is responsible for safety inspections of electrical equipment?",
+    "options": [
+      "Biomedical or clinical engineering",
+      "Admissions",
+      "Dietary",
+      "Housekeeping"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clinical engineering inspects and maintains equipment."
+  },
+  {
+    "id": "management_047",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Why are vendor representatives restricted from performing patient care?",
+    "options": [
+      "They are always unsterile",
+      "They are not allowed in the facility under any circumstances",
+      "They are not licensed or credentialed to provide care",
+      "They are too busy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Representatives can provide technical support but not direct patient care."
+  },
+  {
+    "id": "management_048",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which practice supports sustainable perioperative operations?",
+    "options": [
+      "Using single-use items for everything",
+      "Segregating waste correctly and reducing unnecessary supplies",
+      "Placing all waste in red bags",
+      "Opening all supplies on the preference card for every case, to be ready"
+    ],
+    "correctIndex": 1,
+    "explanation": "Proper waste segregation and supply optimization reduce cost and environmental impact."
+  },
+  {
+    "id": "management_049",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "A piece of equipment is found with an expired inspection sticker. What is the best action?",
+    "options": [
+      "Remove the sticker",
+      "Remove it from service and notify biomedical engineering",
+      "Use it only for short cases, when it will not be needed for long",
+      "Use it because it works"
+    ],
+    "correctIndex": 1,
+    "explanation": "Equipment must be inspected to ensure safety."
+  },
+  {
+    "id": "management_050",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which waste should be placed in a sharps container?",
+    "options": [
+      "Used needles and scalpel blades",
+      "Plastic packaging",
+      "Unused gauze",
+      "Paper towels"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sharps containers prevent injuries and exposure."
+  },
+  {
+    "id": "management_051",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "What is the main purpose of a preference card?",
+    "options": [
+      "To record staff schedules and break times for each operating room",
+      "To track patient outcomes",
+      "To document consent",
+      "To list a surgeon's instruments, supplies, and setup for a procedure"
+    ],
+    "correctIndex": 3,
+    "explanation": "Accurate preference cards reduce waste and delays."
+  },
+  {
+    "id": "management_052",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which practice is recommended for managing hazardous drugs in the OR?",
+    "options": [
+      "Avoid labeling",
+      "Handle them like any other drug",
+      "Follow handling precautions, including PPE and proper disposal",
+      "Dispose of them in the regular trash with other contaminated waste"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hazardous drugs require precautions to protect staff."
+  },
+  {
+    "id": "management_053",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "Which metric is commonly used to measure OR efficiency?",
+    "options": [
+      "On-time first case starts",
+      "Number of instruments per tray",
+      "Total supply spending per year",
+      "Number of staff in-services completed"
+    ],
+    "correctIndex": 0,
+    "explanation": "First case on-time starts and turnover time are common efficiency measures."
+  },
+  {
+    "id": "management_054",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which regulation requires employers to protect workers from bloodborne pathogens?",
+    "options": [
+      "FMLA",
+      "OSHA Bloodborne Pathogens Standard",
+      "HIPAA",
+      "EMTALA"
+    ],
+    "correctIndex": 1,
+    "explanation": "OSHA requires exposure control plans, PPE, and vaccination offers."
+  },
+  {
+    "id": "management_055",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which practice reduces the risk of needlestick injuries?",
+    "options": [
+      "Passing sharps hand to hand with the blade facing the receiver",
+      "Recapping with two hands",
+      "Using safety-engineered devices and neutral zones",
+      "Leaving needles on the field"
+    ],
+    "correctIndex": 2,
+    "explanation": "Safety devices and hands-free techniques reduce injuries."
+  },
+  {
+    "id": "management_056",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "What is the purpose of a hazard communication program?",
+    "options": [
+      "To schedule staff to work with chemicals in the department each shift",
+      "To bill patients",
+      "To track supplies",
+      "To inform staff about chemical hazards and protections"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hazard communication includes labeling, SDSs, and training."
+  },
+  {
+    "id": "management_057",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "A staff member reports a latex allergy. Which action is most appropriate for the manager?",
+    "options": [
+      "Reassign the staff member to housekeeping duties only, away from patient care",
+      "Ignore the report",
+      "Provide latex-free alternatives and review exposure risks",
+      "Require the staff member to use latex"
+    ],
+    "correctIndex": 2,
+    "explanation": "Employers must accommodate allergies and protect staff."
+  },
+  {
+    "id": "management_058",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which practice supports safe equipment use?",
+    "options": [
+      "Skipping competency validation",
+      "Training staff before they use new equipment",
+      "Relying on vendor demonstrations only",
+      "Using equipment without instructions, and learning by trial and error"
+    ],
+    "correctIndex": 1,
+    "explanation": "Training reduces errors."
+  },
+  {
+    "id": "management_059",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which action is appropriate when a supply shortage occurs?",
+    "options": [
+      "Hide the shortage",
+      "Cancel all cases without review of how the supply could be replaced",
+      "Use expired supplies",
+      "Identify alternatives and communicate with the team"
+    ],
+    "correctIndex": 3,
+    "explanation": "Communication and planning reduce disruption."
+  },
+  {
+    "id": "management_060",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "What is the purpose of preventive maintenance?",
+    "options": [
+      "To keep equipment working and reduce failures",
+      "To increase costs",
+      "To replace all of the equipment every year, whether it is working or not",
+      "To avoid using equipment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Preventive maintenance improves reliability and safety."
+  },
+  {
+    "id": "management_061",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "Which is a key consideration when selecting a supply vendor?",
+    "options": [
+      "The number of sales representatives assigned",
+      "The lowest unit price regardless of quality",
+      "Quality, reliability, and total cost of ownership",
+      "The vendor's proximity to the hospital"
+    ],
+    "correctIndex": 2,
+    "explanation": "Value analysis considers quality and long-term costs."
+  },
+  {
+    "id": "management_062",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which expense is part of an operating budget?",
+    "options": [
+      "Staff salaries and routine supplies",
+      "Building a new OR suite",
+      "A new robotic surgical system with a purchase price of several hundred thousand dollars",
+      "Purchasing land"
+    ],
+    "correctIndex": 0,
+    "explanation": "Operating budgets include day-to-day expenses; large purchases are capital expenses."
+  },
+  {
+    "id": "management_063",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which action best reduces supply costs without compromising safety?",
+    "options": [
+      "Buying the cheapest products without review",
+      "Standardizing products through value analysis",
+      "Opening extra supplies just in case they are needed during the case",
+      "Avoiding product evaluation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Standardization can reduce costs and variation while maintaining quality."
+  },
+  {
+    "id": "management_064",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "What is the main purpose of OR utilization metrics?",
+    "options": [
+      "To measure surgical site infection rates",
+      "To evaluate individual staff performance",
+      "To determine instrument reprocessing times",
+      "To assess how efficiently OR time is used"
+    ],
+    "correctIndex": 3,
+    "explanation": "Utilization helps managers plan block time and staffing."
+  },
+  {
+    "id": "management_065",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "Which quality improvement tool is used to identify root causes by categories such as people, methods, and equipment?",
+    "options": [
+      "Pareto chart",
+      "Fishbone (Ishikawa) diagram",
+      "Gantt chart",
+      "Histogram"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fishbone diagrams organize potential causes into categories."
+  },
+  {
+    "id": "management_066",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which agency accredits many hospitals in the United States?",
+    "options": [
+      "OSHA",
+      "FDA",
+      "EPA",
+      "The Joint Commission"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Joint Commission accredits hospitals and other health care organizations."
+  },
+  {
+    "id": "management_067",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which agency sets Conditions of Participation for hospitals that receive Medicare funding?",
+    "options": [
+      "Centers for Medicare & Medicaid Services (CMS)",
+      "FDA",
+      "CDC",
+      "OSHA"
+    ],
+    "correctIndex": 0,
+    "explanation": "CMS Conditions of Participation must be met to receive Medicare and Medicaid payments."
+  },
+  {
+    "id": "management_068",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "What is the purpose of a Pareto chart in quality improvement?",
+    "options": [
+      "To display patient demographics",
+      "To show staff schedules",
+      "To identify the few causes responsible for most problems",
+      "To track the progress of a project over time against its milestones"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pareto analysis focuses improvement on the most significant causes."
+  },
+  {
+    "id": "management_069",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "A FMEA (Failure Mode and Effects Analysis) is best described as:",
+    "options": [
+      "A staff evaluation tool",
+      "A budget planning method",
+      "A review done after a sentinel event only, to find the person at fault",
+      "A proactive method to identify potential failures before they occur"
+    ],
+    "correctIndex": 3,
+    "explanation": "FMEA identifies risks in processes and prioritizes prevention."
+  },
+  {
+    "id": "management_070",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "What is the purpose of an incident report?",
+    "options": [
+      "To discipline staff",
+      "To document events for quality improvement and risk management",
+      "To bill the patient",
+      "To include in the patient's medical chart as part of the legal record"
+    ],
+    "correctIndex": 1,
+    "explanation": "Incident reports help identify trends and prevent future harm."
+  },
+  {
+    "id": "management_071",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which action is appropriate after a near miss?",
+    "options": [
+      "Hide it from the manager",
+      "Discuss it only with coworkers",
+      "Report it so system improvements can be made",
+      "Ignore it because no harm reached the patient on this occasion"
+    ],
+    "correctIndex": 2,
+    "explanation": "Near misses reveal hazards before harm occurs."
+  },
+  {
+    "id": "management_072",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which metric reflects patient safety in the OR?",
+    "options": [
+      "Rate of retained surgical items",
+      "Supply cost per case",
+      "Average turnover time only",
+      "Number of staff meetings"
+    ],
+    "correctIndex": 0,
+    "explanation": "Safety metrics track adverse events and near misses."
+  },
+  {
+    "id": "management_073",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "Which concept describes holding a block of OR time for a surgeon or service?",
+    "options": [
+      "Turnover time",
+      "Open scheduling only",
+      "Block scheduling",
+      "Case cart system"
+    ],
+    "correctIndex": 2,
+    "explanation": "Block scheduling allocates OR time to specific surgeons or services."
+  },
+  {
+    "id": "management_074",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which practice supports regulatory compliance?",
+    "options": [
+      "Ignoring audits",
+      "Changing records after a review so that they match the policy",
+      "Skipping training",
+      "Following policies and maintaining accurate documentation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Compliance requires adherence to policies and accurate records."
+  },
+  {
+    "id": "management_075",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which action is best when a staff member repeatedly violates policy?",
+    "options": [
+      "Publicly shame the staff member in front of the team at the staff meeting",
+      "Provide feedback and follow progressive discipline per policy",
+      "Change the policy",
+      "Ignore the behavior"
+    ],
+    "correctIndex": 1,
+    "explanation": "Consistent policy enforcement supports accountability."
+  },
+  {
+    "id": "management_076",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which data source is useful for identifying trends in surgical site infections?",
+    "options": [
+      "Infection surveillance reports",
+      "OR turnover time reports",
+      "Monthly supply usage reports",
+      "Sterilizer mechanical printouts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Surveillance data guide infection prevention efforts."
+  },
+  {
+    "id": "management_077",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "Which management strategy reduces case cancellations on the day of surgery?",
+    "options": [
+      "Preoperative screening and optimization programs",
+      "Scheduling more cases than there are rooms and staff available that day",
+      "Avoiding patient education",
+      "Ignoring abnormal lab results"
+    ],
+    "correctIndex": 0,
+    "explanation": "Preoperative evaluation identifies issues before surgery."
+  },
+  {
+    "id": "management_078",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which practice supports cost-effective care?",
+    "options": [
+      "Discarding unused items",
+      "Opening supplies only when needed",
+      "Ordering duplicate supplies",
+      "Opening all supplies on the preference card regardless of need"
+    ],
+    "correctIndex": 1,
+    "explanation": "Avoiding unnecessary opening reduces waste."
+  },
+  {
+    "id": "management_079",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "What is the purpose of benchmarking in perioperative management?",
+    "options": [
+      "Setting individual staff salary levels from regional pay survey results",
+      "Replacing internal quality audits",
+      "Comparing performance with best practices or peers",
+      "Ranking surgeons by case volume"
+    ],
+    "correctIndex": 2,
+    "explanation": "Benchmarking identifies improvement opportunities."
+  },
+  {
+    "id": "management_080",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which measure helps evaluate staff engagement?",
+    "options": [
+      "Patient wristbands",
+      "Sterilizer printouts",
+      "Instrument count sheets",
+      "Staff satisfaction surveys"
+    ],
+    "correctIndex": 3,
+    "explanation": "Surveys provide insight into staff morale and engagement."
+  },
+  {
+    "id": "management_081",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "Which approach best supports evidence-based policy updates?",
+    "options": [
+      "Making changes without communication",
+      "Copying policies from another hospital without reviewing them for local practice",
+      "Reviewing current research and guidelines and involving stakeholders",
+      "Using outdated policies"
+    ],
+    "correctIndex": 2,
+    "explanation": "Evidence-based updates improve care quality."
+  },
+  {
+    "id": "management_082",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which practice reduces musculoskeletal injuries in perioperative staff?",
+    "options": [
+      "Lifting heavy instrument trays alone to save time between cases",
+      "Using ergonomic equipment and safe patient handling devices",
+      "Standing in awkward positions",
+      "Avoiding breaks"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ergonomics reduces strain and injuries."
+  },
+  {
+    "id": "management_083",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which action is appropriate after a staff member has a needlestick injury?",
+    "options": [
+      "Wash the area, report immediately, and follow post-exposure protocol",
+      "Ignore it if the patient appears healthy and has no known infection",
+      "Wait until the end of the shift",
+      "Apply bleach to the wound"
+    ],
+    "correctIndex": 0,
+    "explanation": "Prompt reporting allows timely evaluation and prophylaxis."
+  },
+  {
+    "id": "management_084",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which factor is most important in preventing workplace violence?",
+    "options": [
+      "Removing security staff",
+      "Allowing weapons in the OR for staff who have a permit to carry them",
+      "Ignoring threats",
+      "Training staff in de-escalation and having security plans"
+    ],
+    "correctIndex": 3,
+    "explanation": "Prevention programs and training improve safety."
+  },
+  {
+    "id": "management_085",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "A staff member reports frequent headaches after working in rooms with high surgical smoke. What should the manager do?",
+    "options": [
+      "Ignore the report",
+      "Tell the staff member to wear a regular surgical mask during the case",
+      "Review smoke evacuation practices and ensure proper equipment use",
+      "Close the OR permanently"
+    ],
+    "correctIndex": 2,
+    "explanation": "Smoke evacuation reduces exposure and symptoms."
+  },
+  {
+    "id": "management_086",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which PPE protects against splashes to the face?",
+    "options": [
+      "Lab coat only",
+      "Face shield or goggles with a mask",
+      "Hair cover only",
+      "Shoe covers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eye and face protection prevents mucous membrane exposure."
+  },
+  {
+    "id": "management_087",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which practice is recommended for staff working with lasers?",
+    "options": [
+      "Standard prescription eyeglasses",
+      "Protective eyewear for the laser operator only, with none for the rest of the staff",
+      "Tinted safety glasses of any wavelength",
+      "Wavelength-specific eye protection and laser safety training"
+    ],
+    "correctIndex": 3,
+    "explanation": "Laser safety protects staff from eye injuries."
+  },
+  {
+    "id": "management_088",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which action supports staff wellness?",
+    "options": [
+      "Providing access to employee assistance programs",
+      "Removing breaks",
+      "Increasing mandatory overtime when the unit is short on staff",
+      "Discouraging time off"
+    ],
+    "correctIndex": 0,
+    "explanation": "Support programs help staff cope with stress."
+  },
+  {
+    "id": "management_089",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which regulation protects patient privacy and applies to staff handling health information?",
+    "options": [
+      "EMTALA",
+      "HIPAA",
+      "OSHA",
+      "ADA"
+    ],
+    "correctIndex": 1,
+    "explanation": "HIPAA sets standards for protecting health information."
+  },
+  {
+    "id": "management_090",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which item is required for staff exposed to bloodborne pathogens?",
+    "options": [
+      "An offer of hepatitis B vaccination",
+      "Daily blood tests",
+      "Annual chest x-rays",
+      "No vaccination"
+    ],
+    "correctIndex": 0,
+    "explanation": "Employers must offer hepatitis B vaccination."
+  },
+  {
+    "id": "management_091",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which is a primary purpose of an orientation checklist?",
+    "options": [
+      "Replacing competency validation",
+      "Assigning the orientee's first cases",
+      "Shortening the orientation period by combining the required topics",
+      "Ensuring all required content is covered"
+    ],
+    "correctIndex": 3,
+    "explanation": "Checklists support consistent orientation."
+  },
+  {
+    "id": "management_092",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which practice reduces noise-related stress in the OR?",
+    "options": [
+      "Leaving doors open",
+      "Ignoring alarms",
+      "Limiting unnecessary conversation and alarms",
+      "Playing loud music at all times so that alarms can be heard over it"
+    ],
+    "correctIndex": 2,
+    "explanation": "Noise control improves communication and reduces stress."
+  },
+  {
+    "id": "management_093",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "Which staffing approach helps manage unexpected surges in surgical cases?",
+    "options": [
+      "Assigning untrained staff",
+      "Using an on-call or float pool system",
+      "Requiring staff to work without breaks",
+      "Cancelling all elective cases permanently"
+    ],
+    "correctIndex": 1,
+    "explanation": "Flexible staffing models respond to surges."
+  },
+  {
+    "id": "management_094",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which practice is most important for staff handling hazardous chemicals?",
+    "options": [
+      "Mixing chemicals together for convenience before the start of the case",
+      "Using chemicals without labels",
+      "Reviewing the Safety Data Sheet and using recommended PPE",
+      "Ignoring spills"
+    ],
+    "correctIndex": 2,
+    "explanation": "SDSs provide safety information."
+  },
+  {
+    "id": "management_095",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "What is the purpose of an exposure control plan?",
+    "options": [
+      "To track instrument sets",
+      "To manage budgets",
+      "To schedule staff",
+      "To outline steps to reduce exposure to bloodborne pathogens"
+    ],
+    "correctIndex": 3,
+    "explanation": "Exposure control plans are required by OSHA."
+  },
+  {
+    "id": "management_096",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which practice supports safe handling of specimens with formalin?",
+    "options": [
+      "Using closed containers and ventilation",
+      "Storing formalin above eye level in the OR",
+      "Pouring formalin in an open basin in the OR",
+      "Using latex gloves for all formalin contact"
+    ],
+    "correctIndex": 0,
+    "explanation": "Formalin is a hazardous chemical; exposure should be minimized."
+  },
+  {
+    "id": "management_097",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "A staff member is consistently late. What is the best initial management approach?",
+    "options": [
+      "Meet privately to discuss expectations and reasons",
+      "Discuss it in a staff meeting so that the others learn from it",
+      "Fire the staff member immediately",
+      "Ignore the issue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Private discussion addresses the issue and identifies solutions."
+  },
+  {
+    "id": "management_098",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which practice supports staff education?",
+    "options": [
+      "Relying on rumor",
+      "Avoiding feedback",
+      "Skipping training",
+      "Providing in-services on new equipment"
+    ],
+    "correctIndex": 3,
+    "explanation": "In-services ensure staff understand new equipment."
+  },
+  {
+    "id": "management_099",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which management tool helps schedule staff to match case volume?",
+    "options": [
+      "Staff preference only, with no regard for the case volume",
+      "Workforce planning and scheduling software",
+      "Random assignment",
+      "Seniority only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Scheduling tools align staffing with demand."
+  },
+  {
+    "id": "management_100",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which item should be included in emergency preparedness planning for the OR?",
+    "options": [
+      "Only a list of surgeon contact numbers and the on-call schedule for the month",
+      "Only the evacuation route map",
+      "Staff roles, communication plans, and backup resources",
+      "Only the fire extinguisher locations"
+    ],
+    "correctIndex": 2,
+    "explanation": "Preparedness plans ensure effective responses."
+  },
+  {
+    "id": "management_101",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "Which approach best addresses repeated equipment failures?",
+    "options": [
+      "Analyze failure data and work with biomedical engineering and vendors",
+      "Ignore the failures",
+      "Blame staff",
+      "Continue using the equipment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Data analysis identifies root causes and solutions."
+  },
+  {
+    "id": "management_102",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "Which practice helps keep OR traffic to a minimum?",
+    "options": [
+      "Allowing visitors to enter freely",
+      "Limiting the number of people in the room to those needed",
+      "Leaving doors open",
+      "Encouraging frequent entries and exits during the case to move supplies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reduced traffic lowers airborne contamination."
+  },
+  {
+    "id": "management_103",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "Which item should be included in a case cart system?",
+    "options": [
+      "Staff assignments for the procedure",
+      "Sterilizer biological indicator results",
+      "Supplies and instruments for a specific procedure",
+      "The patient's consent form and full medical history for the procedure"
+    ],
+    "correctIndex": 2,
+    "explanation": "Case carts improve efficiency and reduce errors."
+  },
+  {
+    "id": "management_104",
+    "category": "management",
+    "difficulty": "medium",
+    "question": "What is the purpose of a downtime procedure for electronic systems?",
+    "options": [
+      "To stop all surgeries",
+      "To delete records",
+      "To shut down the OR and reschedule all cases until the system is restored",
+      "To continue documentation and care during system outages"
+    ],
+    "correctIndex": 3,
+    "explanation": "Downtime procedures maintain continuity of care."
+  },
+  {
+    "id": "management_105",
+    "category": "management",
+    "difficulty": "hard",
+    "question": "Which approach best evaluates whether a new practice improved outcomes?",
+    "options": [
+      "Compare outcome data before and after implementation",
+      "Ask the staff if they like the new practice, then keep it if they do",
+      "Review the budget only",
+      "Assume it worked"
+    ],
+    "correctIndex": 0,
+    "explanation": "Outcome measurement determines effectiveness."
+  },
+  {
+    "id": "management_106",
+    "category": "management",
+    "difficulty": "easy",
+    "question": "A surgical services department wants every piece of portable equipment to be locatable and maintained. Which practice helps?",
+    "options": [
+      "Ignoring missing items",
+      "Storing equipment in hallways",
+      "Maintaining an inventory log and tracking system",
+      "Allowing equipment to leave the department without records of where it went"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tracking ensures availability and maintenance."
+  }
+]

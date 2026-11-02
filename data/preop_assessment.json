@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "preop_assessment_001",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which preoperative lab value should be reported to the surgeon and anesthesia professional before an elective procedure?",
+    "options": [
+      "Hemoglobin of 13.5 g/dL",
+      "Fasting glucose of 92 mg/dL",
+      "Serum potassium of 2.9 mEq/L",
+      "Serum sodium of 140 mEq/L"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hypokalemia increases the risk of cardiac dysrhythmias under anesthesia and may require correction before elective surgery. The other values are within normal limits."
+  },
+  {
+    "id": "preop_assessment_002",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient taking warfarin is scheduled for elective surgery. Which laboratory result is most important to review?",
+    "options": [
+      "INR",
+      "TSH",
+      "BUN",
+      "Serum amylase"
+    ],
+    "correctIndex": 0,
+    "explanation": "Warfarin is monitored with the PT/INR. An elevated INR indicates increased bleeding risk and may delay surgery or require reversal."
+  },
+  {
+    "id": "preop_assessment_003",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Under ASA fasting guidance for healthy patients having elective anesthesia, clear liquids are generally permitted until how long before the procedure?",
+    "options": [
+      "12 hours",
+      "2 hours",
+      "30 minutes",
+      "6 hours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Current ASA guidance allows clear liquids up to 2 hours before elective procedures for healthy patients; light meals 6 hours and fatty meals 8 hours."
+  },
+  {
+    "id": "preop_assessment_004",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient reports allergic reactions to bananas, avocados, and kiwi. The perioperative nurse should suspect which additional sensitivity?",
+    "options": [
+      "Propofol",
+      "Chlorhexidine",
+      "Iodine",
+      "Natural rubber latex"
+    ],
+    "correctIndex": 3,
+    "explanation": "Latex-fruit syndrome describes cross-reactivity between latex proteins and foods such as banana, avocado, kiwi, and chestnut. A latex-safe plan should be considered."
+  },
+  {
+    "id": "preop_assessment_005",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which tool is most appropriate for assessing a surgical patient's risk of developing a pressure injury?",
+    "options": [
+      "Braden Scale",
+      "Apgar score",
+      "Glasgow Coma Scale",
+      "Aldrete score"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Braden Scale assesses sensory perception, moisture, activity, mobility, nutrition, and friction/shear to estimate pressure injury risk."
+  },
+  {
+    "id": "preop_assessment_006",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "The modified Aldrete score is primarily used to determine:",
+    "options": [
+      "Depth of intraoperative anesthesia",
+      "Readiness for discharge from Phase I PACU",
+      "Preoperative anxiety level",
+      "Risk of postoperative falls"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Aldrete score rates activity, respiration, circulation, consciousness, and oxygen saturation to judge readiness to leave Phase I recovery."
+  },
+  {
+    "id": "preop_assessment_007",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "During the preoperative interview, a patient states that a parent had a 'very high fever' and nearly died during surgery. What is the nurse's priority action?",
+    "options": [
+      "Proceed as usual because the reaction is not inherited and will not affect this patient",
+      "Cool the patient to 35 °C with surface cooling before induction to blunt any metabolic response",
+      "Notify the anesthesia professional so a trigger-free anesthetic can be planned",
+      "Administer dantrolene preoperatively on the basis of nursing judgment, to prevent any reaction"
+    ],
+    "correctIndex": 2,
+    "explanation": "This history suggests malignant hyperthermia susceptibility, which is inherited. Anesthesia must be informed to avoid triggering agents and prepare MH supplies."
+  },
+  {
+    "id": "preop_assessment_008",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which preoperative finding most increases the risk of postoperative pulmonary complications?",
+    "options": [
+      "Well-controlled hypothyroidism on levothyroxine",
+      "Age of 35 years with no chronic conditions",
+      "Body mass index of 23 with regular exercise",
+      "Current smoker with a 40 pack-year history"
+    ],
+    "correctIndex": 3,
+    "explanation": "Heavy smoking impairs mucociliary clearance and increases secretions, raising the risk of atelectasis and pneumonia after surgery."
+  },
+  {
+    "id": "preop_assessment_009",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Before administering a preoperative sedative, the nurse must verify that:",
+    "options": [
+      "The postoperative bed has been assigned by bed control",
+      "Informed consent has been obtained and documented",
+      "The surgical site has been prepped and draped",
+      "The patient's family has left the preoperative area"
+    ],
+    "correctIndex": 1,
+    "explanation": "Consent must be obtained while the patient is competent and not under the influence of sedating medications."
+  },
+  {
+    "id": "preop_assessment_010",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient's home medications include several supplements. Which one should be flagged for increased bleeding risk?",
+    "options": [
+      "Psyllium fiber",
+      "Calcium carbonate",
+      "Vitamin C",
+      "Ginkgo biloba"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ginkgo biloba can inhibit platelet aggregation and increase bleeding risk; it is typically stopped before surgery per provider instruction."
+  },
+  {
+    "id": "preop_assessment_011",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A postoperative patient receiving opioids is difficult to arouse, has a respiratory rate of 7 per minute, and has pinpoint pupils. What is the first action?",
+    "options": [
+      "Stimulate the patient, support ventilation, and prepare naloxone per protocol",
+      "Increase the PCA dose because severe uncontrolled pain is likely causing the distress",
+      "Document findings and reassess in one hour once the opioid has had time to wear off",
+      "Place the patient in Trendelenburg position, recheck vital signs in 15 minutes, and notify the provider if there is no change"
+    ],
+    "correctIndex": 0,
+    "explanation": "These signs indicate opioid-induced respiratory depression. Airway and ventilation come first, followed by naloxone per order or protocol."
+  },
+  {
+    "id": "preop_assessment_012",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which of the following is NOT a component of The Joint Commission's Universal Protocol?",
+    "options": [
+      "Preprocedure verification",
+      "Performing a time-out",
+      "Final surgical count",
+      "Marking the procedure site"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Universal Protocol consists of preprocedure verification, site marking, and the time-out. Counts are essential but are a separate safety process."
+  },
+  {
+    "id": "preop_assessment_013",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Who should mark the surgical site when site marking is required?",
+    "options": [
+      "The practitioner doing the procedure or a designee per policy, with the patient involved",
+      "The scrub person, after the patient is positioned and draped",
+      "The circulating nurse alone, after the patient has received sedation in the holding area",
+      "The patient alone in the preoperative area, using a marker provided by the nurse, before any sedation is given"
+    ],
+    "correctIndex": 0,
+    "explanation": "Site marking is done by the licensed practitioner accountable for the procedure (or a policy-approved designee), ideally with the patient awake and involved."
+  },
+  {
+    "id": "preop_assessment_014",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "The nursing diagnosis 'Risk for perioperative positioning injury' is MOST relevant for which patient?",
+    "options": [
+      "A 40-year-old with a normal BMI having a 15-minute closed reduction",
+      "A healthy 30-year-old with no comorbidities having cataract surgery",
+      "A 25-year-old with a normal BMI having a 20-minute supine excision",
+      "An 80-year-old with a BMI of 42 having a 5-hour prone spine case"
+    ],
+    "correctIndex": 3,
+    "explanation": "Advanced age, obesity, long procedure time, and prone positioning all increase the risk of pressure and nerve injury."
+  },
+  {
+    "id": "preop_assessment_015",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "What is the generally accepted minimum hourly urine output for an adult in the postoperative period?",
+    "options": [
+      "3 mL/kg/hour",
+      "0.05 mL/kg/hour",
+      "0.5 mL/kg/hour",
+      "5 mL/hour"
+    ],
+    "correctIndex": 2,
+    "explanation": "Urine output of at least 0.5 mL/kg/hour (about 30 mL/hour for many adults) suggests adequate renal perfusion."
+  },
+  {
+    "id": "preop_assessment_016",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "The STOP-BANG questionnaire is used preoperatively to screen for:",
+    "options": [
+      "Alcohol withdrawal risk",
+      "Obstructive sleep apnea",
+      "Deep vein thrombosis",
+      "Postoperative nausea and vomiting"
+    ],
+    "correctIndex": 1,
+    "explanation": "STOP-BANG (Snoring, Tiredness, Observed apnea, Pressure, BMI, Age, Neck circumference, Gender) identifies patients at risk for OSA."
+  },
+  {
+    "id": "preop_assessment_017",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which approach is most appropriate for assessing pain in a nonverbal, intubated adult?",
+    "options": [
+      "Asking the family to rate the pain on a 0-10 scale",
+      "A numeric 0-10 self-report scale used at the bedside",
+      "A validated behavioral pain tool such as the CPOT",
+      "The Morse Fall Scale, scored at each shift change"
+    ],
+    "correctIndex": 2,
+    "explanation": "When patients cannot self-report, validated behavioral tools (for example, the Critical-Care Pain Observation Tool) are used."
+  },
+  {
+    "id": "preop_assessment_018",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which tool is commonly used to assess a patient's risk of falling?",
+    "options": [
+      "Morse Fall Scale",
+      "Richmond Agitation-Sedation Scale",
+      "Braden Scale",
+      "Mallampati classification"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Morse Fall Scale scores history of falls, secondary diagnosis, ambulatory aid, IV access, gait, and mental status."
+  },
+  {
+    "id": "preop_assessment_019",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which assessment cluster in the PACU most strongly suggests postoperative hemorrhage?",
+    "options": [
+      "Normal heart rate, fever, and productive cough",
+      "Hypertension, bradycardia, and irregular respirations",
+      "Bradycardia, hypertension, and warm dry skin",
+      "Tachycardia, hypotension, and restlessness"
+    ],
+    "correctIndex": 3,
+    "explanation": "Early hypovolemia from bleeding causes compensatory tachycardia, falling blood pressure, anxiety or restlessness, and cool clammy skin."
+  },
+  {
+    "id": "preop_assessment_020",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which long-term home medication most often prompts the team to consider perioperative 'stress-dose' coverage?",
+    "options": [
+      "Omeprazole",
+      "Prednisone",
+      "Atorvastatin",
+      "Levothyroxine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chronic corticosteroid use can suppress the adrenal axis; patients may need supplemental steroids to respond to surgical stress."
+  },
+  {
+    "id": "preop_assessment_021",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient with type 1 diabetes has a preoperative point-of-care glucose of 52 mg/dL. What should the nurse do?",
+    "options": [
+      "Give the scheduled morning insulin dose and recheck the glucose after induction",
+      "Treat the hypoglycemia per protocol and notify the anesthesia professional",
+      "Have the patient drink a glass of milk and then wait 4 hours before reassessing",
+      "Proceed to the OR and recheck the glucose in the PACU after the procedure"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hypoglycemia must be treated promptly (often IV dextrose in an NPO patient) and communicated, because anesthesia can mask its signs."
+  },
+  {
+    "id": "preop_assessment_022",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "The ASA Physical Status classification is used to describe:",
+    "options": [
+      "The wound contamination class assigned at closure",
+      "The surgeon's level of experience with the procedure",
+      "The expected length of surgery and anesthesia time",
+      "The patient's preanesthesia medical condition"
+    ],
+    "correctIndex": 3,
+    "explanation": "ASA I-VI describes overall physical status from a healthy patient (I) to a brain-dead organ donor (VI); 'E' denotes an emergency."
+  },
+  {
+    "id": "preop_assessment_023",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which preoperative platelet count should the nurse report as a significant bleeding risk before a major elective procedure?",
+    "options": [
+      "210,000/mm3",
+      "320,000/mm3",
+      "40,000/mm3",
+      "165,000/mm3"
+    ],
+    "correctIndex": 2,
+    "explanation": "A normal platelet count is roughly 150,000-450,000/mm3. A count well below 50,000/mm3 markedly increases surgical bleeding risk and must be reported."
+  },
+  {
+    "id": "preop_assessment_024",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Hemoglobin A1c is reviewed preoperatively because it reflects:",
+    "options": [
+      "Average glucose control over roughly the previous 3 months",
+      "Insulin sensitivity and glucose swings during the past 24 hours",
+      "The risk of hypoglycemia during the anesthetic later today",
+      "The blood glucose level at the exact moment of sampling"
+    ],
+    "correctIndex": 0,
+    "explanation": "A1c reflects glycemic control over the lifespan of red blood cells (about 3 months). Elevated values are associated with higher surgical site infection and wound complication risk."
+  },
+  {
+    "id": "preop_assessment_025",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient taking a sodium-glucose cotransporter-2 (SGLT2) inhibitor is scheduled for elective surgery. Which perioperative complication is the main reason these drugs are held beforehand?",
+    "options": [
+      "Serotonin syndrome from opioid interactions",
+      "Prolonged neuromuscular blockade after reversal",
+      "Euglycemic diabetic ketoacidosis",
+      "Malignant hyperthermia triggered by volatile agents"
+    ],
+    "correctIndex": 2,
+    "explanation": "SGLT2 inhibitors can cause ketoacidosis with normal or only mildly elevated glucose, especially with fasting and surgical stress, so they are typically stopped several days before elective surgery per the prescriber."
+  },
+  {
+    "id": "preop_assessment_026",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient who takes a weekly GLP-1 receptor agonist (such as semaglutide) is scheduled for surgery. What is the main anesthesia-related concern the nurse should communicate?",
+    "options": [
+      "Increased surgical bleeding caused by platelet inhibition",
+      "Resistance to the effects of local anesthetics",
+      "Severe hyperkalemia at the time of induction",
+      "Delayed gastric emptying with higher aspiration risk"
+    ],
+    "correctIndex": 3,
+    "explanation": "GLP-1 receptor agonists slow gastric emptying, so retained gastric contents are possible despite fasting. The anesthesia professional should know the drug and the last dose."
+  },
+  {
+    "id": "preop_assessment_027",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient who had a drug-eluting coronary stent placed 3 months ago takes aspirin and clopidogrel and is scheduled for elective hernia repair. What is the nurse's best action?",
+    "options": [
+      "Instruct the patient to stop both antiplatelet drugs 7 days before surgery to lower the risk of bleeding",
+      "Notify the surgeon and anesthesia so timing and antiplatelet plans are set with cardiology",
+      "Tell the patient to stop aspirin and continue clopidogrel until the day of surgery",
+      "Proceed without changes because hernia repair is a low-risk procedure"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stopping dual antiplatelet therapy soon after stent placement greatly increases the risk of stent thrombosis. Elective surgery is often postponed, and any change must be coordinated with cardiology."
+  },
+  {
+    "id": "preop_assessment_028",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient reports a previous episode of prolonged paralysis and need for a ventilator after receiving succinylcholine. Which condition does this history suggest?",
+    "options": [
+      "Pseudocholinesterase (butyrylcholinesterase) deficiency",
+      "Malignant hyperthermia susceptibility with delayed onset",
+      "Allergy to local anesthetics with respiratory involvement",
+      "Myasthenia gravis with a postoperative crisis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Reduced plasma cholinesterase activity prolongs the action of succinylcholine and mivacurium, leading to extended apnea. Anesthesia must be informed so alternative agents can be used."
+  },
+  {
+    "id": "preop_assessment_029",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "The Mallampati classification is used during the preanesthesia assessment to estimate:",
+    "options": [
+      "Potential difficulty with airway management and intubation",
+      "The degree of preoperative dehydration before induction",
+      "The patient's risk of developing postoperative delirium",
+      "The likelihood of postoperative urinary retention afterward"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Mallampati class is based on visibility of oropharyngeal structures with the mouth open; higher classes suggest a more difficult airway."
+  },
+  {
+    "id": "preop_assessment_030",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which combination of factors gives a patient the highest Apfel risk score for postoperative nausea and vomiting?",
+    "options": [
+      "Female smoker without motion sickness who will receive no postoperative opioids",
+      "Female nonsmoker with prior PONV who will receive postoperative opioids",
+      "Male nonsmoker with no PONV history who will not receive postoperative opioids",
+      "Male smoker having a short procedure under regional anesthesia with no opioids"
+    ],
+    "correctIndex": 1,
+    "explanation": "The simplified Apfel score counts female sex, nonsmoking status, history of PONV or motion sickness, and expected postoperative opioids. Each factor raises risk."
+  },
+  {
+    "id": "preop_assessment_031",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient reports a severe reaction to a chlorhexidine-containing mouthwash. Which action is most important before the procedure?",
+    "options": [
+      "Premedicate the patient with an antihistamine and proceed with all of the standard prep products and catheters",
+      "Remove the allergy from the record because such reactions are very rare",
+      "Use chlorhexidine skin prep as usual because the reaction was only oral",
+      "Document the allergy and alert the team so chlorhexidine-free products are used"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chlorhexidine can cause anaphylaxis, and it is present in skin preps, catheters, and lubricants. All team members must know so exposure is avoided."
+  },
+  {
+    "id": "preop_assessment_032",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient states a seafood allergy and asks whether povidone-iodine prep is safe. Which response reflects current evidence?",
+    "options": [
+      "Shellfish allergy is an absolute contraindication to all iodine-containing skin antiseptics",
+      "Povidone-iodine is manufactured from shellfish protein, so it carries the same allergen and must be avoided",
+      "Shellfish allergy alone does not rule out iodine antiseptics; report any prior reaction to the prep",
+      "Iodine allergy and shellfish allergy are the same condition and are treated alike"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shellfish allergy is caused by proteins such as tropomyosin, not iodine. A history of reacting to an iodine product itself is still relevant and should be communicated."
+  },
+  {
+    "id": "preop_assessment_033",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient with an implanted cardioverter-defibrillator (ICD) will have surgery above the umbilicus using monopolar electrosurgery. What is the priority preoperative step?",
+    "options": [
+      "No action is needed because modern ICDs ignore all electrosurgical interference",
+      "Confirm a device plan (tachy therapies suspended) with monitoring and a defibrillator ready",
+      "Turn the ICD off permanently before the patient leaves the preoperative unit and tell the PACU to turn it back on",
+      "Remove the device's battery in the preoperative area to prevent shocks"
+    ],
+    "correctIndex": 1,
+    "explanation": "Electrosurgical interference can be sensed as a dysrhythmia and trigger an inappropriate shock. Antitachycardia therapy is suspended per the device plan, and external defibrillation must be immediately available."
+  },
+  {
+    "id": "preop_assessment_034",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Before surgery, a patient should be asked to remove which of the following because of burn or injury risk?",
+    "options": [
+      "Metal body piercings and jewelry",
+      "A wristband indicating a known allergy",
+      "Hospital identification band",
+      "Compression stockings ordered by the surgeon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Metal jewelry and piercings can cause pressure injury, become caught, or create an alternate current path and burn with electrosurgery."
+  },
+  {
+    "id": "preop_assessment_035",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient with obstructive sleep apnea uses a CPAP machine at home. Which instruction is most appropriate?",
+    "options": [
+      "Use CPAP afterward only if no pain medication is being taken",
+      "Leave the device at home, because PACU staff are not permitted to use equipment brought in by patients",
+      "Bring the CPAP device so it can be used in the PACU and after discharge",
+      "Stop using CPAP for 1 week before surgery to rest the airway"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients with OSA are sensitive to opioids and sedatives. Using their own CPAP after surgery helps prevent airway obstruction and hypoxemia."
+  },
+  {
+    "id": "preop_assessment_036",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A frail 84-year-old with mild cognitive impairment is scheduled for hip fracture repair. Which preoperative assessment finding most increases the risk of postoperative delirium?",
+    "options": [
+      "A history of seasonal allergies treated with antihistamines",
+      "A normal preoperative hemoglobin level and a good appetite with stable weight over the past year",
+      "Previous uncomplicated cataract surgery under local anesthesia",
+      "Baseline cognitive impairment with sensory deficits and polypharmacy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pre-existing cognitive impairment, advanced age, sensory impairment, and multiple medications are major predisposing factors for delirium. A baseline cognitive assessment helps detect changes."
+  },
+  {
+    "id": "preop_assessment_037",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Why is it important to document a baseline mental status assessment before surgery?",
+    "options": [
+      "Because it replaces the need for informed consent in older adults who cannot sign the form for themselves",
+      "So the surgical wound class can be assigned accurately",
+      "So postoperative confusion or delirium can be recognized as a change from baseline",
+      "Because it determines which anesthetic agent will be used"
+    ],
+    "correctIndex": 2,
+    "explanation": "Without a documented baseline, it is difficult to determine whether postoperative confusion is new. Early detection of delirium allows prompt evaluation and treatment."
+  },
+  {
+    "id": "preop_assessment_038",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "A preoperative pregnancy test is most often indicated for:",
+    "options": [
+      "All patients over 60 years of age, regardless of history",
+      "Only patients who request the test on the day of surgery",
+      "Only patients having gynecologic surgery",
+      "Patients of childbearing potential, per facility policy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Many facilities require or offer pregnancy testing for patients of childbearing potential because anesthesia, medications, and radiation can affect a pregnancy."
+  },
+  {
+    "id": "preop_assessment_039",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient reports taking St. John's wort daily. Why should this be reported to the anesthesia professional?",
+    "options": [
+      "It can induce liver enzymes and interact with many anesthetic drugs",
+      "It reliably prevents postoperative nausea and vomiting and should be continued through the morning of surgery",
+      "It is required for proper wound healing and should be continued",
+      "It causes a severe cross-reaction in patients with latex allergy"
+    ],
+    "correctIndex": 0,
+    "explanation": "St. John's wort induces cytochrome P450 enzymes, which can lower levels of many drugs and interact with serotonergic medications."
+  },
+  {
+    "id": "preop_assessment_040",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient reports drinking six to eight alcoholic drinks daily, with the last drink this morning. What is the most important implication for the perioperative plan?",
+    "options": [
+      "No action is needed as long as the patient appears sober and cooperative",
+      "Risk for alcohol withdrawal, requiring monitoring with a validated withdrawal tool",
+      "Anesthetic requirements are expected to be lower than average in these patients",
+      "The patient can safely receive extra sedation in the holding area to prevent agitation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Heavy daily drinkers are at risk of withdrawal, which can begin within hours to days and progress to seizures or delirium tremens. Early recognition and monitoring are essential."
+  },
+  {
+    "id": "preop_assessment_041",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which preoperative serum creatinine value most strongly suggests impaired renal function that should be reported?",
+    "options": [
+      "0.7 mg/dL",
+      "2.8 mg/dL",
+      "0.9 mg/dL",
+      "1.0 mg/dL"
+    ],
+    "correctIndex": 1,
+    "explanation": "Normal adult serum creatinine is roughly 0.6-1.2 mg/dL. An elevated value affects drug dosing and fluid management and needs to be communicated."
+  },
+  {
+    "id": "preop_assessment_042",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient taking digoxin has a preoperative serum potassium of 3.1 mEq/L. Why is this especially important to report?",
+    "options": [
+      "Hypokalemia completely blocks the effect of digoxin on the heart",
+      "Low potassium only matters for patients who are also taking insulin",
+      "Hypokalemia raises the risk of digoxin toxicity and dysrhythmias",
+      "Digoxin causes serum potassium to rise sharply during anesthesia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Low potassium enhances digoxin binding to the sodium-potassium pump, increasing the risk of toxicity and dangerous dysrhythmias."
+  },
+  {
+    "id": "preop_assessment_043",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A PACU patient who received rocuronium has weak hand grips, cannot sustain a head lift, and shows shallow, rapid breathing. What should the nurse suspect?",
+    "options": [
+      "Residual neuromuscular blockade",
+      "Opioid-induced hyperalgesia after high-dose remifentanil",
+      "Emergence delirium from inhaled anesthetic agents",
+      "Hypervolemia from large IV fluid volumes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Incomplete recovery from neuromuscular blocking agents causes generalized weakness and inadequate ventilation. The anesthesia professional should be notified for evaluation and possible reversal."
+  },
+  {
+    "id": "preop_assessment_044",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient of childbearing potential received sugammadex at the end of surgery. Which discharge teaching point is required?",
+    "options": [
+      "Driving is safe immediately because the drug is fully reversed and cleared",
+      "Avoid all dairy products for 48 hours to prevent drug binding",
+      "Sugammadex will cause the urine to turn bright orange for several days, which is harmless and expected",
+      "Hormonal contraceptives may be less effective; use a nonhormonal backup for 7 days"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sugammadex can bind progestogen and reduce hormonal contraceptive effectiveness, similar to missing a dose. Patients should use an additional nonhormonal method for 7 days."
+  },
+  {
+    "id": "preop_assessment_045",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Four hours after a thyroidectomy, a patient reports tingling around the mouth and fingertips. Which finding should the nurse assess for next?",
+    "options": [
+      "Chvostek's or Trousseau's sign indicating hypocalcemia",
+      "Murphy's sign, indicating acute cholecystitis",
+      "Kernig's sign, indicating meningeal irritation from infection",
+      "Homan's sign, indicating deep vein thrombosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Accidental removal or injury of the parathyroid glands can cause hypocalcemia. Perioral and fingertip tingling with Chvostek's or Trousseau's sign should be reported promptly."
+  },
+  {
+    "id": "preop_assessment_046",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient who had a thyroidectomy develops increasing neck swelling, a tight dressing, and new stridor in the PACU. What is the priority?",
+    "options": [
+      "Reinforce the dressing with more gauze and reassess the neck swelling at the next routine check in 30 minutes",
+      "Give an antiemetic for possible nausea and recheck the swelling after the dose",
+      "Place the patient flat with a rolled towel and apply ice to the neck",
+      "Call for immediate surgical and anesthesia help for a possible expanding hematoma"
+    ],
+    "correctIndex": 3,
+    "explanation": "An expanding neck hematoma can rapidly compress the airway. This is an emergency that may require opening the incision to evacuate the clot."
+  },
+  {
+    "id": "preop_assessment_047",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "After a transurethral resection of the prostate using hypotonic irrigation, a patient becomes confused and bradycardic. Which laboratory value is the nurse most concerned about?",
+    "options": [
+      "Hemoglobin A1c",
+      "Serum sodium",
+      "Serum lipase",
+      "Serum amylase"
+    ],
+    "correctIndex": 1,
+    "explanation": "Absorption of large volumes of hypotonic irrigation can cause dilutional hyponatremia (TURP syndrome) with confusion, visual changes, bradycardia, and seizures."
+  },
+  {
+    "id": "preop_assessment_048",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient has a cast after a tibial fracture repair. Which assessment finding is an early sign of acute compartment syndrome?",
+    "options": [
+      "Mild itching under the cast with intact motor function",
+      "Warm, pink toes with brisk capillary refill and full sensation",
+      "Pain out of proportion to the injury that worsens with passive stretch",
+      "Absent distal pulse as the very first finding in the affected limb, together with a cool, pale foot"
+    ],
+    "correctIndex": 2,
+    "explanation": "Severe pain disproportionate to the injury and pain on passive stretching are early signs. Loss of pulses is a late finding; the surgeon must be notified immediately."
+  },
+  {
+    "id": "preop_assessment_049",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which postoperative assessment is part of a routine neurovascular check of an operative extremity?",
+    "options": [
+      "Blood glucose, urine output, core temperature, and oxygen saturation of the patient in the first hour",
+      "Pupil size, Glasgow Coma Scale score, and deep tendon reflexes",
+      "Bowel sounds, appetite, and presence of nausea afterward",
+      "Color, temperature, capillary refill, pulses, sensation, and movement"
+    ],
+    "correctIndex": 3,
+    "explanation": "Neurovascular checks compare the operative limb with the other limb, assessing perfusion and nerve function to detect compromise early."
+  },
+  {
+    "id": "preop_assessment_050",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient reports a severe headache that worsens when sitting up and improves when lying flat, two days after spinal anesthesia. What is the most likely cause?",
+    "options": [
+      "Local anesthetic systemic toxicity",
+      "Opioid withdrawal",
+      "Post-dural puncture headache",
+      "Malignant hyperthermia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Leakage of cerebrospinal fluid through the dural puncture produces a positional headache. Management may include hydration, caffeine, analgesics, and possibly an epidural blood patch."
+  },
+  {
+    "id": "preop_assessment_051",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient on postoperative anticoagulant prophylaxis with an epidural catheter reports new back pain and progressive bilateral leg numbness and weakness. What is the priority action?",
+    "options": [
+      "Reposition the patient and reassess at the next routine neurologic check",
+      "Notify the anesthesia professional immediately about a suspected epidural hematoma",
+      "Ambulate the patient with assistance to improve circulation to the legs",
+      "Increase the epidural infusion rate to treat the new back pain and leg numbness, then reassess in an hour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Epidural hematoma compresses the spinal cord and needs urgent imaging and decompression to prevent permanent paralysis. Neurologic changes must be reported immediately."
+  },
+  {
+    "id": "preop_assessment_052",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which tool is commonly used to determine readiness for discharge home from Phase II recovery?",
+    "options": [
+      "Post-Anesthetic Discharge Scoring System (PADSS)",
+      "Braden Scale, scored from sensory perception and moisture",
+      "Mallampati classification, scored from oropharyngeal visibility",
+      "Glasgow Coma Scale, scored from eye, verbal, and motor response"
+    ],
+    "correctIndex": 0,
+    "explanation": "PADSS scores vital signs, activity, nausea and vomiting, pain, and surgical bleeding to support safe discharge after ambulatory surgery."
+  },
+  {
+    "id": "preop_assessment_053",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A postoperative patient has a blood pressure 30 mm Hg above baseline, is restless, and has not voided for 7 hours. What should the nurse assess first?",
+    "options": [
+      "Bladder distention, such as with a bladder scan",
+      "Serum potassium and magnesium levels from the morning draw",
+      "Blood culture results from the preoperative visit",
+      "Pupillary response to light in both eyes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bladder distention and pain are common, correctable causes of postoperative hypertension and restlessness. Urinary retention is common after anesthesia and opioids."
+  },
+  {
+    "id": "preop_assessment_054",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Why is postoperative shivering a concern in a patient with coronary artery disease?",
+    "options": [
+      "Shivering increases the anticoagulant effect of heparin and warfarin",
+      "Shivering causes immediate dehiscence of the surgical wound",
+      "Shivering greatly increases oxygen consumption and myocardial workload",
+      "Shivering lowers blood glucose to dangerously low levels within minutes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shivering can raise oxygen consumption substantially, stressing a heart with limited oxygen supply. Active warming and treatment per orders are indicated."
+  },
+  {
+    "id": "preop_assessment_055",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which sedation scale is specifically designed to monitor for opioid-induced sedation before giving additional opioids?",
+    "options": [
+      "Morse Fall Scale, which rates fall risk from history and gait",
+      "Pasero Opioid-induced Sedation Scale (POSS)",
+      "Apgar score, which rates newborn condition at birth",
+      "Braden Scale, which rates risk for pressure injury"
+    ],
+    "correctIndex": 1,
+    "explanation": "POSS rates sedation from 'S' (sleeping, easy to arouse) to 4 (minimal or no response). Increasing sedation precedes respiratory depression, so opioids are held or reduced."
+  },
+  {
+    "id": "preop_assessment_056",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which monitoring method detects opioid-induced hypoventilation earlier than pulse oximetry in a patient receiving supplemental oxygen?",
+    "options": [
+      "Intake and output measurement",
+      "Hourly blood pressure",
+      "Temperature monitoring",
+      "Continuous capnography"
+    ],
+    "correctIndex": 3,
+    "explanation": "Supplemental oxygen can keep saturation normal despite hypoventilation. Capnography detects rising carbon dioxide and apnea early."
+  },
+  {
+    "id": "preop_assessment_057",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which finding on the first postoperative day most commonly reflects atelectasis?",
+    "options": [
+      "Severe flank pain and gross hematuria",
+      "Low-grade fever with diminished breath sounds at the lung bases",
+      "Calf pain and unilateral leg swelling with warmth",
+      "A purulent, draining incision with spreading erythema and a rising fever on postoperative day 5"
+    ],
+    "correctIndex": 1,
+    "explanation": "Atelectasis often occurs early after surgery, especially with shallow breathing. Incentive spirometry, deep breathing, and early mobility help prevent it."
+  },
+  {
+    "id": "preop_assessment_058",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient on postoperative day 2 after hip replacement suddenly develops dyspnea, chest pain, tachycardia, and anxiety with oxygen saturation of 86%. What should the nurse suspect first?",
+    "options": [
+      "Superficial wound infection",
+      "Postoperative ileus",
+      "Pulmonary embolism",
+      "Urinary tract infection"
+    ],
+    "correctIndex": 2,
+    "explanation": "Orthopedic surgery of the hip or knee carries high venous thromboembolism risk. Sudden dyspnea, pleuritic chest pain, tachycardia, and hypoxemia suggest PE and need emergency evaluation."
+  },
+  {
+    "id": "preop_assessment_059",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient reports that something 'gave way' in the abdominal incision after coughing, and the wound edges have separated with serosanguineous drainage. What does this most likely indicate?",
+    "options": [
+      "Wound dehiscence",
+      "Phlebitis at the IV site",
+      "A normal inflammatory response",
+      "Expected incisional drainage only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dehiscence is separation of wound layers, often preceded by a sudden increase in serosanguineous drainage. If evisceration occurs, cover with sterile saline-moistened dressings and notify the surgeon."
+  },
+  {
+    "id": "preop_assessment_060",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which pain assessment action is most appropriate after giving an IV opioid in the PACU?",
+    "options": [
+      "Wait until the next shift to reassess pain and sedation, since the drug will be working by then",
+      "Reassess blood glucose and temperature instead of pain",
+      "Reassess only if the patient calls out or asks for help",
+      "Reassess pain and sedation at the drug's expected peak effect"
+    ],
+    "correctIndex": 3,
+    "explanation": "Reassessment at the expected peak of an IV opioid evaluates effectiveness and detects adverse effects such as sedation and respiratory depression."
+  },
+  {
+    "id": "preop_assessment_061",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A 4-year-old child emerges from sevoflurane anesthesia crying, thrashing, and not recognizing a parent. What is the most likely explanation?",
+    "options": [
+      "Hypoglycemic seizure",
+      "Expected normal behavior requiring restraints",
+      "Emergence delirium",
+      "Malignant hyperthermia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Emergence delirium is common in preschool children after inhaled anesthetics. The child should be protected from injury and assessed for pain, hypoxemia, and other causes."
+  },
+  {
+    "id": "preop_assessment_062",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A PACU patient is hypoxemic with an SpO2 of 88%, snoring respirations, and paradoxical chest and abdominal movement. What is the first nursing action?",
+    "options": [
+      "Perform a head-tilt chin-lift or jaw thrust to open the airway",
+      "Obtain a portable chest radiograph before intervening further",
+      "Recheck the oximeter probe on another finger and wait for a new reading",
+      "Administer an opioid for comfort and recheck breathing in 10 minutes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Snoring and paradoxical breathing indicate upper airway obstruction, usually from the tongue. Opening the airway is the first priority, followed by oxygen and adjuncts as needed."
+  },
+  {
+    "id": "preop_assessment_063",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Under ASA fasting guidance for healthy infants, breast milk is generally allowed until how long before elective anesthesia?",
+    "options": [
+      "12 hours",
+      "4 hours",
+      "8 hours",
+      "1 hour"
+    ],
+    "correctIndex": 1,
+    "explanation": "ASA guidance allows breast milk up to 4 hours and infant formula up to 6 hours before elective procedures in healthy infants."
+  },
+  {
+    "id": "preop_assessment_064",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A 3-year-old scheduled for elective ear surgery has a fever of 39 °C, green nasal discharge, and a productive cough. What is the most appropriate action?",
+    "options": [
+      "Proceed because ear surgery does not involve the airway or lungs",
+      "Give acetaminophen to bring the fever down and proceed as scheduled, since the surgery is a short procedure",
+      "Ask the parents to decide whether they want to proceed today",
+      "Report the findings so the team can consider postponing the procedure"
+    ],
+    "correctIndex": 3,
+    "explanation": "An active lower respiratory infection with fever increases the risk of laryngospasm, bronchospasm, and hypoxemia. The team decides whether to postpone."
+  },
+  {
+    "id": "preop_assessment_065",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which finding during a preoperative skin assessment must be documented and communicated before positioning?",
+    "options": [
+      "Dry skin on the elbows without breakdown",
+      "A stage 2 pressure injury over the sacrum",
+      "A small healed appendectomy scar",
+      "Freckles on the forearms"
+    ],
+    "correctIndex": 1,
+    "explanation": "Existing pressure injuries must be documented so positioning can avoid further pressure, and to distinguish them from injuries acquired during surgery."
+  },
+  {
+    "id": "preop_assessment_066",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which item should a patient remove before entering the OR to prevent corneal injury?",
+    "options": [
+      "The patient identification band",
+      "An allergy wristband",
+      "Hearing aids that are needed for communication",
+      "Contact lenses"
+    ],
+    "correctIndex": 3,
+    "explanation": "Contact lenses can cause corneal drying and abrasion during anesthesia when the patient cannot blink. Hearing aids may stay in per policy to aid communication."
+  },
+  {
+    "id": "preop_assessment_067",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient with sickle cell disease is scheduled for surgery. Which perioperative goal is most important to prevent a crisis?",
+    "options": [
+      "Avoid hypoxemia, dehydration, hypothermia, and acidosis",
+      "Keep the room cold to reduce metabolic demand",
+      "Restrict fluids to prevent overload",
+      "Apply tight tourniquets for long periods to reduce blood loss"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hypoxemia, dehydration, cold, and acidosis promote sickling and vaso-occlusion. Adequate oxygenation, hydration, warmth, and pain control are key."
+  },
+  {
+    "id": "preop_assessment_068",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient with hemophilia A is scheduled for surgery. Which preoperative preparation is expected?",
+    "options": [
+      "Routine aspirin for DVT prevention during the perioperative period",
+      "Intramuscular injections for preoperative sedation and antibiotic prophylaxis",
+      "Coordinate with hematology for factor VIII replacement and monitoring",
+      "No special preparation, because bleeding only occurs after major trauma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hemophilia A is a deficiency of factor VIII. Replacement is planned with hematology; intramuscular injections and platelet-inhibiting drugs are avoided."
+  },
+  {
+    "id": "preop_assessment_069",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which question best assesses a patient's understanding before the preoperative interview ends?",
+    "options": [
+      "'You read the consent form, right? It covers everything.'",
+      "'Can you tell me in your own words what surgery you are having?'",
+      "'Do you understand everything that the surgeon explained?'",
+      "'Any questions at all? No? Great, then we are all set and the consent form is signed.'"
+    ],
+    "correctIndex": 1,
+    "explanation": "Open-ended questions that ask the patient to explain in their own words verify understanding and help identify misconceptions."
+  },
+  {
+    "id": "preop_assessment_070",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which preoperative intervention is most associated with reducing Staphylococcus aureus surgical site infections in identified carriers?",
+    "options": [
+      "Applying moisturizing lotion to the surgical site before the antiseptic prep is done to protect the skin",
+      "Holding all prophylactic antibiotics until after the incision",
+      "Shaving the surgical site with a razor the night before",
+      "Nasal decolonization, such as mupirocin or povidone-iodine, per protocol"
+    ],
+    "correctIndex": 3,
+    "explanation": "Screening and decolonizing S. aureus carriers reduces SSI risk for certain procedures. Shaving increases risk, and lotions can interfere with the antiseptic."
+  },
+  {
+    "id": "preop_assessment_071",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient with a history of using cocaine reports last use 2 hours ago and has a blood pressure of 188/104 mm Hg and heart rate of 128. What is the most appropriate nursing action?",
+    "options": [
+      "Give a beta-blocker from the unit stock without waiting for an order, to slow the heart rate quickly",
+      "Proceed as planned because the effects of cocaine are short-acting",
+      "Report the recent use and vital signs to anesthesia and the surgeon first",
+      "Document the use only, since substance use history is confidential"
+    ],
+    "correctIndex": 2,
+    "explanation": "Recent cocaine use increases the risk of myocardial ischemia, dysrhythmias, and severe hypertension during anesthesia. The team must decide whether to delay elective surgery."
+  },
+  {
+    "id": "preop_assessment_072",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient reports daily cannabis use. Why is this important to share with the anesthesia professional?",
+    "options": [
+      "Regular use may affect anesthetic requirements and airway reactivity",
+      "Cannabis use is a contraindication to every type of regional anesthesia",
+      "It eliminates the need for any postoperative analgesic medication",
+      "It is a known direct cause of malignant hyperthermia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Regular cannabis use can increase anesthetic requirements and, when smoked, airway irritability. Honest disclosure allows safer planning."
+  },
+  {
+    "id": "preop_assessment_073",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which finding in a preoperative patient is considered a normal adult resting heart rate?",
+    "options": [
+      "72 beats per minute",
+      "38 beats per minute",
+      "132 beats per minute",
+      "158 beats per minute"
+    ],
+    "correctIndex": 0,
+    "explanation": "A normal adult resting heart rate is about 60-100 beats per minute. Values far outside this range should be reported."
+  },
+  {
+    "id": "preop_assessment_074",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which preoperative finding is a key indicator of possible malnutrition that can impair wound healing?",
+    "options": [
+      "Normal oral intake with good appetite and no swallowing difficulty",
+      "Unintentional weight loss of more than 10% in the past 6 months",
+      "Stable weight for the past 5 years with regular meals",
+      "Body mass index of 24 with stable weight"
+    ],
+    "correctIndex": 1,
+    "explanation": "Significant unintended weight loss suggests malnutrition, which impairs immune function and wound healing. Nutrition consultation may be appropriate."
+  },
+  {
+    "id": "preop_assessment_075",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient taking an MAO inhibitor for depression is scheduled for surgery. Why must this be communicated to anesthesia?",
+    "options": [
+      "MAO inhibitors are a known direct cause of malignant hyperthermia",
+      "MAO inhibitors make the patient immune to the effects of opioids",
+      "Some drugs, such as meperidine and certain vasopressors, may interact dangerously",
+      "MAO inhibitors permanently block the action of all local anesthetics, so regional anesthesia is not possible"
+    ],
+    "correctIndex": 2,
+    "explanation": "MAO inhibitors can cause serotonin syndrome with meperidine and other serotonergic drugs, and hypertensive crisis with indirect-acting vasopressors."
+  },
+  {
+    "id": "preop_assessment_076",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which home medication is generally continued on the morning of surgery for patients who take it chronically, to avoid rebound effects?",
+    "options": [
+      "An SGLT2 inhibitor",
+      "Warfarin",
+      "A daily herbal ginkgo supplement",
+      "A beta-blocker such as metoprolol"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chronic beta-blockers are usually continued perioperatively because abrupt withdrawal can cause rebound tachycardia and hypertension. Final instructions come from the provider."
+  },
+  {
+    "id": "preop_assessment_077",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which patient statement most clearly indicates a need to report a possible upper respiratory concern before anesthesia?",
+    "options": [
+      "'My nose gets stuffy every spring when the pollen is high.'",
+      "'I quit smoking ten years ago and have no cough now.'",
+      "'I had my flu shot last fall and felt fine afterward.'",
+      "'I've had a fever and a wet cough for the last two days.'"
+    ],
+    "correctIndex": 3,
+    "explanation": "Recent fever and productive cough suggest active respiratory infection, which increases airway complications under anesthesia."
+  },
+  {
+    "id": "preop_assessment_078",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient who has a history of bariatric surgery is scheduled for an unrelated procedure. Which assessment is especially relevant?",
+    "options": [
+      "Family history of color blindness or other eye conditions",
+      "Nutritional and vitamin deficiencies such as iron and vitamin B12",
+      "Ability to swallow large oral medication tablets only",
+      "Seasonal allergy history and hay fever symptoms"
+    ],
+    "correctIndex": 1,
+    "explanation": "Malabsorptive bariatric procedures can lead to deficiencies in iron, B12, folate, and fat-soluble vitamins, which may affect anemia and healing."
+  },
+  {
+    "id": "preop_assessment_079",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A preoperative patient with long-standing type 2 diabetes has orthostatic hypotension and early satiety. Which complication should the nurse alert anesthesia about?",
+    "options": [
+      "Latex sensitivity with delayed skin reactions",
+      "New-onset hyperthyroidism with weight loss and tremor",
+      "Autonomic neuropathy with possible gastroparesis and hemodynamic instability",
+      "Acute appendicitis presenting with right lower quadrant pain"
+    ],
+    "correctIndex": 2,
+    "explanation": "Diabetic autonomic neuropathy can cause unstable blood pressure under anesthesia and delayed gastric emptying with increased aspiration risk."
+  },
+  {
+    "id": "preop_assessment_080",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "What is the main reason to assess a patient's range of motion before positioning for surgery?",
+    "options": [
+      "To avoid placing joints beyond the limits the awake patient can tolerate",
+      "To determine the patient's ASA physical status class",
+      "To estimate how long the planned procedure will take",
+      "To choose the correct antibiotic prophylaxis for the case"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anesthetized patients cannot report discomfort. Positioning within the awake patient's range of motion helps prevent nerve and musculoskeletal injury."
+  },
+  {
+    "id": "preop_assessment_081",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which piece of history is most important to obtain from a patient about previous anesthesia?",
+    "options": [
+      "The duration of the last procedure and the time of day it started",
+      "The name of the previous anesthesia professional who cared for the patient and the hospital where it was done",
+      "Any complications, such as severe nausea, difficult intubation, or unexplained fever",
+      "Whether the last surgery was done as an inpatient or an outpatient"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prior anesthesia complications and family history of anesthesia problems guide the current anesthetic plan and preparation."
+  },
+  {
+    "id": "preop_assessment_082",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient with chronic obstructive pulmonary disease has a baseline SpO2 of 90% on room air. How should this affect the postoperative assessment?",
+    "options": [
+      "Ignore saturation values because oximetry is unreliable in COPD",
+      "Expect an SpO2 of 100% on room air before discharge from the PACU",
+      "Withhold all supplemental oxygen in every COPD patient to avoid hypercapnia, even if the saturation falls",
+      "Compare findings with the documented baseline and the ordered targets"
+    ],
+    "correctIndex": 3,
+    "explanation": "Patients with COPD may have lower baseline saturations. Knowing the baseline and ordered targets helps judge whether a postoperative value represents a real change."
+  },
+  {
+    "id": "preop_assessment_083",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which statement is written as a nursing diagnosis rather than a medical diagnosis?",
+    "options": [
+      "Type 2 diabetes mellitus treated with metformin",
+      "Risk for perioperative hypothermia related to anesthesia and a cool room",
+      "Acute cholecystitis with gallstones confirmed by ultrasound and elevated white blood cell count",
+      "Fractured left femur after a fall from standing height"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nursing diagnoses describe human responses to health problems that nurses can treat independently; medical diagnoses name diseases."
+  },
+  {
+    "id": "preop_assessment_084",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "In a three-part nursing diagnosis, the phrase 'as evidenced by' introduces:",
+    "options": [
+      "The defining characteristics, or signs and symptoms",
+      "The expected outcome, written as a patient goal",
+      "The medical diagnosis made by the provider",
+      "The planned nursing intervention"
+    ],
+    "correctIndex": 0,
+    "explanation": "The format is problem, related to (etiology), and as evidenced by (defining characteristics). Risk diagnoses have no 'as evidenced by' because the problem has not occurred."
+  },
+  {
+    "id": "preop_assessment_085",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which pain tool is most appropriate for a 2-year-old in the PACU?",
+    "options": [
+      "McGill Pain Questionnaire",
+      "FLACC (Face, Legs, Activity, Cry, Consolability) scale",
+      "Numeric 0-10 rating scale",
+      "Visual analog scale with a 100 mm line"
+    ],
+    "correctIndex": 1,
+    "explanation": "Young children cannot reliably use numeric scales. FLACC is a validated behavioral tool for preverbal and young children."
+  },
+  {
+    "id": "preop_assessment_086",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Unplanned perioperative hypothermia is generally defined as a core temperature below:",
+    "options": [
+      "36 °C (96.8 °F)",
+      "37.5 °C (99.5 °F)",
+      "38 °C (100.4 °F)",
+      "34 °C (93.2 °F) only"
+    ],
+    "correctIndex": 0,
+    "explanation": "A core temperature below 36 °C is considered hypothermia. It increases bleeding, infection, and cardiac event risk and delays recovery."
+  },
+  {
+    "id": "preop_assessment_087",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "On postoperative day 5, a patient develops a fever with redness, warmth, and purulent drainage at the incision. What does this most likely indicate?",
+    "options": [
+      "Atelectasis",
+      "A drug fever from the first antibiotic dose",
+      "Expected early inflammation",
+      "Surgical site infection"
+    ],
+    "correctIndex": 3,
+    "explanation": "Surgical site infections commonly appear several days after surgery. Purulent drainage with local signs of infection should be reported for evaluation and culture."
+  },
+  {
+    "id": "preop_assessment_088",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which finding indicates a possible postoperative paralytic ileus?",
+    "options": [
+      "Frequent loose stools beginning on the first postoperative day",
+      "Hyperactive bowel sounds with passage of flatus, a soft abdomen, and a return of appetite on day 2",
+      "Abdominal distention, absent flatus, and nausea days after abdominal surgery",
+      "Mild incisional pain controlled with oral analgesics and ambulation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ileus is a temporary loss of intestinal motility. Distention, nausea, vomiting, and lack of flatus are typical; early ambulation and opioid-sparing analgesia help prevent it."
+  },
+  {
+    "id": "preop_assessment_089",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient has a postoperative heart rate of 118, blood pressure 92/58 mm Hg, urine output of 15 mL/hour for 2 hours, and cool extremities. Which interpretation is most accurate?",
+    "options": [
+      "Signs of fluid overload that call for diuretic therapy",
+      "Signs of hypovolemia and poor perfusion that require prompt notification",
+      "A normal response to pain that needs only analgesics",
+      "Expected findings after any general anesthetic that need no further assessment or notification of the provider"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tachycardia, hypotension, low urine output, and cool skin indicate inadequate perfusion, often from bleeding or fluid deficit. Rapid evaluation is required."
+  },
+  {
+    "id": "preop_assessment_090",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient who had spinal anesthesia becomes hypotensive and bradycardic shortly after the block. What is the most likely mechanism?",
+    "options": [
+      "Sympathetic blockade causing vasodilation and, with a high block, a slow heart rate",
+      "Fluid overload from rapid infusion of IV fluids",
+      "An allergic reaction to the skin prep solution that was used for the block, with flushing and wheezing",
+      "Hyperkalemia from tissue injury at the puncture site"
+    ],
+    "correctIndex": 0,
+    "explanation": "Spinal anesthesia blocks sympathetic fibers, causing vasodilation. A high block can also affect cardiac accelerator fibers, slowing the heart rate."
+  },
+  {
+    "id": "preop_assessment_091",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which tool is used to screen for delirium in postoperative patients?",
+    "options": [
+      "Aldrete score",
+      "Braden Scale",
+      "Confusion Assessment Method (CAM)",
+      "STOP-BANG questionnaire"
+    ],
+    "correctIndex": 2,
+    "explanation": "The CAM evaluates acute onset or fluctuating course, inattention, disorganized thinking, and altered level of consciousness."
+  },
+  {
+    "id": "preop_assessment_092",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "After a carotid endarterectomy, which postoperative finding requires immediate notification of the surgeon?",
+    "options": [
+      "Blood pressure at the patient's baseline for two checks",
+      "Mild incisional discomfort that is relieved by oral analgesics and does not change with position",
+      "A small amount of dry drainage on the neck dressing",
+      "New facial droop and arm weakness on the side opposite the operation"
+    ],
+    "correctIndex": 3,
+    "explanation": "New neurologic deficits suggest stroke from emboli or carotid occlusion. Frequent neurologic checks and close blood pressure control are essential after this procedure."
+  },
+  {
+    "id": "preop_assessment_093",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which perioperative blood glucose range is commonly targeted to reduce surgical site infection risk in adults?",
+    "options": [
+      "Below about 180-200 mg/dL",
+      "Above 300 mg/dL, as hyperglycemia is not a concern",
+      "Between 250 and 300 mg/dL, to avoid hypoglycemia",
+      "Below 60 mg/dL, to avoid any glucose elevation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Guidelines recommend perioperative glycemic control with targets generally below 180-200 mg/dL in patients with and without diabetes, while avoiding hypoglycemia."
+  },
+  {
+    "id": "preop_assessment_094",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A Wong-Baker FACES scale is most appropriate for which patient?",
+    "options": [
+      "A newborn in the NICU",
+      "An adult with severe dementia who cannot communicate",
+      "An intubated, sedated adult",
+      "A 6-year-old who can point to a face that matches the pain"
+    ],
+    "correctIndex": 3,
+    "explanation": "The FACES scale is a self-report tool for children (generally about 3 years and older) and adults who prefer pictures."
+  },
+  {
+    "id": "preop_assessment_095",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "During the preoperative assessment, a patient's partner answers every question and the patient has bruises in different stages of healing. What should the nurse do?",
+    "options": [
+      "Document only that the patient seems clumsy and move on, since the partner has offered an explanation",
+      "Ask the partner to explain how the bruises occurred",
+      "Interview the patient privately and follow the facility's abuse screening process",
+      "Ignore it because the bruising is unrelated to the surgery"
+    ],
+    "correctIndex": 2,
+    "explanation": "Private screening allows the patient to disclose safely. Nurses follow policy and mandatory reporting laws when abuse is suspected."
+  },
+  {
+    "id": "preop_assessment_096",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which postoperative finding should be reported because it suggests deep vein thrombosis?",
+    "options": [
+      "Mild bruising around the IV site",
+      "Unilateral calf swelling, warmth, and tenderness",
+      "Cool hands after a cold drink",
+      "Bilateral equal pedal pulses"
+    ],
+    "correctIndex": 1,
+    "explanation": "DVT often presents with swelling, warmth, pain, and redness of one leg. The surgeon should be notified for evaluation; massaging the leg is avoided."
+  },
+  {
+    "id": "preop_assessment_097",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient asks why a type and screen was drawn instead of a full crossmatch. Which explanation is most accurate?",
+    "options": [
+      "It determines blood type and screens for antibodies so blood can be crossmatched fast",
+      "It is used only to diagnose infection before the procedure",
+      "It replaces the need for informed consent for transfusion",
+      "It means that compatible units are already reserved and crossmatched for the patient in the blood bank"
+    ],
+    "correctIndex": 0,
+    "explanation": "A type and screen identifies ABO/Rh type and screens for unexpected antibodies. A crossmatch tests specific donor units for compatibility before transfusion."
+  },
+  {
+    "id": "preop_assessment_098",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which assessment finding indicates that a patient is at higher risk for perioperative pressure injury?",
+    "options": [
+      "High Braden Scale score with full mobility",
+      "Normal albumin and intact sensation",
+      "Short procedure in supine position on a pressure-redistributing mattress",
+      "Low Braden Scale score with poor nutrition and incontinence"
+    ],
+    "correctIndex": 3,
+    "explanation": "On the Braden Scale, lower scores mean higher risk. Poor nutrition, moisture, and immobility all increase vulnerability."
+  },
+  {
+    "id": "preop_assessment_099",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "In a postoperative patient with a new ileostomy, which stoma finding requires immediate notification of the surgeon?",
+    "options": [
+      "Small amounts of liquid output",
+      "Mild stomal edema on day 1",
+      "A dark purple or black stoma",
+      "A moist, beefy red stoma"
+    ],
+    "correctIndex": 2,
+    "explanation": "A healthy stoma is red and moist. A dusky, purple, or black stoma indicates compromised blood supply and possible necrosis."
+  },
+  {
+    "id": "preop_assessment_100",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient with a history of postoperative urinary retention is scheduled for hernia repair. Which assessment after surgery is most useful before discharge?",
+    "options": [
+      "Measuring head circumference at the bedside",
+      "Bladder scanning or confirming that the patient has voided",
+      "Checking the serum amylase level and urinalysis before discharge from the PACU",
+      "Assessing pupillary response to light"
+    ],
+    "correctIndex": 1,
+    "explanation": "Anesthesia, opioids, and groin surgery increase the risk of urinary retention. Many protocols confirm voiding or adequate bladder emptying before discharge."
+  },
+  {
+    "id": "preop_assessment_101",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which baseline information is most useful to compare with postoperative findings?",
+    "options": [
+      "The patient's reported pain tolerance from past surgeries and the pain medication taken at home",
+      "Preoperative vital signs, level of consciousness, and skin condition",
+      "The patient's scheduled surgery time and room number",
+      "The time the preoperative fast began on the previous evening"
+    ],
+    "correctIndex": 1,
+    "explanation": "Postoperative assessment findings are interpreted against the patient's baseline to detect meaningful changes."
+  },
+  {
+    "id": "preop_assessment_102",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient receives 2 units of packed red blood cells postoperatively. Which assessment is most important during the first 15 minutes of each unit?",
+    "options": [
+      "Checking hearing acuity at the start of each unit",
+      "Measuring abdominal girth at the start of each unit",
+      "Close monitoring of vital signs and symptoms of a transfusion reaction",
+      "Assessing bowel sounds every 2 minutes during the entire infusion of each unit of blood"
+    ],
+    "correctIndex": 2,
+    "explanation": "Severe acute reactions such as hemolytic or anaphylactic reactions often occur early. The nurse stays with the patient and monitors closely at the start of each unit."
+  },
+  {
+    "id": "preop_assessment_103",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient with Parkinson's disease takes carbidopa-levodopa four times daily and is scheduled for surgery. Which plan is most appropriate?",
+    "options": [
+      "Omit doses until the patient is eating a full diet again",
+      "Stop the drug 1 week before surgery to avoid interactions with the anesthetic and restart it after discharge",
+      "Double the dose the night before to build up a reserve",
+      "Coordinate with the provider to continue doses on schedule where possible"
+    ],
+    "correctIndex": 3,
+    "explanation": "Missed or delayed levodopa doses can cause severe rigidity, swallowing difficulty, and a rare but serious withdrawal syndrome. Timing is planned with the provider and anesthesia."
+  },
+  {
+    "id": "preop_assessment_104",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient with myasthenia gravis is scheduled for surgery. Which information is most important for the anesthesia professional?",
+    "options": [
+      "Current medications and disease severity, since muscle relaxant sensitivity is likely",
+      "Seasonal allergy history and current allergy medications",
+      "The patient's preferred hospital meal and diet history, since nutrition determines the choice of drugs",
+      "Previous dental work and the date of the last cleaning"
+    ],
+    "correctIndex": 0,
+    "explanation": "Myasthenia gravis increases sensitivity to nondepolarizing neuromuscular blockers and risk of postoperative respiratory failure. Anticholinesterase therapy affects the anesthetic plan."
+  },
+  {
+    "id": "preop_assessment_105",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient has an insulin pump and is having a short procedure. What is the best preoperative action?",
+    "options": [
+      "Clarify the pump plan with the provider and anesthesia, including basal rate",
+      "Leave it running unchanged and without any documentation",
+      "Increase the bolus dose to prevent any hyperglycemia during the case",
+      "Remove the pump without notifying the anesthesia professional or the surgeon and begin an insulin infusion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Insulin pump management is individualized. Some patients continue a basal rate with glucose monitoring; others transition to IV insulin. Electrosurgery and imaging compatibility are also checked."
+  },
+  {
+    "id": "preop_assessment_106",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Before surgery, which dental finding should be reported to the anesthesia professional?",
+    "options": [
+      "Fluoride toothpaste use",
+      "Recent dental cleaning without problems",
+      "Straight, well-aligned teeth",
+      "Loose or chipped teeth"
+    ],
+    "correctIndex": 3,
+    "explanation": "Loose teeth can be dislodged and aspirated during airway management. Documenting existing damage also clarifies that it was present before surgery."
+  },
+  {
+    "id": "preop_assessment_107",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Why should a preexisting numbness or weakness in a limb be documented before surgery?",
+    "options": [
+      "So the patient can be positioned on the opposite side",
+      "Because it determines which antibiotic will be given",
+      "So a baseline exists and new postoperative deficits can be told from old ones",
+      "Because it requires the procedure to be canceled and rescheduled until the deficit has been fully evaluated"
+    ],
+    "correctIndex": 2,
+    "explanation": "Documenting preexisting neurologic deficits supports accurate evaluation of possible positioning or anesthesia-related nerve injury after surgery."
+  },
+  {
+    "id": "preop_assessment_108",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient with untreated hyperthyroidism has a heart rate of 128, tremor, and heat intolerance before elective surgery. Which serious complication is the team trying to prevent by delaying surgery?",
+    "options": [
+      "Addisonian crisis caused by thyroid hormone",
+      "Thyroid storm",
+      "Diabetes insipidus",
+      "Myxedema coma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Surgical stress in poorly controlled hyperthyroidism can precipitate thyroid storm with hyperthermia, tachycardia, and heart failure. Elective surgery is usually delayed until the patient is euthyroid."
+  },
+  {
+    "id": "preop_assessment_109",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Which patient finding most clearly indicates an elevated risk of aspiration during anesthesia?",
+    "options": [
+      "A healthy patient with no gastrointestinal history",
+      "Recent large meal before an emergency procedure",
+      "Clear liquids stopped 3 hours ago",
+      "Fasting from solids for 8 hours before an elective case"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patients with a full stomach, such as those needing emergency surgery after eating, have higher aspiration risk and may need rapid sequence induction."
+  },
+  {
+    "id": "preop_assessment_110",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient's preoperative hemoglobin is 8.1 g/dL before an elective joint replacement. What is the most appropriate nursing action?",
+    "options": [
+      "Give oral iron the same morning and proceed today",
+      "Proceed without reporting because transfusion is always available and the hemoglobin will be rechecked after surgery",
+      "Cancel the case independently without telling the surgeon",
+      "Report it, because the provider may treat the anemia before elective surgery"
+    ],
+    "correctIndex": 3,
+    "explanation": "Preoperative anemia increases transfusion and complication risk. Patient blood management programs often evaluate and treat anemia before elective surgery."
+  },
+  {
+    "id": "preop_assessment_111",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which question best assesses a patient's health literacy before teaching?",
+    "options": [
+      "'How confident are you filling out medical forms by yourself?'",
+      "'What is your highest academic degree?'",
+      "'Do you read the newspaper regularly at home?'",
+      "'Are you a nurse or a doctor by profession?'"
+    ],
+    "correctIndex": 0,
+    "explanation": "A single validated screening question about confidence with medical forms can identify limited health literacy, which guides teaching methods."
+  },
+  {
+    "id": "preop_assessment_112",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "After surgery, a patient with obstructive sleep apnea is receiving opioids. Which positioning is most appropriate in the PACU when not contraindicated?",
+    "options": [
+      "Trendelenburg position",
+      "Prone without monitoring",
+      "Semi-upright or lateral position rather than flat supine",
+      "Flat supine with the head turned toward the wall"
+    ],
+    "correctIndex": 2,
+    "explanation": "Supine positioning worsens upper airway obstruction in OSA. A semi-upright or lateral position, continuous monitoring, and CPAP when indicated reduce risk."
+  },
+  {
+    "id": "preop_assessment_113",
+    "category": "preop_assessment",
+    "difficulty": "easy",
+    "question": "Asking about advance directives during the preoperative assessment is important because it:",
+    "options": [
+      "Sets the order of cases scheduled for the day",
+      "Replaces the need for a signed surgical consent form",
+      "Identifies the patient's documented wishes and health care decision-maker",
+      "Determines which type of anesthesia the patient receives and the dose of the sedative given in holding"
+    ],
+    "correctIndex": 2,
+    "explanation": "Advance directives communicate the patient's preferences and surrogate decision-maker, which must be known and honored by the team."
+  },
+  {
+    "id": "preop_assessment_114",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "A patient reports a total knee replacement 5 years ago and an upcoming intraoperative MRI is planned. Why is this history important?",
+    "options": [
+      "Implanted metal must be identified and screened for MRI safety",
+      "It increases the risk of malignant hyperthermia",
+      "Joint implants always prevent the use of electrosurgery",
+      "The implant must be removed before MRI"
+    ],
+    "correctIndex": 0,
+    "explanation": "All implants and metal must be screened before MRI. Most modern orthopedic implants are MR conditional, but the specific device must be verified."
+  },
+  {
+    "id": "preop_assessment_115",
+    "category": "preop_assessment",
+    "difficulty": "medium",
+    "question": "Which finding suggests a patient may be frail and at higher risk of postoperative complications?",
+    "options": [
+      "A recent normal stress test and an active lifestyle with friends",
+      "Slow gait speed, weakness, unintended weight loss, and exhaustion",
+      "Independent living with no weight change and good grip strength",
+      "Daily jogging, stable weight, and quick gait speed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Frailty involves reduced physiologic reserve. Screening findings such as slow gait, weakness, weight loss, and fatigue predict complications and longer recovery."
+  },
+  {
+    "id": "preop_assessment_116",
+    "category": "preop_assessment",
+    "difficulty": "hard",
+    "question": "A patient on chronic warfarin for a mechanical mitral valve is having major surgery. Which plan is most likely to be ordered?",
+    "options": [
+      "Stop warfarin with no other plan because the mechanical valve itself protects the patient from clotting",
+      "Switch to aspirin alone beginning the morning of surgery",
+      "Continue full-dose warfarin with an INR kept above 4",
+      "Stop warfarin before surgery with bridging anticoagulation as directed"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mechanical mitral valves carry high thrombotic risk, so bridging with heparin is commonly considered when warfarin is interrupted. The plan is individualized by the provider."
+  }
+]

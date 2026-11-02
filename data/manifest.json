@@ -1,0 +1,70 @@
+{
+  "version": "2026.11.3",
+  "updatedAt": "2026-11-02T17:35:21Z",
+  "totalQuestions": 1008,
+  "categories": [
+    {
+      "id": "preop_assessment",
+      "name": "Pre/Postoperative Assessment & Diagnosis",
+      "icon": "stethoscope",
+      "count": 116,
+      "file": "preop_assessment.json"
+    },
+    {
+      "id": "plan_of_care",
+      "name": "Individualized Plan of Care",
+      "icon": "list.clipboard",
+      "count": 108,
+      "file": "plan_of_care.json"
+    },
+    {
+      "id": "intraop_care",
+      "name": "Intraoperative Care",
+      "icon": "cross.case",
+      "count": 128,
+      "file": "intraop_care.json"
+    },
+    {
+      "id": "communication",
+      "name": "Communication",
+      "icon": "bubble.left.and.bubble.right",
+      "count": 106,
+      "file": "communication.json"
+    },
+    {
+      "id": "transfer_of_care",
+      "name": "Transfer of Care",
+      "icon": "arrow.left.arrow.right",
+      "count": 106,
+      "file": "transfer_of_care.json"
+    },
+    {
+      "id": "sterilization",
+      "name": "Cleaning, Disinfection & Sterilization",
+      "icon": "drop.triangle",
+      "count": 120,
+      "file": "sterilization.json"
+    },
+    {
+      "id": "emergency",
+      "name": "Emergency Situations",
+      "icon": "bolt.heart",
+      "count": 112,
+      "file": "emergency.json"
+    },
+    {
+      "id": "management",
+      "name": "Management of Personnel & Equipment",
+      "icon": "person.3",
+      "count": 106,
+      "file": "management.json"
+    },
+    {
+      "id": "accountability",
+      "name": "Professional Accountability",
+      "icon": "checkmark.shield",
+      "count": 106,
+      "file": "accountability.json"
+    }
+  ]
+}

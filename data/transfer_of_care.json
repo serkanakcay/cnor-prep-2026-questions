@@ -1,0 +1,1486 @@
+[
+  {
+    "id": "transfer_of_care_001",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which information should be included in the OR-to-PACU handoff?",
+    "options": [
+      "Procedure, anesthesia, medications, fluids and blood loss, complications, allergies, lines/drains, and plan",
+      "Only the patient's name and procedure, since the chart holds the rest of the details for the next nurse",
+      "Only the case start and end times",
+      "Only the surgeon's phone number"
+    ],
+    "correctIndex": 0,
+    "explanation": "A comprehensive handoff ensures the receiving nurse has the information needed for safe recovery care."
+  },
+  {
+    "id": "transfer_of_care_002",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "The primary purpose of a standardized handoff process is to:",
+    "options": [
+      "Limit questions from the receiving nurse so that handoff is completed quickly",
+      "Shorten the case duration",
+      "Reduce communication errors and omissions during transitions of care",
+      "Replace documentation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Transitions are high-risk points for errors; standardized tools improve completeness and consistency."
+  },
+  {
+    "id": "transfer_of_care_003",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which action is essential when transferring a patient from the OR bed to a stretcher?",
+    "options": [
+      "Disconnect all IV lines before moving",
+      "Lock both surfaces, use enough staff and a transfer device, and protect lines and tubes",
+      "Unlock the stretcher so that it can slide easily toward the OR bed during the move",
+      "Have one person pull the patient over"
+    ],
+    "correctIndex": 1,
+    "explanation": "Locking surfaces and coordinated movement with assistive devices prevents falls, line dislodgement, and staff injury."
+  },
+  {
+    "id": "transfer_of_care_004",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "During transfer of an anesthetized patient, who is typically responsible for protecting the head and airway?",
+    "options": [
+      "The surgeon's assistant",
+      "The scrub person",
+      "The patient transporter",
+      "The anesthesia professional"
+    ],
+    "correctIndex": 3,
+    "explanation": "The anesthesia professional coordinates the move and manages the head, neck, and airway."
+  },
+  {
+    "id": "transfer_of_care_005",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "During a lunch relief, what must the circulating nurse hand off to the relieving nurse?",
+    "options": [
+      "Only the patient's name",
+      "Nothing, if the relief is expected to last under 30 minutes and the case is stable",
+      "Status of counts, medications and solutions on the field, specimens, and pending items",
+      "Only the surgeon's preferences"
+    ],
+    "correctIndex": 2,
+    "explanation": "Any relief, even temporary, requires a structured handoff of critical information."
+  },
+  {
+    "id": "transfer_of_care_006",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Medications and solutions on the sterile field should be:",
+    "options": [
+      "Labeled only by the surgeon",
+      "Labeled only at the end of the case",
+      "Unlabeled if only one medication is used, since the scrub person will remember it",
+      "Labeled with name, strength, and amount, and included in handoffs"
+    ],
+    "correctIndex": 3,
+    "explanation": "All medications on and off the sterile field must be labeled to prevent errors, especially during handoffs."
+  },
+  {
+    "id": "transfer_of_care_007",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "An intubated patient is transported directly from the OR to the ICU. Which requirement applies?",
+    "options": [
+      "Portable monitoring, oxygen and ventilation support, and accompaniment by qualified personnel",
+      "Disconnect monitors during transport",
+      "Transport by a single transporter to save time",
+      "No handoff is needed because the ICU already has the chart and can read the anesthesia record"
+    ],
+    "correctIndex": 0,
+    "explanation": "Critically ill patients need continuous monitoring and qualified personnel en route, followed by a structured bedside handoff."
+  },
+  {
+    "id": "transfer_of_care_008",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "What is the focus of Phase I postanesthesia care?",
+    "options": [
+      "Preparing the patient and family for discharge home and reviewing medications",
+      "Recovery from anesthesia to a physiologically stable state",
+      "Preoperative teaching",
+      "Extended observation for social reasons"
+    ],
+    "correctIndex": 1,
+    "explanation": "Phase I focuses on immediate recovery; Phase II prepares the patient for discharge to home or an extended care setting."
+  },
+  {
+    "id": "transfer_of_care_009",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Before the patient leaves the preoperative area for the OR, the nurse verifies:",
+    "options": [
+      "Identity, surgeon's schedule, and family contact only",
+      "Insurance authorization and room number",
+      "Consent and allergies only",
+      "Identity, procedure, consent, site marking, allergies, and fasting status"
+    ],
+    "correctIndex": 3,
+    "explanation": "Preprocedure verification ensures that all required elements are present and consistent before transfer."
+  },
+  {
+    "id": "transfer_of_care_010",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which condition best supports an effective handoff?",
+    "options": [
+      "Face-to-face communication with minimal interruptions and opportunity to ask questions",
+      "A note left on the stretcher",
+      "A text message sent during transport",
+      "A report given while both nurses continue to perform other tasks at the bedside"
+    ],
+    "correctIndex": 0,
+    "explanation": "Interactive, interruption-free communication allows clarification and improves accuracy."
+  },
+  {
+    "id": "transfer_of_care_011",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "An ambulatory patient who received moderate sedation is ready for discharge. Which requirement applies?",
+    "options": [
+      "The patient may leave after 10 minutes",
+      "The patient may drive home if feeling alert and after waiting 30 minutes in recovery",
+      "The patient is discharged with a responsible adult escort",
+      "The patient may take a taxi alone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sedation impairs judgment and reflexes; a responsible adult must accompany the patient."
+  },
+  {
+    "id": "transfer_of_care_012",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "How should a patient's valuables be handled during transfer?",
+    "options": [
+      "Leave them in the holding bay",
+      "Document and secure them per organizational policy",
+      "Give them to any staff member",
+      "Place them under the patient's pillow, where they can be reached when the patient wakes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Documented chain of custody protects patient property and reduces loss."
+  },
+  {
+    "id": "transfer_of_care_013",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which technique is appropriate when transferring a patient with an unstable spinal injury?",
+    "options": [
+      "Log-rolling with spinal alignment maintained and adequate personnel",
+      "Having the patient sit up and slide over",
+      "Lifting by the arms and legs",
+      "Twisting at the waist to place a slider board under the patient's shoulders and hips"
+    ],
+    "correctIndex": 0,
+    "explanation": "Maintaining neutral alignment protects the spinal cord during transfer."
+  },
+  {
+    "id": "transfer_of_care_014",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "Per AORN safe patient handling guidance, assistive devices should be used when a caregiver would need to lift more than:",
+    "options": [
+      "10 lb (about 4.5 kg)",
+      "35 lb (about 16 kg)",
+      "75 lb (about 34 kg)",
+      "100 lb (about 45 kg)"
+    ],
+    "correctIndex": 1,
+    "explanation": "The NIOSH-derived 35 lb limit applies to patient handling; above it, assistive devices should be used."
+  },
+  {
+    "id": "transfer_of_care_015",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "When an intubated patient arrives in the PACU, what should the PACU nurse do first?",
+    "options": [
+      "Call the family",
+      "Read the full operative report before assessing the patient at the bedside",
+      "Remove the IV line",
+      "Assess airway, breathing, and circulation and connect monitors"
+    ],
+    "correctIndex": 3,
+    "explanation": "Immediate assessment and monitoring take priority; the verbal report follows once the patient is stable."
+  },
+  {
+    "id": "transfer_of_care_016",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "How should a chest drainage system be managed during transport?",
+    "options": [
+      "Place it on the patient's chest",
+      "Clamp the tube for the entire trip so that fluid cannot leak from the system",
+      "Keep it upright and below chest level without routine clamping",
+      "Disconnect it until arrival"
+    ],
+    "correctIndex": 2,
+    "explanation": "Keeping the unit below the chest prevents backflow; routine clamping can cause tension pneumothorax."
+  },
+  {
+    "id": "transfer_of_care_017",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "A count discrepancy was resolved by radiograph during the case. How should this be handled at handoff?",
+    "options": [
+      "Communicate the discrepancy, actions taken, and imaging result, and document it",
+      "Omit it from the report because it was resolved before the patient left the room",
+      "Mention it only if asked",
+      "Document only a correct count"
+    ],
+    "correctIndex": 0,
+    "explanation": "Transparent communication and documentation support patient safety and follow-up."
+  },
+  {
+    "id": "transfer_of_care_018",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "During transfer, a urinary drainage bag should be kept:",
+    "options": [
+      "Clamped and on the floor",
+      "Below the level of the bladder and off the floor",
+      "Above the bladder for visibility, hooked on the stretcher rail beside the patient's head",
+      "On the patient's abdomen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Keeping the bag below the bladder prevents reflux and reduces infection risk."
+  },
+  {
+    "id": "transfer_of_care_019",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which information is LEAST relevant in an OR-to-PACU handoff?",
+    "options": [
+      "Drains and their locations, including the amount of drainage in each collection device",
+      "Estimated blood loss",
+      "Reversal agents given",
+      "The scheduling department's case cost estimate"
+    ],
+    "correctIndex": 3,
+    "explanation": "Handoffs should focus on clinical information needed for patient care."
+  },
+  {
+    "id": "transfer_of_care_020",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which action supports safe transfer of a patient's implant or explant information to the next care team?",
+    "options": [
+      "Discard explant information",
+      "Share it only with the surgeon",
+      "Include it in the handoff and confirm it is documented in the record",
+      "Keep it only in the circulator's personal notes, since the implant log is kept by supply"
+    ],
+    "correctIndex": 2,
+    "explanation": "Implant and explant information is part of the permanent record and supports follow-up care and reporting."
+  },
+  {
+    "id": "transfer_of_care_021",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which action improves safety before moving a patient on a stretcher?",
+    "options": [
+      "Leave the patient unattended on the stretcher",
+      "Unlock the wheels before transfer",
+      "Raise the side rails and lock the wheels until ready to move",
+      "Leave the side rails down for easy access while the team prepares to slide the patient"
+    ],
+    "correctIndex": 2,
+    "explanation": "Side rails and locked wheels help prevent falls during transfers."
+  },
+  {
+    "id": "transfer_of_care_022",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which device helps reduce friction and staff injury during lateral patient transfer?",
+    "options": [
+      "Lifting the patient by the arms",
+      "An air-assisted lateral transfer device or slide board",
+      "A drawsheet pulled by one person",
+      "Rolling the patient onto the floor mat and then lifting from the floor with two people"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assistive devices reduce effort and injury risk for staff and patients."
+  },
+  {
+    "id": "transfer_of_care_023",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "During transport from the OR to the PACU, the patient should be:",
+    "options": [
+      "Monitored and accompanied by the anesthesia professional and nurse as required",
+      "Transported alone by a transporter",
+      "Left in the hallway until PACU is ready",
+      "Transported without oxygen even if needed, to avoid delaying the move to the PACU"
+    ],
+    "correctIndex": 0,
+    "explanation": "Patients recovering from anesthesia need monitoring and qualified personnel during transport."
+  },
+  {
+    "id": "transfer_of_care_024",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "How should IV pumps and tubing be managed during transport?",
+    "options": [
+      "Let tubing drag on the floor",
+      "Clamp all infusions without orders",
+      "Disconnect all IVs for transport and reconnect them when the patient arrives in the PACU",
+      "Secure tubing and pumps to avoid dislodgment and keep infusions running as ordered"
+    ],
+    "correctIndex": 3,
+    "explanation": "Securing lines prevents accidental removal and interruption of critical medications."
+  },
+  {
+    "id": "transfer_of_care_025",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "An intubated patient is being transported to the ICU on a ventilator. Which item is essential during transport?",
+    "options": [
+      "An ECG paper printer",
+      "A suction canister without tubing, kept on the shelf of the stretcher during transport",
+      "A forced-air warmer only",
+      "A manual resuscitation bag, oxygen supply, and airway equipment"
+    ],
+    "correctIndex": 3,
+    "explanation": "Equipment failure or airway problems during transport require immediate manual ventilation and airway support."
+  },
+  {
+    "id": "transfer_of_care_026",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which practice promotes patient dignity during transfer?",
+    "options": [
+      "Removing blankets for easier movement, since a covered patient is harder to lift and slide",
+      "Allowing visitors to watch the transfer",
+      "Keeping the patient covered and minimizing exposure",
+      "Transporting the patient uncovered"
+    ],
+    "correctIndex": 2,
+    "explanation": "Privacy and warmth should be maintained during transfers."
+  },
+  {
+    "id": "transfer_of_care_027",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "What is the main purpose of using a lift team or mechanical lift for patients who cannot assist?",
+    "options": [
+      "To prevent injuries to patients and staff",
+      "To reduce documentation",
+      "To speed up surgery",
+      "To avoid using side rails and other restraints during the transfer between surfaces"
+    ],
+    "correctIndex": 0,
+    "explanation": "Safe patient handling programs reduce musculoskeletal injuries."
+  },
+  {
+    "id": "transfer_of_care_028",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "During transfer from the OR bed, the patient's chest tube becomes disconnected from the drainage system. What should be done first?",
+    "options": [
+      "Remove the chest tube",
+      "Place the tube end in sterile water or reconnect it quickly, per policy",
+      "Leave it open to air",
+      "Clamp the tube for the entire transport so that no air can enter the pleural space"
+    ],
+    "correctIndex": 1,
+    "explanation": "Submerging or reconnecting the tube restores the water seal and prevents air entry; prolonged clamping can cause tension pneumothorax."
+  },
+  {
+    "id": "transfer_of_care_029",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which patient should not be transported without oxygen and monitoring?",
+    "options": [
+      "A patient walking with a family member",
+      "A patient discharged home after Phase II",
+      "An awake patient after a short local procedure who is breathing room air comfortably",
+      "A patient recovering from general anesthesia with decreased oxygen saturation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Patients at risk for hypoxemia need oxygen and monitoring during transport."
+  },
+  {
+    "id": "transfer_of_care_030",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "What is the best way to transfer a patient with a hip fracture from the stretcher to the OR bed?",
+    "options": [
+      "Have the patient walk to the bed",
+      "Pull the patient by the legs",
+      "Use a slide board or lateral transfer device with enough staff to maintain alignment",
+      "Lift the patient by the arms only, with two staff members standing at the head of the bed"
+    ],
+    "correctIndex": 2,
+    "explanation": "Proper devices and staff maintain alignment and reduce pain and injury."
+  },
+  {
+    "id": "transfer_of_care_031",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which action protects the patient's airway during transfer from the OR bed?",
+    "options": [
+      "The anesthesia professional controls the head and airway and directs the move",
+      "The patient lifts their own head",
+      "The surgeon leaves before transfer",
+      "The circulator pulls the drawsheet toward the stretcher without coordinating with the others"
+    ],
+    "correctIndex": 0,
+    "explanation": "Coordinated transfers prevent airway displacement."
+  },
+  {
+    "id": "transfer_of_care_032",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "A patient with an epidural catheter is being transferred. Which practice is most important?",
+    "options": [
+      "Remove the catheter before transfer",
+      "Secure the catheter and dressing to prevent dislodgment and confirm infusion settings",
+      "Disconnect the infusion for transport without orders and restart it in the PACU",
+      "Leave the catheter under the patient"
+    ],
+    "correctIndex": 1,
+    "explanation": "Securing the catheter ensures continued analgesia and prevents complications."
+  },
+  {
+    "id": "transfer_of_care_033",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which practice reduces the risk of falls when a patient is moved from the OR bed?",
+    "options": [
+      "Lowering the side rails before transfer",
+      "Using enough staff and locking both surfaces",
+      "Unlocking the stretcher",
+      "Moving the patient quickly and alone, to reduce the time the patient is exposed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Coordination and locked surfaces prevent falls."
+  },
+  {
+    "id": "transfer_of_care_034",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which information is important to communicate when transferring a patient with a urinary catheter?",
+    "options": [
+      "Catheter type, insertion time, and output",
+      "Catheter manufacturer and lot number only",
+      "The size of the drainage bag",
+      "Only whether the patient voided before surgery"
+    ],
+    "correctIndex": 0,
+    "explanation": "Catheter information helps the next caregiver manage the device and assess output."
+  },
+  {
+    "id": "transfer_of_care_035",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "What is the purpose of a transfer checklist?",
+    "options": [
+      "To replace documentation",
+      "To reduce the need for communication between the OR team and the receiving unit",
+      "To track staff breaks",
+      "To ensure essential information and equipment accompany the patient"
+    ],
+    "correctIndex": 3,
+    "explanation": "Checklists reduce omissions during transfers."
+  },
+  {
+    "id": "transfer_of_care_036",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "A patient with a high BMI is being transferred to the PACU. Which practice is most important?",
+    "options": [
+      "Ask the patient to move alone onto the stretcher once the anesthetic has worn off",
+      "Use one staff member to save time",
+      "Use equipment rated for the patient's weight and enough trained staff",
+      "Use standard stretchers without checking capacity"
+    ],
+    "correctIndex": 2,
+    "explanation": "Proper equipment and staffing prevent injuries to patients and staff."
+  },
+  {
+    "id": "transfer_of_care_037",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which item should accompany a patient transferred to another unit?",
+    "options": [
+      "The surgeon's preference card and the instrument count sheets from the completed case",
+      "Current medication administration records and documentation",
+      "The sterilizer load record",
+      "Instrument count sheets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Complete documentation supports continuity of care."
+  },
+  {
+    "id": "transfer_of_care_038",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "How should a patient's head be positioned during transport after general anesthesia if not contraindicated?",
+    "options": [
+      "Prone",
+      "Flat with the chin on the chest, to keep the airway protected during transport",
+      "Trendelenburg",
+      "With the airway open, often slightly elevated or in a lateral position"
+    ],
+    "correctIndex": 3,
+    "explanation": "Positioning helps maintain a patent airway and reduces aspiration risk."
+  },
+  {
+    "id": "transfer_of_care_039",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which action is appropriate when transferring a patient with a traction device?",
+    "options": [
+      "Let the weights hang freely on the floor",
+      "Remove traction for transport without orders",
+      "Maintain traction alignment and follow the surgeon's instructions",
+      "Ignore alignment and focus on speed, so that the patient reaches the unit sooner"
+    ],
+    "correctIndex": 2,
+    "explanation": "Traction must be maintained to prevent injury."
+  },
+  {
+    "id": "transfer_of_care_040",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "During transfer, the patient's oxygen saturation drops and breathing becomes noisy. What is the first action?",
+    "options": [
+      "Stop and open the airway with head positioning or jaw thrust while calling for help",
+      "Continue transport quickly to reach the PACU, where more help and equipment are available",
+      "Give an opioid",
+      "Document and reassess later"
+    ],
+    "correctIndex": 0,
+    "explanation": "Airway obstruction must be addressed immediately."
+  },
+  {
+    "id": "transfer_of_care_041",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Phase II postanesthesia care is primarily concerned with:",
+    "options": [
+      "Preoperative teaching only",
+      "Preparing the patient for discharge home or to an extended care setting",
+      "Immediate airway support after anesthesia",
+      "Intraoperative monitoring and immediate airway support after emergence from anesthesia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Phase II focuses on preparing the patient and caregiver for discharge."
+  },
+  {
+    "id": "transfer_of_care_042",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Per ASPAN staffing guidance, what is the typical Phase I nurse-to-patient ratio for a stable patient who is awake?",
+    "options": [
+      "2 nurses to 1 patient for all patients",
+      "1 nurse to 10 patients",
+      "1 nurse to 6 patients",
+      "1 nurse to 2 patients"
+    ],
+    "correctIndex": 3,
+    "explanation": "Phase I ratios are typically 1:2 for stable patients and 1:1 for unstable or airway-dependent patients."
+  },
+  {
+    "id": "transfer_of_care_043",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "Which patient in Phase I requires 1:1 nursing care?",
+    "options": [
+      "A patient waiting for a ride home",
+      "An awake patient with stable vital signs and a pain score of 2 out of 10",
+      "A patient who is unconscious and requires airway support",
+      "A patient ready for discharge"
+    ],
+    "correctIndex": 2,
+    "explanation": "Unstable patients or those needing airway support require one-to-one care."
+  },
+  {
+    "id": "transfer_of_care_044",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which criterion must usually be met before discharge from Phase I to Phase II?",
+    "options": [
+      "Stable vital signs and adequate airway and oxygenation",
+      "The patient has eaten a full meal and walked unassisted around the unit",
+      "The patient has walked one mile",
+      "The family has arrived"
+    ],
+    "correctIndex": 0,
+    "explanation": "Phase I discharge depends on stable vital signs, airway, and level of consciousness."
+  },
+  {
+    "id": "transfer_of_care_045",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "What is 'fast-tracking' in ambulatory surgery?",
+    "options": [
+      "Skipping discharge teaching so that the patient can leave the facility sooner",
+      "Moving patients to the ICU quickly",
+      "Discharging without an escort",
+      "Bypassing Phase I and moving directly to Phase II when criteria are met"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fast-tracking is possible when patients meet Phase I discharge criteria in the OR."
+  },
+  {
+    "id": "transfer_of_care_046",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which factor is most important when determining discharge after outpatient surgery?",
+    "options": [
+      "A minimum of 4 hours in recovery for all patients",
+      "Return of appetite for a full meal",
+      "Meeting discharge criteria such as stable vitals, pain control, and minimal nausea",
+      "The time the patient's ride is available"
+    ],
+    "correctIndex": 2,
+    "explanation": "Discharge is based on criteria, not time alone."
+  },
+  {
+    "id": "transfer_of_care_047",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "A patient who had a spinal anesthetic in an ambulatory center wants to go home. Which criterion is commonly assessed before discharge?",
+    "options": [
+      "Return of sensation and motor function and ability to void if required by protocol",
+      "Completion of a full meal and tolerance of oral fluids without any assistance",
+      "Ability to drive",
+      "Return to work clearance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Regional anesthesia effects must resolve sufficiently for safe ambulation."
+  },
+  {
+    "id": "transfer_of_care_048",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which item is essential before discharging a patient home after anesthesia?",
+    "options": [
+      "A prescription for prophylactic antibiotics filled before the patient leaves",
+      "Written discharge instructions and a responsible adult escort",
+      "A full meal tolerated without nausea",
+      "A follow-up appointment the next morning"
+    ],
+    "correctIndex": 1,
+    "explanation": "Instructions and an escort are standard discharge requirements."
+  },
+  {
+    "id": "transfer_of_care_049",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which statement indicates a patient is ready for discharge education?",
+    "options": [
+      "The patient refuses to talk",
+      "The patient is vomiting",
+      "The patient is drowsy and cannot stay awake long enough to follow instructions",
+      "The patient is alert and able to understand instructions"
+    ],
+    "correctIndex": 3,
+    "explanation": "Patients need to be alert to learn; caregivers are included."
+  },
+  {
+    "id": "transfer_of_care_050",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "A PACU patient has stable vitals but persistent nausea and vomiting. What is the most appropriate action?",
+    "options": [
+      "Discharge immediately",
+      "Treat the nausea and delay discharge until it is controlled",
+      "Give oral fluids rapidly to flush the stomach and treat dehydration, then discharge",
+      "Ignore the nausea"
+    ],
+    "correctIndex": 1,
+    "explanation": "Uncontrolled PONV can delay discharge and cause dehydration."
+  },
+  {
+    "id": "transfer_of_care_051",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "Which patient is most appropriate for discharge from Phase II?",
+    "options": [
+      "A patient with stable vitals, minimal pain, no nausea, and an escort",
+      "A patient who cannot stand",
+      "A patient with uncontrolled pain",
+      "A patient with no escort after sedation who says that a taxi will take the patient home"
+    ],
+    "correctIndex": 0,
+    "explanation": "Discharge criteria include stable vitals, controlled pain and nausea, and a responsible adult."
+  },
+  {
+    "id": "transfer_of_care_052",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which PACU finding should be reported before transfer to the floor?",
+    "options": [
+      "Stable blood pressure",
+      "Pain controlled at 2/10",
+      "A new decrease in oxygen saturation",
+      "Normal temperature"
+    ],
+    "correctIndex": 2,
+    "explanation": "New changes in condition must be addressed before transfer."
+  },
+  {
+    "id": "transfer_of_care_053",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which document should be reviewed during PACU handoff?",
+    "options": [
+      "The supply invoice",
+      "The scheduling log for the day, which lists the cases in each operating room",
+      "The intraoperative record including medications and fluids",
+      "The staff roster"
+    ],
+    "correctIndex": 2,
+    "explanation": "Intraoperative information guides postoperative care."
+  },
+  {
+    "id": "transfer_of_care_054",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "A PACU nurse receives a patient who had a nerve block. Which handoff information is most important?",
+    "options": [
+      "The surgeon's preference card and the supplies listed for the nerve block",
+      "The OR room number",
+      "The brand of needle",
+      "The type of block, side, time, and expected duration"
+    ],
+    "correctIndex": 3,
+    "explanation": "Block details guide monitoring and protection of the numb limb."
+  },
+  {
+    "id": "transfer_of_care_055",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "A PACU patient is ready for transfer, but the receiving unit is not ready. What is the best action?",
+    "options": [
+      "Continue monitoring in the PACU and update the receiving unit until a safe handoff can occur",
+      "Leave the patient in the hallway until the receiving unit is ready to accept the patient",
+      "Discharge the patient home",
+      "Transfer without handoff"
+    ],
+    "correctIndex": 0,
+    "explanation": "Safe transfer requires an available receiving nurse."
+  },
+  {
+    "id": "transfer_of_care_056",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which handoff element helps the receiving nurse plan pain management?",
+    "options": [
+      "The total length of the incision",
+      "Analgesics given and the time of the last dose",
+      "The type of skin prep that was used",
+      "The number of sponges used during the case"
+    ],
+    "correctIndex": 1,
+    "explanation": "Timing of analgesics helps prevent overdose and gaps in pain control."
+  },
+  {
+    "id": "transfer_of_care_057",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which situation requires the PACU nurse to notify the anesthesia professional before transfer?",
+    "options": [
+      "The patient wants to call family members to say the procedure is finished",
+      "The patient asks for water",
+      "The patient asks for a blanket",
+      "Respiratory depression or unstable vital signs"
+    ],
+    "correctIndex": 3,
+    "explanation": "Instability must be addressed before the patient leaves the PACU."
+  },
+  {
+    "id": "transfer_of_care_058",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "What is the main purpose of an ambulatory discharge phone call?",
+    "options": [
+      "To schedule the patient's next surgical procedure and confirm the preoperative testing",
+      "To assess recovery and answer questions after discharge",
+      "To complete patient satisfaction billing",
+      "To replace written discharge instructions"
+    ],
+    "correctIndex": 1,
+    "explanation": "Follow-up calls identify complications and reinforce teaching."
+  },
+  {
+    "id": "transfer_of_care_059",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "A patient who received general anesthesia insists on driving home. What is the best response?",
+    "options": [
+      "Call a taxi and send the patient alone",
+      "Delay discharge for 1 hour and then allow the patient to drive home if alert",
+      "Explain that driving is unsafe and discharge requires a responsible adult escort",
+      "Allow the patient to drive if alert"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anesthesia effects can impair judgment and reaction time."
+  },
+  {
+    "id": "transfer_of_care_060",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which item should be included in discharge teaching after surgery?",
+    "options": [
+      "Signs of infection and when to call the surgeon",
+      "How to perform surgery at home",
+      "How to adjust anesthesia drugs",
+      "How to remove the sutures alone on day 1 using a sterile pair of scissors"
+    ],
+    "correctIndex": 0,
+    "explanation": "Patients need to recognize complications and know who to contact."
+  },
+  {
+    "id": "transfer_of_care_061",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which handoff element is most important for a patient with a known difficult airway?",
+    "options": [
+      "Communicating the airway history and any airway devices used",
+      "The total anesthesia time",
+      "The patient's preferred position for sleeping and the pillow the patient requested",
+      "The brand of laryngoscope blade used"
+    ],
+    "correctIndex": 0,
+    "explanation": "Airway history guides postoperative monitoring and emergency planning."
+  },
+  {
+    "id": "transfer_of_care_062",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "During handoff, the receiving nurse should:",
+    "options": [
+      "Rely only on the written record",
+      "Leave before the report is finished, to see the next patient",
+      "Ask questions and confirm understanding",
+      "Listen without asking anything"
+    ],
+    "correctIndex": 2,
+    "explanation": "Interactive handoffs allow clarification and reduce errors."
+  },
+  {
+    "id": "transfer_of_care_063",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which item should be reported during handoff for a patient who received blood products?",
+    "options": [
+      "Blood bank staff names",
+      "Blood bag color",
+      "The blood bank's phone number only, and the name of the technologist who issued the units",
+      "Type and amount of products and any reactions"
+    ],
+    "correctIndex": 3,
+    "explanation": "Transfusion details guide monitoring for delayed reactions and fluid balance."
+  },
+  {
+    "id": "transfer_of_care_064",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Why should the receiving nurse verify medications that were given in the OR?",
+    "options": [
+      "To correct the anesthesia record before it is sent to the quality department",
+      "To prevent duplicate doses and anticipate side effects",
+      "To change the surgeon's orders",
+      "To bill the patient"
+    ],
+    "correctIndex": 1,
+    "explanation": "Knowing intraoperative medications helps prevent errors."
+  },
+  {
+    "id": "transfer_of_care_065",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "During handoff, the PACU nurse notices the report omits that the patient received a long-acting opioid. Which consequence is most likely?",
+    "options": [
+      "Lower risk of nausea",
+      "Increased risk of oversedation from duplicate opioid dosing",
+      "Improved pain control with no added risk of sedation or respiratory depression",
+      "Faster recovery"
+    ],
+    "correctIndex": 1,
+    "explanation": "Omissions can lead to medication errors and harm."
+  },
+  {
+    "id": "transfer_of_care_066",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which information about drains should be included in handoff?",
+    "options": [
+      "Drain manufacturer and lot number only",
+      "The suture type used to close the incision and the surgeon's glove size",
+      "Type, location, and amount and character of drainage",
+      "Only whether the drain is radiopaque"
+    ],
+    "correctIndex": 2,
+    "explanation": "Drain details allow monitoring and early detection of complications."
+  },
+  {
+    "id": "transfer_of_care_067",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which handoff element is most important for a patient with a pressure injury risk?",
+    "options": [
+      "Skin assessment findings and positioning used during surgery",
+      "Only the total procedure time",
+      "The patient's preoperative weight only",
+      "The name of the positioning device vendor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Skin findings and positioning help the next nurse monitor for injury."
+  },
+  {
+    "id": "transfer_of_care_068",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "A patient has an implanted device that was reprogrammed for surgery. What must be communicated at handoff?",
+    "options": [
+      "Only the device manufacturer's name",
+      "The device's implant date only",
+      "The battery serial number",
+      "The device status and plan for restoring settings"
+    ],
+    "correctIndex": 3,
+    "explanation": "Device settings must be restored and monitored after surgery."
+  },
+  {
+    "id": "transfer_of_care_069",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "A patient was positioned prone for 5 hours. Which handoff information is most important for the PACU nurse?",
+    "options": [
+      "The prone frame model and its weight limit",
+      "Positioning details, padding used, and any skin or eye concerns",
+      "Only the start and stop times of the case",
+      "The number of staff who turned the patient and the time it took to turn him"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prolonged prone positioning increases risk of pressure and eye injuries."
+  },
+  {
+    "id": "transfer_of_care_070",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which tool helps standardize handoffs between caregivers?",
+    "options": [
+      "I-PASS or SBAR",
+      "PASS",
+      "RACE",
+      "ABCDE"
+    ],
+    "correctIndex": 0,
+    "explanation": "Structured tools reduce communication errors."
+  },
+  {
+    "id": "transfer_of_care_071",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which situation is a high-risk transition that requires careful handoff?",
+    "options": [
+      "Repositioning the patient within the same bed",
+      "Moving the patient from stretcher to chair in Phase II",
+      "Transfer from the OR to the ICU",
+      "Changing the patient's IV bag"
+    ],
+    "correctIndex": 2,
+    "explanation": "Transitions between units are high-risk for communication errors."
+  },
+  {
+    "id": "transfer_of_care_072",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Why should handoff occur at the bedside when possible?",
+    "options": [
+      "It reduces privacy",
+      "It takes longer without benefit",
+      "It eliminates documentation",
+      "It allows visual verification and patient involvement"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bedside handoffs improve accuracy and engagement."
+  },
+  {
+    "id": "transfer_of_care_073",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "A patient with a history of opioid use disorder is transferred to the floor. Which handoff element is most important?",
+    "options": [
+      "The patient's preferred pharmacy",
+      "The patient's insurance coverage for rehabilitation and any follow-up counseling services",
+      "Only the time of the last nonopioid analgesic",
+      "The pain management plan and any medications for opioid use disorder"
+    ],
+    "correctIndex": 3,
+    "explanation": "Clear plans prevent withdrawal and uncontrolled pain."
+  },
+  {
+    "id": "transfer_of_care_074",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which practice helps prevent loss of patient belongings during transfer?",
+    "options": [
+      "Ignoring belongings",
+      "Leaving belongings in the OR",
+      "Documenting belongings and following policy for securing them",
+      "Giving belongings to any visitor who is waiting near the PACU entrance"
+    ],
+    "correctIndex": 2,
+    "explanation": "Documentation and policy prevent loss and disputes."
+  },
+  {
+    "id": "transfer_of_care_075",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which handoff element supports infection prevention?",
+    "options": [
+      "The type of skin prep used",
+      "Isolation status and any multidrug-resistant organism history",
+      "The patient's admission source and the date of the previous hospital stay",
+      "The total case duration"
+    ],
+    "correctIndex": 1,
+    "explanation": "Isolation information ensures appropriate precautions."
+  },
+  {
+    "id": "transfer_of_care_076",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which information should be included in handoff for a patient with diabetes?",
+    "options": [
+      "Glucose values, insulin given, and the next monitoring time",
+      "Only the preoperative fasting time and the time of the last meal before surgery",
+      "Only the patient's hemoglobin A1c",
+      "The glucometer's serial number"
+    ],
+    "correctIndex": 0,
+    "explanation": "Glucose data guides ongoing management."
+  },
+  {
+    "id": "transfer_of_care_077",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "During handoff, the receiving nurse is distracted by a phone call. What is the best action?",
+    "options": [
+      "Give the report to the patient instead, so the patient can pass it to the nurse",
+      "Leave a note and walk away",
+      "Continue the report anyway",
+      "Pause the handoff until the receiver can give full attention"
+    ],
+    "correctIndex": 3,
+    "explanation": "Distractions increase omission risk."
+  },
+  {
+    "id": "transfer_of_care_078",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which item should be included in a handoff for a patient with a cast?",
+    "options": [
+      "Neurovascular status and elevation instructions",
+      "The cast technician's name",
+      "Cast material and color",
+      "The total procedure time"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neurovascular assessment helps detect compartment syndrome."
+  },
+  {
+    "id": "transfer_of_care_079",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "What is the purpose of reviewing pending lab results during handoff?",
+    "options": [
+      "To bill for labs",
+      "To reduce documentation",
+      "To ensure follow-up of results that may affect care",
+      "To change the procedure"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pending results must be tracked to avoid missed abnormalities."
+  },
+  {
+    "id": "transfer_of_care_080",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which handoff element is important for a patient with a new tracheostomy?",
+    "options": [
+      "The tracheostomy manufacturer only",
+      "Tube type and size, emergency equipment at bedside, and airway concerns",
+      "Only the incision length",
+      "The total anesthesia time"
+    ],
+    "correctIndex": 1,
+    "explanation": "Airway information ensures emergency readiness."
+  },
+  {
+    "id": "transfer_of_care_081",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which patient group often needs a warmed transport incubator or warming device during transfer?",
+    "options": [
+      "Healthy adults",
+      "Ambulatory adults",
+      "Neonates",
+      "Patients discharged home"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neonates lose heat quickly and need temperature support."
+  },
+  {
+    "id": "transfer_of_care_082",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "A patient on airborne precautions is being transported. What should the patient wear if tolerated?",
+    "options": [
+      "A surgical mask",
+      "A face shield only",
+      "No mask",
+      "An N95 respirator"
+    ],
+    "correctIndex": 0,
+    "explanation": "Patients wear a surgical mask to contain droplets; staff wear N95 respirators."
+  },
+  {
+    "id": "transfer_of_care_083",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which preparation is important before transporting a patient to MRI?",
+    "options": [
+      "Skip screening if urgent",
+      "Bring the standard IV poles and monitors from the OR, since they are compatible",
+      "Use regular oxygen cylinders",
+      "Screen for metal and use MRI-safe equipment"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ferromagnetic objects can become projectiles in MRI."
+  },
+  {
+    "id": "transfer_of_care_084",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "A patient requires transfer to another facility for higher-level care. Which communication is required?",
+    "options": [
+      "A note in the chart only",
+      "Provider-to-provider and nurse-to-nurse handoff with records sent",
+      "A phone call to the family only",
+      "No communication is needed if the patient is stable and the records are sent later"
+    ],
+    "correctIndex": 1,
+    "explanation": "Interfacility transfers require clear communication and documentation."
+  },
+  {
+    "id": "transfer_of_care_085",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which item should be checked before transporting a patient with oxygen?",
+    "options": [
+      "The stretcher's weight limit only",
+      "Oxygen tank level and flow rate",
+      "The oxygen tank's purchase date",
+      "The oxygen tubing color"
+    ],
+    "correctIndex": 1,
+    "explanation": "Adequate oxygen supply is essential during transport."
+  },
+  {
+    "id": "transfer_of_care_086",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Why should a patient be transported feet first on a stretcher in most hallways?",
+    "options": [
+      "Because it is faster to maneuver the stretcher through narrow hallways and doorways",
+      "To reduce noise",
+      "So the staff at the head can monitor the patient's airway and face",
+      "To keep the patient warm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Positioning allows staff to observe the patient's face and airway."
+  },
+  {
+    "id": "transfer_of_care_087",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "A patient with a halo vest is being transferred. Which practice is important?",
+    "options": [
+      "Remove the vest for transport",
+      "Lift the patient by the halo frame",
+      "Leave the wrench in the OR",
+      "Keep the wrench for emergency removal with the patient and avoid lifting by the frame"
+    ],
+    "correctIndex": 3,
+    "explanation": "The wrench allows emergency access to the chest; the frame is not used as a handle."
+  },
+  {
+    "id": "transfer_of_care_088",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "Which discharge plan element is most important for an older adult going home after surgery?",
+    "options": [
+      "Assessment of home support, mobility, and medication management",
+      "Discharging without teaching",
+      "Scheduling follow-up only if problems occur after discharge, based on patient calls",
+      "Assuming the patient can manage alone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Older adults may need support for safe recovery at home."
+  },
+  {
+    "id": "transfer_of_care_089",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "What should be done with a patient's dentures during transfer?",
+    "options": [
+      "Give them to any visitor",
+      "Label and secure them per policy",
+      "Throw them away",
+      "Leave them in the OR, where they can be retrieved by the patient on the next day"
+    ],
+    "correctIndex": 1,
+    "explanation": "Proper handling prevents loss and supports patient comfort."
+  },
+  {
+    "id": "transfer_of_care_090",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which information should be given to the patient's caregiver at discharge?",
+    "options": [
+      "The surgeon's operative note in full",
+      "The intraoperative count sheet",
+      "Medication instructions, activity limits, and warning signs",
+      "The anesthesia machine settings"
+    ],
+    "correctIndex": 2,
+    "explanation": "Caregivers need clear instructions to support recovery."
+  },
+  {
+    "id": "transfer_of_care_091",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which action supports medication reconciliation at discharge?",
+    "options": [
+      "Asking the patient to decide",
+      "Ignoring home medications",
+      "Giving the patient all inpatient medications",
+      "Comparing discharge orders with home medications and resolving discrepancies"
+    ],
+    "correctIndex": 3,
+    "explanation": "Reconciliation prevents omissions and duplications."
+  },
+  {
+    "id": "transfer_of_care_092",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "A patient will go home with a peripheral nerve block catheter. Which teaching is most important?",
+    "options": [
+      "Protecting the numb limb and recognizing signs of local anesthetic toxicity",
+      "Using heating pads on the numb limb",
+      "Removing the catheter on day 1 without instructions, if the leg feels numb",
+      "Ignoring numbness"
+    ],
+    "correctIndex": 0,
+    "explanation": "Patients must protect insensate limbs and know warning signs."
+  },
+  {
+    "id": "transfer_of_care_093",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which patient needs an escort at discharge?",
+    "options": [
+      "A patient who received sedation or anesthesia",
+      "A visitor",
+      "A staff member",
+      "A patient who only had a blood draw"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sedation affects judgment and safety."
+  },
+  {
+    "id": "transfer_of_care_094",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "A pediatric patient is ready for discharge. Which criterion is important?",
+    "options": [
+      "The child is sleeping deeply and cannot be aroused for the discharge teaching",
+      "The child is vomiting",
+      "The child is awake, drinking fluids if required, and parents understand instructions",
+      "The parents are absent"
+    ],
+    "correctIndex": 2,
+    "explanation": "Discharge criteria include alertness, hydration, and caregiver understanding."
+  },
+  {
+    "id": "transfer_of_care_095",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "What is the purpose of providing a contact number at discharge?",
+    "options": [
+      "To schedule unrelated elective procedures",
+      "To allow patients to report problems and ask questions",
+      "To replace the follow-up appointment",
+      "To confirm payment arrangements"
+    ],
+    "correctIndex": 1,
+    "explanation": "Access to help improves safety after discharge."
+  },
+  {
+    "id": "transfer_of_care_096",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "A patient lives alone and has limited mobility after surgery. What is the best discharge plan?",
+    "options": [
+      "Discharge with no plan",
+      "Delay discharge indefinitely",
+      "Tell the patient to call a neighbor if help is needed after discharge",
+      "Arrange home support or a short-term facility and confirm needs before discharge"
+    ],
+    "correctIndex": 3,
+    "explanation": "Safe discharge requires adequate support."
+  },
+  {
+    "id": "transfer_of_care_097",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which information should be reported to the PACU about specimens?",
+    "options": [
+      "The OR room temperature",
+      "The specimen container brand",
+      "Specimens sent and any pending results",
+      "The pathologist's schedule"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pending specimen results may affect follow-up care."
+  },
+  {
+    "id": "transfer_of_care_098",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "A patient has a sequential compression device in the OR. What should be communicated at handoff?",
+    "options": [
+      "Device use and plan for continued VTE prophylaxis",
+      "The sleeve size and manufacturer only",
+      "Nothing, because the device is routine and is removed in the PACU",
+      "The device's last maintenance date"
+    ],
+    "correctIndex": 0,
+    "explanation": "VTE prophylaxis continuity reduces clot risk."
+  },
+  {
+    "id": "transfer_of_care_099",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "A patient with a nasogastric tube to low suction is moving from the OR bed to a stretcher. What should the nurse do?",
+    "options": [
+      "Let it hang freely without securing it, so that the suction canister drains by gravity",
+      "Secure the tube and verify its placement and suction settings",
+      "Remove it before transfer",
+      "Increase suction to maximum"
+    ],
+    "correctIndex": 1,
+    "explanation": "Securing the tube prevents displacement."
+  },
+  {
+    "id": "transfer_of_care_100",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "A patient with a new colostomy is ready for discharge. Which teaching is most important?",
+    "options": [
+      "Ignoring stoma changes",
+      "Avoiding all fluids",
+      "How to irrigate the colostomy on day 1 without instruction from the surgeon",
+      "Stoma care, pouch changes, and signs of complications"
+    ],
+    "correctIndex": 3,
+    "explanation": "Patients need education for self-care and early recognition of problems."
+  },
+  {
+    "id": "transfer_of_care_101",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which practice helps prevent transfer-related injuries to staff?",
+    "options": [
+      "Lifting patients alone",
+      "Avoiding assistive devices and relying on the strength of the staff members",
+      "Using proper body mechanics and assistive devices",
+      "Twisting while lifting"
+    ],
+    "correctIndex": 2,
+    "explanation": "Safe patient handling reduces injuries."
+  },
+  {
+    "id": "transfer_of_care_102",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which information should be shared when a patient is transferred with an arterial line?",
+    "options": [
+      "The time the line was last flushed several days before surgery",
+      "Line location, patency, and alarm settings",
+      "The transducer's purchase date",
+      "The catheter brand only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Arterial line information supports monitoring and safety."
+  },
+  {
+    "id": "transfer_of_care_103",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "A patient has a femoral venous catheter in place for transport to the ICU. Which precaution applies?",
+    "options": [
+      "Ignore the site",
+      "Allow full hip flexion",
+      "Remove the line before transfer, then replace it in the ICU when the patient arrives",
+      "Protect the insertion site and avoid excessive hip flexion"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hip flexion can dislodge or kink the line."
+  },
+  {
+    "id": "transfer_of_care_104",
+    "category": "transfer_of_care",
+    "difficulty": "hard",
+    "question": "During transfer, a patient becomes agitated and tries to remove an IV. What is the best action?",
+    "options": [
+      "Ensure safety, reassure the patient, and assess for causes such as hypoxia or pain",
+      "Remove the IV",
+      "Restrain without assessment to keep the line in place, then document the behavior",
+      "Ignore the behavior"
+    ],
+    "correctIndex": 0,
+    "explanation": "Agitation may signal physiological problems."
+  },
+  {
+    "id": "transfer_of_care_105",
+    "category": "transfer_of_care",
+    "difficulty": "easy",
+    "question": "Which item should be verified before moving a patient to the PACU?",
+    "options": [
+      "Patient identity and handoff readiness",
+      "The surgeon's next scheduled case",
+      "The OR cleaning schedule",
+      "The patient's discharge medications and the instructions for the first postoperative day"
+    ],
+    "correctIndex": 0,
+    "explanation": "Verification ensures correct patient and readiness."
+  },
+  {
+    "id": "transfer_of_care_106",
+    "category": "transfer_of_care",
+    "difficulty": "medium",
+    "question": "Which factor is most important when deciding transport personnel for a critically ill patient?",
+    "options": [
+      "The time of day",
+      "The patient's condition and need for advanced monitoring",
+      "Who is available first, regardless of competency or the patient's condition",
+      "Staff preference"
+    ],
+    "correctIndex": 1,
+    "explanation": "Critically ill patients need qualified personnel during transport."
+  }
+]

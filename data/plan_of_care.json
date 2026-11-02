@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "plan_of_care_001",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "In the nursing process, which step follows nursing diagnosis?",
+    "options": [
+      "Outcome identification and planning",
+      "Documentation of discharge instructions",
+      "Evaluation of whether outcomes were achieved",
+      "Assessment of the patient's current status"
+    ],
+    "correctIndex": 0,
+    "explanation": "The sequence is assessment, diagnosis, outcome identification, planning, implementation, and evaluation."
+  },
+  {
+    "id": "plan_of_care_002",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "The Perioperative Nursing Data Set (PNDS) is best described as:",
+    "options": [
+      "A national registry of surgical complications and outcomes",
+      "A billing code system for surgical procedures, supplies, implants, and operating room time",
+      "A standard vocabulary for perioperative nursing diagnoses, interventions, and outcomes",
+      "A staffing formula for perioperative nursing departments"
+    ],
+    "correctIndex": 2,
+    "explanation": "The PNDS, developed by AORN, provides structured language that links perioperative nursing diagnoses, interventions, and patient outcomes."
+  },
+  {
+    "id": "plan_of_care_003",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "Which is a correctly written, measurable patient outcome?",
+    "options": [
+      "The nurse will pad all of the bony prominences during positioning",
+      "The patient's skin is intact, without new redness at pressure points, on PACU arrival",
+      "The patient will feel better and be more comfortable after the surgery is over today, per the nurse",
+      "The patient will have a good surgical experience overall in our unit"
+    ],
+    "correctIndex": 1,
+    "explanation": "Measurable outcomes are patient-centered, specific, observable, and time-bound."
+  },
+  {
+    "id": "plan_of_care_004",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient with severe hearing loss is scheduled for surgery. Which intervention best individualizes care?",
+    "options": [
+      "Speak louder and faster to the patient in the holding area in order to save time before the case",
+      "Communicate only with the family members who are present in the room",
+      "Remove hearing aids in the holding area per routine and store them in the chart",
+      "Let hearing aids stay in until the patient is sedated, then label and secure them"
+    ],
+    "correctIndex": 3,
+    "explanation": "Keeping hearing aids in until sedation supports communication and safety; they must be labeled, secured, and documented."
+  },
+  {
+    "id": "plan_of_care_005",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient who is a Jehovah's Witness declines blood transfusion. What should the plan of care include?",
+    "options": [
+      "Administer blood if it is needed, because the patient will be anesthetized and cannot object to the transfusion",
+      "Ask the family to override the decision once the patient is under anesthesia",
+      "Clarify and document which blood products or techniques (such as cell salvage) the patient accepts",
+      "Cancel the surgery, since the patient's religious beliefs make the procedure unsafe"
+    ],
+    "correctIndex": 2,
+    "explanation": "Competent adults may refuse treatment. Individual acceptance of fractions and techniques varies, so specifics must be clarified and shared."
+  },
+  {
+    "id": "plan_of_care_006",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "For a patient with a confirmed latex allergy, the plan of care should include:",
+    "options": [
+      "Covering latex items with a clean towel on the back table and using them anyway if needed",
+      "Premedication with an antihistamine only, with standard supplies",
+      "Using powdered latex gloves with extra rinsing at the sink",
+      "A latex-safe environment and supplies, with all team members alerted"
+    ],
+    "correctIndex": 3,
+    "explanation": "A latex-safe environment and clear communication prevent exposure that can trigger anaphylaxis."
+  },
+  {
+    "id": "plan_of_care_007",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "Which intervention best reduces preoperative anxiety in a 6-year-old child?",
+    "options": [
+      "Allowing a comfort item and giving simple, age-appropriate explanations",
+      "Separating the child from the parents early in the holding area",
+      "Explaining the whole procedure to the child using detailed medical terms and every risk",
+      "Avoiding any explanation, to prevent the child from becoming fearful"
+    ],
+    "correctIndex": 0,
+    "explanation": "Developmentally appropriate preparation, comfort items, and parental presence per policy reduce anxiety in children."
+  },
+  {
+    "id": "plan_of_care_008",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "An older adult with dementia is scheduled for hip surgery. Which plan of care element is most appropriate?",
+    "options": [
+      "Omit pain assessment, because self-report is unreliable in dementia",
+      "Include the caregiver in planning and provide frequent reorientation",
+      "Use restraints routinely in the holding area to keep the patient from wandering or pulling lines",
+      "Avoid speaking directly to the patient and talk to staff"
+    ],
+    "correctIndex": 1,
+    "explanation": "Caregiver involvement and reorientation help reduce distress and delirium; pain should be assessed with appropriate tools."
+  },
+  {
+    "id": "plan_of_care_009",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "Which intervention best prevents unplanned perioperative hypothermia in a long abdominal procedure?",
+    "options": [
+      "Waiting until the patient begins to shiver before applying warming",
+      "Lowering the room temperature to 60 °F to reduce infection risk",
+      "Using only cotton blankets after the procedure is finished",
+      "Prewarming the patient with forced-air warming before induction"
+    ],
+    "correctIndex": 3,
+    "explanation": "Prewarming reduces redistribution hypothermia after induction; active warming should continue intraoperatively."
+  },
+  {
+    "id": "plan_of_care_010",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient with an implanted pacemaker will undergo surgery using monopolar electrosurgery. Which action is appropriate?",
+    "options": [
+      "Place the dispersive electrode directly over the pacemaker generator and use the lowest power setting",
+      "Use the highest power setting to shorten each activation time",
+      "Keep the current path away from the device and use bipolar when feasible",
+      "No special considerations are required for modern pacemakers"
+    ],
+    "correctIndex": 2,
+    "explanation": "Electrosurgical current can interfere with implanted devices. Device management is coordinated with anesthesia/cardiology, and the current path is kept away from the device."
+  },
+  {
+    "id": "plan_of_care_011",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "Before transferring a patient who weighs 190 kg to the OR bed, the nurse should first:",
+    "options": [
+      "Verify the weight capacity of the OR bed and positioning equipment",
+      "Use the standard OR bed and add extra safety straps across the patient's chest and thighs",
+      "Request two additional staff members to lift the patient",
+      "Ask the patient to slide over to the OR bed without assistance"
+    ],
+    "correctIndex": 0,
+    "explanation": "Equipment must be rated for the patient's weight and size; safe patient handling devices should be used."
+  },
+  {
+    "id": "plan_of_care_012",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Evaluation in the perioperative plan of care determines:",
+    "options": [
+      "The scheduled start time of the next case in the room",
+      "Whether the desired patient outcomes were achieved",
+      "Which surgeon performed the procedure on the patient",
+      "The total cost of supplies used during the case"
+    ],
+    "correctIndex": 1,
+    "explanation": "Evaluation compares the patient's status with expected outcomes and guides revision of the plan."
+  },
+  {
+    "id": "plan_of_care_013",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient with a do-not-resuscitate (DNR) order is scheduled for surgery. What is the recommended approach?",
+    "options": [
+      "Automatically suspend the DNR order for the entire time the patient is in the OR and PACU",
+      "Automatically keep the DNR order in force with no further discussion",
+      "Cancel the procedure until the DNR order has been formally rescinded",
+      "Hold a required-reconsideration discussion with the patient, surgeon, and anesthesia"
+    ],
+    "correctIndex": 3,
+    "explanation": "AORN and professional societies recommend reconsidering DNR orders before anesthesia and surgery rather than automatically suspending them."
+  },
+  {
+    "id": "plan_of_care_014",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient asks to keep a religious medallion during surgery. What is the best response?",
+    "options": [
+      "Accommodate the request when safe, securing the item and documenting it",
+      "Give the medallion to any available staff member to hold",
+      "Tape the medallion into the surgical field for good luck",
+      "Refuse the request, because all personal and religious items must be removed before surgery"
+    ],
+    "correctIndex": 0,
+    "explanation": "Respecting cultural and spiritual needs is part of individualized care, provided the item does not pose a safety risk (for example, in the field or ESU path)."
+  },
+  {
+    "id": "plan_of_care_015",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "For a patient at high risk for venous thromboembolism, which intervention should be implemented as ordered?",
+    "options": [
+      "Restrict fluids to reduce venous return",
+      "Place a pillow under the calves to keep the legs elevated and comfortable throughout the case",
+      "Apply sequential compression devices before induction",
+      "Keep the patient's knees flexed throughout surgery"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mechanical prophylaxis started before induction reduces venous stasis; pressure under the calves should be avoided."
+  },
+  {
+    "id": "plan_of_care_016",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient who takes high-dose opioids for chronic pain is scheduled for surgery. Which plan is most appropriate?",
+    "options": [
+      "Withhold all opioids around surgery to prevent addiction",
+      "Anticipate higher analgesic needs and coordinate a multimodal plan with anesthesia",
+      "Rely solely on ice packs and acetaminophen after surgery",
+      "Use standard opioid-naive dosing for the procedure, because tolerance is not a concern with surgery"
+    ],
+    "correctIndex": 1,
+    "explanation": "Opioid-tolerant patients often need higher doses and benefit from multimodal analgesia; abrupt withdrawal should be avoided."
+  },
+  {
+    "id": "plan_of_care_017",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Discharge teaching for an ambulatory surgery patient should be provided:",
+    "options": [
+      "Only to the patient, by telephone, the day after the procedure",
+      "Verbally and in writing to the patient and a responsible adult",
+      "Only if the patient specifically asks for the information",
+      "Only verbally, while the patient is still drowsy from sedation in the PACU and cannot recall it"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sedation can impair recall, so written instructions and teaching a responsible adult improve safety."
+  },
+  {
+    "id": "plan_of_care_018",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "To reduce surgical site infection risk, most prophylactic IV antibiotics should be completed within what time before incision?",
+    "options": [
+      "6 hours",
+      "5 minutes after incision",
+      "24 hours",
+      "60 minutes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Most agents are given within 60 minutes before incision; vancomycin and fluoroquinolones are given within 120 minutes."
+  },
+  {
+    "id": "plan_of_care_019",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient has limited English proficiency. Which approach best supports informed communication?",
+    "options": [
+      "Use a qualified medical interpreter",
+      "Speak slowly in English and nod",
+      "Ask the patient's teenage child to interpret",
+      "Use gestures only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Qualified interpreters reduce errors and protect privacy; family members, especially minors, should not interpret clinical information."
+  },
+  {
+    "id": "plan_of_care_020",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient with rheumatoid arthritis has limited neck range of motion. How should positioning be planned?",
+    "options": [
+      "Position after induction without any prior range-of-motion assessment",
+      "Use the standard position for every patient to save time",
+      "Assess range of motion while the patient is awake and position within those limits",
+      "Extend the neck fully after induction to improve exposure for the surgeon and the anesthesia team"
+    ],
+    "correctIndex": 2,
+    "explanation": "Assessing tolerated range of motion before induction prevents injury when the patient cannot report discomfort."
+  },
+  {
+    "id": "plan_of_care_021",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "Which of the following is one of the patient-focused domains in the PNDS?",
+    "options": [
+      "Financial reimbursement",
+      "Physiologic responses",
+      "Instrument tracking",
+      "Surgeon preference"
+    ],
+    "correctIndex": 1,
+    "explanation": "PNDS domains include Safety, Physiologic Responses, and Behavioral Responses (patient and family), all within the Health System."
+  },
+  {
+    "id": "plan_of_care_022",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A procedure using cefazolin prophylaxis is still in progress 4 hours after the first dose. What should the plan of care include?",
+    "options": [
+      "Stopping antibiotics altogether after the incision, because the first dose is enough for any case",
+      "Switching to an oral antibiotic partway through the procedure",
+      "Waiting until the end of surgery before giving the next dose",
+      "Redosing cefazolin as ordered, because the redosing interval has been exceeded"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cefazolin is commonly redosed about every 4 hours during long procedures, or sooner with major blood loss, to keep tissue levels adequate."
+  },
+  {
+    "id": "plan_of_care_023",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "Vancomycin is ordered for surgical prophylaxis. When should the infusion usually begin?",
+    "options": [
+      "Within about 120 minutes before incision, because it infuses slowly",
+      "At the end of the procedure, when closure begins",
+      "Immediately after the incision is made, as a rapid bolus given over about one minute",
+      "Exactly 5 minutes before incision, as a rapid push"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vancomycin and fluoroquinolones require longer infusion times, so they are started within 120 minutes before incision; rapid infusion can cause flushing and hypotension."
+  },
+  {
+    "id": "plan_of_care_024",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient weighing 130 kg is to receive cefazolin prophylaxis. Which dose is commonly recommended?",
+    "options": [
+      "250 mg orally",
+      "1 g IV",
+      "3 g IV",
+      "500 mg IV"
+    ],
+    "correctIndex": 2,
+    "explanation": "Weight-based dosing guidance commonly recommends 2 g of cefazolin for adults and 3 g for patients weighing 120 kg or more."
+  },
+  {
+    "id": "plan_of_care_025",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which plan of care element is part of an Enhanced Recovery After Surgery (ERAS) pathway?",
+    "options": [
+      "Fasting from midnight for both solids and clear fluids",
+      "Prolonged bed rest for several days after the operation",
+      "Multimodal, opioid-sparing analgesia with early mobilization",
+      "Routine nasogastric tube decompression for every patient after major abdominal surgery"
+    ],
+    "correctIndex": 2,
+    "explanation": "ERAS pathways combine evidence-based elements such as carbohydrate loading, opioid-sparing analgesia, early feeding, and early ambulation."
+  },
+  {
+    "id": "plan_of_care_026",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "Why may a patient on an ERAS pathway drink a clear carbohydrate beverage up to 2 hours before surgery?",
+    "options": [
+      "It is needed so that the prophylactic antibiotic is absorbed from the stomach before incision",
+      "It reduces insulin resistance and patient discomfort from fasting",
+      "It replaces the need for IV fluids during surgery",
+      "It increases gastric volume for better imaging"
+    ],
+    "correctIndex": 1,
+    "explanation": "Preoperative carbohydrate loading reduces thirst, hunger, and anxiety and lowers postoperative insulin resistance in eligible patients."
+  },
+  {
+    "id": "plan_of_care_027",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient with active pulmonary tuberculosis needs urgent surgery. Which plan of care is most appropriate?",
+    "options": [
+      "Use droplet precautions with standard surgical masks only for the team",
+      "Cancel the procedure regardless of urgency until the patient's sputum cultures are negative for three days",
+      "Open the OR doors to increase ventilation and clear the room air",
+      "Use airborne precautions with fit-tested N95s, keep doors closed, and filter the anesthesia circuit"
+    ],
+    "correctIndex": 3,
+    "explanation": "Airborne precautions protect staff; a filter on the breathing circuit protects equipment. The patient wears a mask during transport and recovers in an airborne isolation room."
+  },
+  {
+    "id": "plan_of_care_028",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which intervention in the plan of care helps reduce the risk of surgical site infection?",
+    "options": [
+      "Giving prophylactic antibiotics within the recommended window before incision",
+      "Keeping the patient cold during surgery, because low temperatures reduce bacterial growth in the wound",
+      "Shaving the site with a razor the night before surgery",
+      "Removing the dressing in the PACU to inspect the wound"
+    ],
+    "correctIndex": 0,
+    "explanation": "Timely antibiotics, clipping instead of shaving, normothermia, glucose control, and proper skin antisepsis reduce SSI risk."
+  },
+  {
+    "id": "plan_of_care_029",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient on buprenorphine for opioid use disorder is scheduled for surgery. Which plan is most appropriate?",
+    "options": [
+      "Coordinate with the prescriber and anesthesia; often continue buprenorphine with multimodal analgesia",
+      "Stop buprenorphine abruptly the week before surgery to clear the drug",
+      "Withhold all postoperative pain medication, to protect the patient's long-term recovery from opioid addiction",
+      "Give only full opioid agonists, at standard doses for opioid-naive patients"
+    ],
+    "correctIndex": 0,
+    "explanation": "Current guidance often supports continuing buprenorphine to prevent relapse and withdrawal, with multimodal and regional analgesia as needed."
+  },
+  {
+    "id": "plan_of_care_030",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient has a documented MRSA infection. Which element should the plan of care include?",
+    "options": [
+      "No special precautions, because MRSA is common",
+      "Postponing every surgery until repeat cultures are negative on two separate days, regardless of urgency",
+      "Contact precautions per policy and appropriate antibiotic prophylaxis as ordered",
+      "Airborne precautions with N95 respirators for all staff"
+    ],
+    "correctIndex": 2,
+    "explanation": "Contact precautions reduce transmission. Some patients receive vancomycin in addition to standard prophylaxis based on their MRSA status."
+  },
+  {
+    "id": "plan_of_care_031",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient known to be MH-susceptible is scheduled for surgery. What should the plan of care include?",
+    "options": [
+      "Volatile agents at low concentration, with temperature monitoring only and no other preparation of the machine",
+      "Succinylcholine for rapid intubation, with dantrolene on standby",
+      "Premedication with dantrolene in all cases, with a standard anesthetic",
+      "A trigger-free anesthetic, a prepared machine (such as charcoal filters), and MH supplies on hand"
+    ],
+    "correctIndex": 3,
+    "explanation": "MH-susceptible patients receive non-triggering anesthetics. The machine is flushed or fitted with charcoal filters, and dantrolene is immediately available."
+  },
+  {
+    "id": "plan_of_care_032",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which outcome reflects an infection-related goal in a perioperative plan of care?",
+    "options": [
+      "The patient will choose the type of anesthesia used",
+      "The patient is free from signs of surgical site infection at follow-up",
+      "The patient will have a short procedure time",
+      "The surgeon will use the robotic system and a minimally invasive approach for the case"
+    ],
+    "correctIndex": 1,
+    "explanation": "Outcomes are patient-centered and measurable, linked to the nursing diagnosis."
+  },
+  {
+    "id": "plan_of_care_033",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "Which plan of care element best addresses a patient at high risk for postoperative nausea and vomiting?",
+    "options": [
+      "Avoiding antiemetics until the patient has already vomited",
+      "Multimodal prophylaxis as ordered with reduced use of emetogenic drugs",
+      "Using high-dose opioids only after surgery, to keep the patient comfortable and quiet",
+      "Withholding all fluids after surgery to reduce vomiting"
+    ],
+    "correctIndex": 1,
+    "explanation": "High-risk patients benefit from combination prophylaxis and strategies that limit triggers such as volatile agents and opioids."
+  },
+  {
+    "id": "plan_of_care_034",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient with type 1 diabetes is first on the schedule for elective surgery. Which plan is most appropriate?",
+    "options": [
+      "Follow the provider's adjusted insulin plan, schedule the case early, and monitor glucose",
+      "Hold all insulin, including basal insulin, for 24 hours before surgery",
+      "Give the full usual morning insulin dose while the patient is NPO, and recheck glucose in the PACU",
+      "Check glucose only after the patient arrives in the PACU"
+    ],
+    "correctIndex": 0,
+    "explanation": "Type 1 diabetes requires basal insulin to prevent ketoacidosis. Early scheduling and frequent monitoring reduce hypo- and hyperglycemia."
+  },
+  {
+    "id": "plan_of_care_035",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "Which plan of care element addresses risk for impaired skin integrity in a patient having a 6-hour procedure?",
+    "options": [
+      "Positioning without padding, to keep the patient stable",
+      "Using thin sheets only, to keep the patient stable",
+      "Avoiding any skin assessment until the day of discharge, when the patient can describe symptoms to the nurse",
+      "Pressure-redistributing surfaces, padding of bony prominences, and skin checks before and after"
+    ],
+    "correctIndex": 3,
+    "explanation": "Prevention includes appropriate support surfaces, padding, and assessment to detect early pressure injury."
+  },
+  {
+    "id": "plan_of_care_036",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "The perioperative plan of care should be developed:",
+    "options": [
+      "Without patient involvement, using the chart alone",
+      "Only by the surgeon, based on the surgical diagnosis",
+      "With the patient, using assessment data and input from the team",
+      "After the procedure is complete, once the patient reaches the PACU and is awake"
+    ],
+    "correctIndex": 2,
+    "explanation": "Individualized plans incorporate assessment findings, patient preferences, and interdisciplinary input."
+  },
+  {
+    "id": "plan_of_care_037",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient asks to use their own scented lotion before surgery. What is the best plan?",
+    "options": [
+      "Allow lotion only after the prep has been applied and dried",
+      "Apply the lotion over the whole body, including the surgical site",
+      "Explain that lotion should not go on the surgical site because it can interfere with antisepsis",
+      "Apply the lotion under the dispersive electrode to improve contact between the pad and the patient's skin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lotions and creams can interfere with antiseptics and electrode adhesion and should be avoided on the day of surgery."
+  },
+  {
+    "id": "plan_of_care_038",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient is scheduled for surgery and has a cardiac implantable electronic device with pacemaker dependency. Which plan is most important?",
+    "options": [
+      "Avoid cardiac monitoring entirely, because the monitor leads can interfere with the pacemaker's function",
+      "Ensure the device is managed as directed so pacing continues safely during electrosurgery",
+      "Turn off pacing for the entire case so it cannot be disturbed",
+      "Place the dispersive electrode over the device to protect it"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pacemaker-dependent patients may need asynchronous pacing to avoid inhibition from electrosurgical interference."
+  },
+  {
+    "id": "plan_of_care_039",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient's preoperative CHG bath instructions should include:",
+    "options": [
+      "Using it only after surgery, to protect the incision",
+      "Using it on the eyes and ears for thorough cleansing",
+      "Rinsing it off immediately and then applying a moisturizing lotion over the whole body afterward",
+      "Avoiding the face and genital mucosa and following the product's instructions"
+    ],
+    "correctIndex": 3,
+    "explanation": "Preoperative CHG bathing reduces skin bacteria; it should not be used on mucous membranes, eyes, or ears."
+  },
+  {
+    "id": "plan_of_care_040",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "What is the main purpose of outcome identification in the nursing process?",
+    "options": [
+      "To define measurable goals that show whether interventions were effective",
+      "To bill the insurer for the procedure performed",
+      "To choose which surgeon will perform the operation and book the operating room schedule",
+      "To schedule the case in the operating room"
+    ],
+    "correctIndex": 0,
+    "explanation": "Outcome identification sets clear, measurable goals for evaluation."
+  },
+  {
+    "id": "plan_of_care_041",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "Which plan of care element addresses a patient at risk for falls after spinal anesthesia?",
+    "options": [
+      "Assess motor and sensory return before ambulation and assist the first time up",
+      "Ambulate the patient with help before motor function has fully returned to the legs",
+      "Remove the bed rails once the spinal anesthetic is in",
+      "Encourage the patient to walk alone as soon as possible"
+    ],
+    "correctIndex": 0,
+    "explanation": "Motor and sensory return and orthostatic tolerance are assessed before assisting the patient to ambulate."
+  },
+  {
+    "id": "plan_of_care_042",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which intervention best supports a patient with low vision on the day of surgery?",
+    "options": [
+      "Remove the glasses at the front desk and store them in a locker until the patient is discharged",
+      "Speak only to the family and not to the patient",
+      "Give only written instructions printed in small type",
+      "Orient the patient to surroundings and keep glasses with them until sedated"
+    ],
+    "correctIndex": 3,
+    "explanation": "Keeping glasses available and orienting the patient promotes safety and communication."
+  },
+  {
+    "id": "plan_of_care_043",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A Muslim woman requests female staff and modest coverage whenever possible. What is the best plan?",
+    "options": [
+      "Explain that such requests cannot be honored in the operating room for safety and workflow reasons",
+      "Honor the request when possible, minimize exposure, and tell the team of her preference",
+      "Ask the family to persuade her to drop the request",
+      "Ignore the request once the patient has been sedated"
+    ],
+    "correctIndex": 1,
+    "explanation": "Respecting cultural and religious preferences, while maintaining safety, supports dignity and trust."
+  },
+  {
+    "id": "plan_of_care_044",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A Sikh patient asks to keep his kara (steel bracelet) during surgery. Which plan is most appropriate?",
+    "options": [
+      "Remove it forcibly after induction, so that it cannot cause an electrosurgical burn to the patient",
+      "Ignore the burn risk, since stainless steel does not conduct current",
+      "Discuss options such as taping and securing it away from the site and current path",
+      "Tell him it must be thrown away, because it is not allowed in the OR"
+    ],
+    "correctIndex": 2,
+    "explanation": "Religious items can often be accommodated with risk-reduction measures, such as covering, securing, and keeping them away from electrosurgical current pathways."
+  },
+  {
+    "id": "plan_of_care_045",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A transgender patient is scheduled for surgery. Which plan of care element is most appropriate?",
+    "options": [
+      "Avoid discussing any anatomy that is relevant to the planned care so the patient is not upset",
+      "Use the patient's chosen name and pronouns, and base care on clinical needs",
+      "Use only the legal sex marker for all communication and care",
+      "Ask the patient to justify his or her identity before surgery"
+    ],
+    "correctIndex": 1,
+    "explanation": "Respectful communication and accurate clinical information, such as anatomy relevant to screening or catheterization, support safe care."
+  },
+  {
+    "id": "plan_of_care_046",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "A child is anxious before surgery. Which intervention is most appropriate?",
+    "options": [
+      "Separate the child from the parents as early as possible so that the child learns to cope alone",
+      "Avoid speaking directly to the child to prevent crying",
+      "Use detailed adult-level explanations of the procedure",
+      "Use play or distraction techniques appropriate for the child's age"
+    ],
+    "correctIndex": 3,
+    "explanation": "Developmentally appropriate preparation and distraction reduce anxiety in children."
+  },
+  {
+    "id": "plan_of_care_047",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "An adolescent asks to talk privately about sexual activity before surgery. What is the best response?",
+    "options": [
+      "Refuse the request, because the parents must always be present for every private conversation",
+      "Tell the parents everything the adolescent said in confidence",
+      "Provide a private discussion as policy allows and explain confidentiality limits",
+      "Ignore the request and continue the routine interview"
+    ],
+    "correctIndex": 2,
+    "explanation": "Adolescents should have opportunities for confidential discussions within legal and policy limits."
+  },
+  {
+    "id": "plan_of_care_048",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient with autism spectrum disorder is scheduled for surgery and becomes distressed with noise and bright lights. Which plan is most appropriate?",
+    "options": [
+      "Reduce sensory stimulation, involve caregivers, and consider a quiet space and timing",
+      "Avoid caregiver involvement, because their presence usually increases the patient's agitation and distress",
+      "Restrain the patient until induction to prevent self-injury",
+      "Proceed in a busy holding area where staff can watch closely"
+    ],
+    "correctIndex": 0,
+    "explanation": "Individualized sensory accommodations and caregiver input reduce distress and improve cooperation."
+  },
+  {
+    "id": "plan_of_care_049",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "Which plan of care element supports an older adult at risk for postoperative delirium?",
+    "options": [
+      "Keep glasses and hearing aids available, protect sleep, and avoid high-risk drugs when possible",
+      "Keep the patient in a dark, quiet room all day to rest",
+      "Remove hearing aids for the entire stay so they are not lost",
+      "Use benzodiazepines routinely at night to help the patient sleep and reduce confusion on the unit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Delirium prevention bundles include reorientation, sensory aids, mobility, sleep hygiene, and avoiding deliriogenic drugs."
+  },
+  {
+    "id": "plan_of_care_050",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "A patient uses a wheelchair at home. Which item should be included in the plan of care?",
+    "options": [
+      "Assuming the patient can walk safely after surgery",
+      "Ignoring the patient's mobility needs at home",
+      "Removing the wheelchair from the home plan entirely, since the patient will walk after surgery",
+      "Assessment of mobility needs and safe transfer methods"
+    ],
+    "correctIndex": 3,
+    "explanation": "Planning includes safe transfers, positioning needs, and discharge mobility."
+  },
+  {
+    "id": "plan_of_care_051",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient with a history of trauma becomes anxious when touched without warning. Which plan best reflects trauma-informed care?",
+    "options": [
+      "Avoid asking permission before touching the patient",
+      "Proceed quickly with the planned care and without any explanation, to limit the time the patient is anxious",
+      "Explain each step before touching and offer choices whenever possible",
+      "Restrain the patient to keep everyone safe"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trauma-informed care emphasizes safety, choice, and collaboration to reduce distress."
+  },
+  {
+    "id": "plan_of_care_052",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient with an above-knee amputation needs positioning for surgery. Which plan is most appropriate?",
+    "options": [
+      "Strap the residual limb down tightly to keep it from moving",
+      "Pad and support the residual limb to prevent pressure and maintain alignment",
+      "Leave the residual limb unsupported so that it hangs freely off the side of the OR bed",
+      "Rest the residual limb on the hard edge of the OR bed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Residual limbs need support and padding to prevent pressure injury and maintain alignment."
+  },
+  {
+    "id": "plan_of_care_053",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient with a spinal cord injury is scheduled for surgery. Which plan of care element is important?",
+    "options": [
+      "Assume no blood pressure changes will occur during the case",
+      "Ignore bladder management, because the bladder is paralyzed and cannot cause any problems during surgery",
+      "Prevent pressure injuries and watch for autonomic dysreflexia if the injury is at T6 or above",
+      "Avoid all padding, because the patient cannot feel pressure"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients with spinal cord injuries have reduced sensation and are at risk for pressure injuries and autonomic dysreflexia."
+  },
+  {
+    "id": "plan_of_care_054",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "A patient prefers to have a family member present during discharge teaching. What is the best response?",
+    "options": [
+      "Refuse, because discharge teaching is private to the patient",
+      "Include the family member if the patient agrees",
+      "Skip the teaching entirely and give a pamphlet",
+      "Teach the family member only and skip the patient"
+    ],
+    "correctIndex": 1,
+    "explanation": "Including support persons, with patient consent, improves understanding and recovery."
+  },
+  {
+    "id": "plan_of_care_055",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient observes a religious fast during daylight hours. Which plan is most appropriate?",
+    "options": [
+      "Discuss fasting with the patient and provider to plan medications, fluids, and timing",
+      "Cancel the surgery because of the patient's religious practice and reschedule it for another month",
+      "Ignore the fast and proceed with the usual instructions",
+      "Insist that the patient eat before surgery despite the fast"
+    ],
+    "correctIndex": 0,
+    "explanation": "Discussing religious practices allows safe planning that respects the patient's beliefs."
+  },
+  {
+    "id": "plan_of_care_056",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient with obesity is scheduled for general anesthesia. Which positioning plan supports airway management?",
+    "options": [
+      "Place the patient flat with no head support, since a ramp interferes with mask ventilation",
+      "Position the patient prone for induction",
+      "Place the patient in Trendelenburg",
+      "Ramp the patient with the ear level with the sternal notch before induction"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ramping improves the view during laryngoscopy and improves ventilation in patients with obesity."
+  },
+  {
+    "id": "plan_of_care_057",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient with a pressure injury on the sacrum will be supine for surgery. Which plan is most appropriate?",
+    "options": [
+      "Place the patient directly on the area",
+      "Ignore the injury",
+      "Use pressure-redistribution and offload the area whenever possible",
+      "Use a donut-shaped foam device so the injured area is suspended over the center opening"
+    ],
+    "correctIndex": 2,
+    "explanation": "Donut devices concentrate pressure; pressure-redistributing surfaces and offloading are preferred."
+  },
+  {
+    "id": "plan_of_care_058",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which plan of care element helps protect a patient with a known latex allergy?",
+    "options": [
+      "Use latex catheters only, and cover the patient's skin with a towel before the catheter is placed",
+      "Ignore the allergy for brief cases",
+      "Use latex gloves with powder",
+      "Ensure the room and supplies are latex-safe and alert the team"
+    ],
+    "correctIndex": 3,
+    "explanation": "A latex-safe environment and communication prevent allergic reactions."
+  },
+  {
+    "id": "plan_of_care_059",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A pregnant patient is scheduled for nonobstetric surgery. Which plan of care element is appropriate?",
+    "options": [
+      "Coordinate with obstetric providers about fetal monitoring and positioning",
+      "Use maximum radiation exposure",
+      "Place the patient supine without tilt",
+      "Avoid all communication with obstetrics until the procedure is finished, to prevent delaying surgery"
+    ],
+    "correctIndex": 0,
+    "explanation": "Collaboration ensures maternal and fetal safety through monitoring, positioning, and medication choices."
+  },
+  {
+    "id": "plan_of_care_060",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient has severe anxiety and requests that the team play specific music during induction. Which plan is most appropriate?",
+    "options": [
+      "Refuse all music in the OR",
+      "Accommodate the request if it does not interfere with communication and safety",
+      "Ignore the request after the patient is asleep",
+      "Play loud music during the time-out as well, so that the patient stays calm during the safety check"
+    ],
+    "correctIndex": 1,
+    "explanation": "Music can reduce anxiety, but it must not interfere with communication or critical moments such as the time-out."
+  },
+  {
+    "id": "plan_of_care_061",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient refuses a blood transfusion but accepts cell salvage. What should the plan of care include?",
+    "options": [
+      "Cancel the case",
+      "Ask the family to override the decision",
+      "Document the specific acceptance and set up cell salvage if appropriate",
+      "Use blood products anyway if bleeding occurs, since the patient will not remember the decision later"
+    ],
+    "correctIndex": 2,
+    "explanation": "Plans should honor patient choices and specify which blood conservation techniques are acceptable."
+  },
+  {
+    "id": "plan_of_care_062",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which step of the nursing process involves carrying out planned interventions?",
+    "options": [
+      "Diagnosis",
+      "Evaluation",
+      "Assessment",
+      "Implementation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Implementation is when the nurse performs interventions to achieve patient outcomes."
+  },
+  {
+    "id": "plan_of_care_063",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient outcome is not met. What is the most appropriate next step?",
+    "options": [
+      "Ignore the outcome",
+      "Reassess the patient and revise the plan of care",
+      "Discharge the patient immediately",
+      "Document that it was met"
+    ],
+    "correctIndex": 1,
+    "explanation": "Evaluation guides revision of the plan when goals are not met."
+  },
+  {
+    "id": "plan_of_care_064",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "Which outcome is most appropriate for the nursing diagnosis 'Risk for perioperative hypothermia'?",
+    "options": [
+      "Core temperature remains at or above 36 °C on PACU arrival",
+      "The patient will be comfortable",
+      "The patient will wear warm socks and a hat during the whole preoperative waiting period",
+      "The room will be warm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Outcomes should be specific and measurable."
+  },
+  {
+    "id": "plan_of_care_065",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient with a nursing diagnosis of 'Anxiety' is crying and trembling in the holding area. Which intervention is most appropriate first?",
+    "options": [
+      "Acknowledge the feelings, provide information, and offer support",
+      "Give sedation without orders",
+      "Leave the patient alone",
+      "Tell the patient to calm down and take deep breaths, then leave to prepare the room for the case"
+    ],
+    "correctIndex": 0,
+    "explanation": "Therapeutic communication and information reduce anxiety; sedation requires an order."
+  },
+  {
+    "id": "plan_of_care_066",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which item is a nursing intervention rather than an outcome?",
+    "options": [
+      "The patient remains free of DVT",
+      "The patient's skin is intact",
+      "Apply sequential compression devices before induction",
+      "The patient states pain is 3 out of 10"
+    ],
+    "correctIndex": 2,
+    "explanation": "Interventions are actions; outcomes are results in the patient."
+  },
+  {
+    "id": "plan_of_care_067",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "Which tool provides a standardized framework for perioperative nursing outcomes?",
+    "options": [
+      "The DSM-5",
+      "The Perioperative Nursing Data Set (PNDS)",
+      "The CPT manual",
+      "The ICD-10 coding manual"
+    ],
+    "correctIndex": 1,
+    "explanation": "The PNDS links perioperative nursing diagnoses, interventions, and outcomes."
+  },
+  {
+    "id": "plan_of_care_068",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient is scheduled for a same-day discharge after surgery. Which plan of care element is essential?",
+    "options": [
+      "Discharge without instructions",
+      "Allow the patient to drive home",
+      "Skip discharge teaching",
+      "Confirm a responsible adult escort and home support"
+    ],
+    "correctIndex": 3,
+    "explanation": "Patients who receive anesthesia or sedation need an escort and support at home."
+  },
+  {
+    "id": "plan_of_care_069",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient's pain remains 8 out of 10 after the first opioid dose in the PACU. Which action best reflects evaluation?",
+    "options": [
+      "Document that pain is controlled",
+      "Reassess and notify the provider so the plan can be adjusted if pain is uncontrolled",
+      "Tell the patient pain is normal",
+      "Wait until the patient is discharged to reassess, since pain is expected after surgery"
+    ],
+    "correctIndex": 1,
+    "explanation": "Evaluation leads to revision when outcomes are not met."
+  },
+  {
+    "id": "plan_of_care_070",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which statement reflects patient-centered planning?",
+    "options": [
+      "The surgeon decides all care",
+      "Family wishes override the patient's",
+      "The plan is identical for all patients",
+      "The patient's preferences and values are included in the plan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Individualized care considers the patient's values and preferences."
+  },
+  {
+    "id": "plan_of_care_071",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient with diabetes is scheduled for a long case. Which plan is most appropriate?",
+    "options": [
+      "Monitor glucose at regular intervals and treat per protocol",
+      "Avoid glucose checks during surgery",
+      "Give insulin without checking glucose",
+      "Check glucose only once before incision, since a single normal value is enough for a long case"
+    ],
+    "correctIndex": 0,
+    "explanation": "Regular monitoring helps prevent hypo- and hyperglycemia."
+  },
+  {
+    "id": "plan_of_care_072",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient will undergo a long procedure in prone position. Which plan best addresses risk for perioperative visual loss?",
+    "options": [
+      "Place the head below the level of the heart to improve blood flow to the optic nerves and brain during the case",
+      "Allow pressure on the eyes",
+      "Keep the head neutral, avoid eye pressure, and monitor blood pressure and blood loss",
+      "Use no padding"
+    ],
+    "correctIndex": 2,
+    "explanation": "Visual loss risk increases with long prone procedures, blood loss, and hypotension; positioning and monitoring help reduce risk."
+  },
+  {
+    "id": "plan_of_care_073",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "Which plan element supports patient safety for a patient with dementia who wanders?",
+    "options": [
+      "Leave the patient alone in the holding area",
+      "Use restraints routinely",
+      "Allow the patient to walk unsupervised",
+      "Provide supervision and keep the patient in a safe, monitored area"
+    ],
+    "correctIndex": 3,
+    "explanation": "Supervision and a safe environment reduce risk without routine restraints."
+  },
+  {
+    "id": "plan_of_care_074",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which outcome reflects patient knowledge?",
+    "options": [
+      "The nurse teaches incision care to the patient and the family member before the patient leaves",
+      "The patient demonstrates correct incision care before discharge",
+      "The patient will receive a pamphlet",
+      "The patient is discharged"
+    ],
+    "correctIndex": 1,
+    "explanation": "Knowledge outcomes are demonstrated by the patient."
+  },
+  {
+    "id": "plan_of_care_075",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient with chronic kidney disease is scheduled for surgery. Which plan element is most important?",
+    "options": [
+      "Monitor fluid balance and avoid nephrotoxic drugs when possible",
+      "Ignore kidney function",
+      "Give large IV fluid boluses to flush the kidneys, regardless of urine output or cardiac status",
+      "Use maximum contrast doses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Patients with CKD need careful fluid and medication management."
+  },
+  {
+    "id": "plan_of_care_076",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient with a history of stroke has left-sided weakness. Which positioning plan is most appropriate?",
+    "options": [
+      "Avoid padding on the weak side",
+      "Position the weak limb at extreme angles so that it stays out of the surgeon's way during the case",
+      "Support and pad the weak extremities to prevent injury and maintain alignment",
+      "Ignore the weakness"
+    ],
+    "correctIndex": 2,
+    "explanation": "Weak or paralyzed limbs are at higher risk for injury and need support."
+  },
+  {
+    "id": "plan_of_care_077",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient has limited mobility after surgery. Which plan element helps prevent complications?",
+    "options": [
+      "Avoid repositioning",
+      "Limit fluids to prevent urination",
+      "Strict bed rest for a week",
+      "Early mobilization as soon as safe"
+    ],
+    "correctIndex": 3,
+    "explanation": "Early mobility reduces DVT, pneumonia, and ileus risk."
+  },
+  {
+    "id": "plan_of_care_078",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which document guides care when a patient cannot speak for themselves?",
+    "options": [
+      "The surgical informed consent form",
+      "The anesthesia plan of care",
+      "An advance directive or health care proxy",
+      "The preoperative nursing assessment"
+    ],
+    "correctIndex": 2,
+    "explanation": "Advance directives communicate patient wishes and designate decision-makers."
+  },
+  {
+    "id": "plan_of_care_079",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "Which plan element supports a patient with chronic pain undergoing surgery?",
+    "options": [
+      "Stopping all baseline pain medications on the day of surgery so that anesthesia has no interactions",
+      "A multimodal pain plan that considers baseline medications",
+      "Using only opioids",
+      "Ignoring baseline pain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patients with chronic pain often need individualized, multimodal plans."
+  },
+  {
+    "id": "plan_of_care_080",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient with an implanted spinal cord stimulator is scheduled for surgery. Which plan is most appropriate?",
+    "options": [
+      "Turn the device off or adjust it per the manufacturer, and avoid monopolar current near it",
+      "Leave it on at maximum settings",
+      "Place the dispersive electrode directly over the device to keep the current path as short as possible",
+      "Remove the device in the holding area"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neurostimulators can be affected by electrosurgery; manufacturer guidance and team planning reduce risk."
+  },
+  {
+    "id": "plan_of_care_081",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "Which element is essential in the plan of care for a patient receiving moderate sedation?",
+    "options": [
+      "Monitoring only at the end of the procedure, when the sedative effect is expected to be greatest",
+      "Continuous monitoring of oxygenation, ventilation, and level of consciousness",
+      "Avoiding pulse oximetry",
+      "Leaving the patient alone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patients under moderate sedation need continuous monitoring and readiness for airway support."
+  },
+  {
+    "id": "plan_of_care_082",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which teaching method is most effective for a patient who learns best by doing?",
+    "options": [
+      "A lecture with no questions",
+      "A video watched alone",
+      "A printed handout only",
+      "Return demonstration of the skill"
+    ],
+    "correctIndex": 3,
+    "explanation": "Return demonstration lets kinesthetic learners practice and lets the nurse confirm the skill."
+  },
+  {
+    "id": "plan_of_care_083",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Preoperative teaching about deep breathing and incentive spirometry is mainly intended to prevent:",
+    "options": [
+      "Surgical site bleeding",
+      "Hypoglycemia",
+      "Postoperative atelectasis and pneumonia",
+      "Urinary retention"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lung expansion exercises taught before surgery help prevent pulmonary complications afterward."
+  },
+  {
+    "id": "plan_of_care_084",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "When is the best time to begin discharge planning for a surgical patient?",
+    "options": [
+      "During the preoperative phase",
+      "After the patient arrives home",
+      "Only on the day of discharge",
+      "After the first postoperative visit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Starting discharge planning early identifies home needs, support, and equipment before surgery."
+  },
+  {
+    "id": "plan_of_care_085",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient will go home with a closed-suction drain. Which teaching is most important?",
+    "options": [
+      "How to remove the drain at home on day 1",
+      "How to empty and measure the drainage, record output, and recognize signs of infection",
+      "To leave the drain bulb fully expanded",
+      "To irrigate the drain daily with tap water from the kitchen sink to keep the tubing from clogging"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patients and caregivers learn to maintain suction, record output, and report fever, redness, or changes in drainage."
+  },
+  {
+    "id": "plan_of_care_086",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which statement by a patient indicates understanding of discharge instructions after sedation?",
+    "options": [
+      "'I can drink alcohol tonight with my pain pills.'",
+      "'I can drive myself home after an hour.'",
+      "'I can return to heavy lifting today.'",
+      "'I will not drive or sign legal papers for 24 hours.'"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sedatives impair judgment and reflexes; patients avoid driving, alcohol, and important decisions for the period instructed."
+  },
+  {
+    "id": "plan_of_care_087",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient reads at a fourth-grade level. Which approach to written instructions is best?",
+    "options": [
+      "Detailed technical brochures that explain the physiology of wound healing in medical language",
+      "Instructions in medical terminology",
+      "Plain-language materials with pictures, reviewed using teach-back",
+      "No written instructions at all"
+    ],
+    "correctIndex": 2,
+    "explanation": "Plain language, visuals, and teach-back improve understanding for patients with limited literacy."
+  },
+  {
+    "id": "plan_of_care_088",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which intervention best reduces the risk of venous thromboembolism after surgery?",
+    "options": [
+      "Early ambulation along with ordered mechanical or drug prophylaxis",
+      "Restricting fluids",
+      "Keeping the knees flexed on pillows all day to promote comfort and maintain gentle blood flow",
+      "Strict bed rest for several days"
+    ],
+    "correctIndex": 0,
+    "explanation": "Early mobility and ordered prophylaxis reduce venous stasis and clot formation."
+  },
+  {
+    "id": "plan_of_care_089",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient asks why they must stop smoking before elective surgery. Which explanation is most accurate?",
+    "options": [
+      "Smoking impairs oxygen delivery and wound healing and increases lung complications",
+      "Smoking only affects the cost of surgery",
+      "Smoking has no effect if stopped the morning of surgery",
+      "Smoking increases the effect of antibiotics"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nicotine and carbon monoxide reduce tissue oxygenation; quitting weeks before surgery lowers wound and pulmonary complications."
+  },
+  {
+    "id": "plan_of_care_090",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient with heart failure is scheduled for a long abdominal procedure. Which intervention is most consistent with an individualized plan?",
+    "options": [
+      "Monitoring output only after discharge",
+      "Withholding all fluids during the case",
+      "Goal-directed fluid management as ordered, with close monitoring of intake, output, and lung status",
+      "Liberal fluid boluses to prevent hypotension, regardless of the patient's heart failure and lung findings"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients with heart failure are at risk for fluid overload. Individualized fluid targets and monitoring help avoid both overload and hypoperfusion."
+  },
+  {
+    "id": "plan_of_care_091",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "A patient has an allergy band and states a penicillin allergy. Which action belongs in the plan of care?",
+    "options": [
+      "Assume the allergy is not real and give the usual penicillin-class antibiotic as first-line prophylaxis",
+      "Verify the type of reaction and communicate it so antibiotic choice can be adjusted",
+      "Give penicillin and observe",
+      "Remove the allergy band before surgery"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clarifying the reaction type helps the team choose safe prophylaxis; many patients with low-risk histories can receive cefazolin."
+  },
+  {
+    "id": "plan_of_care_092",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient has an ostomy and is having an unrelated procedure. Which plan is most appropriate?",
+    "options": [
+      "Position the patient prone on the stoma without padding",
+      "Remove the pouch and leave the stoma open",
+      "Prep over the pouch without inspection",
+      "Assess the stoma, empty the pouch, and protect the stoma during prep and positioning"
+    ],
+    "correctIndex": 3,
+    "explanation": "Stomas are protected from pressure and contamination; the pouch is emptied and the stoma assessed and documented."
+  },
+  {
+    "id": "plan_of_care_093",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which item should be part of the discharge plan for a patient going home on opioids?",
+    "options": [
+      "Instructions to double the dose if pain persists, so that the patient does not need to call the surgeon",
+      "Instructions about constipation prevention, sedation risk, and safe storage and disposal",
+      "Advice to share pills with family",
+      "No teaching because the pharmacy will explain"
+    ],
+    "correctIndex": 1,
+    "explanation": "Opioid teaching covers side effects, avoiding alcohol and sedatives, safe storage, and disposal of unused pills."
+  },
+  {
+    "id": "plan_of_care_094",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient is hard of hearing and does not have hearing aids. Which plan best supports communication?",
+    "options": [
+      "Communicate only with the patient's family",
+      "Shout from across the room so the patient can hear, and repeat the instructions at a faster pace to save time",
+      "Avoid explaining procedures",
+      "Face the patient, speak clearly, reduce background noise, and use a pocket amplifier or written notes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Clear speech, visual cues, and assistive devices support understanding and safety."
+  },
+  {
+    "id": "plan_of_care_095",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient with severe COPD will have upper abdominal surgery. Which plan best reduces postoperative pulmonary risk?",
+    "options": [
+      "Bed rest with the head flat",
+      "Avoiding coughing and deep breathing because of incision pain, and relying on bed rest and sedatives instead",
+      "Preoperative pulmonary optimization, lung expansion teaching, adequate pain control, and early mobility",
+      "Large doses of sedatives at night"
+    ],
+    "correctIndex": 2,
+    "explanation": "Optimizing lung function, controlling pain so the patient can breathe deeply, and early mobility help prevent atelectasis and pneumonia."
+  },
+  {
+    "id": "plan_of_care_096",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "A patient's goal is to walk to the bathroom on postoperative day 1. This is an example of:",
+    "options": [
+      "A measurable patient outcome",
+      "An assessment tool",
+      "A nursing intervention",
+      "A medical diagnosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Outcomes describe the patient's expected result, measured within a time frame."
+  },
+  {
+    "id": "plan_of_care_097",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient with a urinary catheter placed during surgery is going to the floor. Which plan reduces catheter-associated urinary tract infection risk?",
+    "options": [
+      "Remove the catheter as soon as it is no longer indicated",
+      "Leave it in until discharge for convenience",
+      "Disconnect the closed system for sampling",
+      "Keep the bag on the bed above the bladder"
+    ],
+    "correctIndex": 0,
+    "explanation": "Prompt removal, closed drainage, and keeping the bag below the bladder reduce CAUTI risk."
+  },
+  {
+    "id": "plan_of_care_098",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient who uses a long-acting opioid at home is NPO. Which plan best prevents withdrawal and uncontrolled pain?",
+    "options": [
+      "Rely on acetaminophen alone",
+      "Hold all opioids until the patient eats and resumes the home regimen, to avoid sedation in the PACU",
+      "Coordinate continuation of the baseline opioid or an equivalent, plus multimodal analgesia",
+      "Give only naloxone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients with opioid tolerance need their baseline requirement covered in addition to treatment of acute surgical pain."
+  },
+  {
+    "id": "plan_of_care_099",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which plan helps protect the dignity of a patient during positioning and prep?",
+    "options": [
+      "Discuss the patient's body loudly",
+      "Expose only the areas needed and keep the patient covered otherwise",
+      "Leave the patient uncovered for convenience",
+      "Prep before closing the door"
+    ],
+    "correctIndex": 1,
+    "explanation": "Minimizing exposure maintains privacy and also helps prevent hypothermia."
+  },
+  {
+    "id": "plan_of_care_100",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient has a peripheral IV in the arm that will be tucked at the side. Which plan is appropriate?",
+    "options": [
+      "Place the tubing under the patient's back",
+      "Tuck the arm without checking the IV",
+      "Remove all IV access before tucking the arm, then restart a new line after the patient is positioned",
+      "Confirm the IV is patent and secured and that tubing and stopcocks will not press on the skin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Access is hard to reach once arms are tucked; tubing and connectors are padded to prevent pressure injury."
+  },
+  {
+    "id": "plan_of_care_101",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient with a known difficult airway is scheduled for surgery. Which plan is most appropriate?",
+    "options": [
+      "Keep the information only in the paper chart",
+      "Share the history with the team and have difficult airway equipment in the room before induction",
+      "Wait to get the difficult airway equipment until intubation has failed, to avoid delaying the induction",
+      "Plan for routine intubation equipment only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Advance preparation with difficult airway equipment and skilled personnel reduces risk during induction."
+  },
+  {
+    "id": "plan_of_care_102",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which patient information is most important to include in a plan of care for safe positioning?",
+    "options": [
+      "Range of motion limits, implants, and skin condition",
+      "Occupation and level of education",
+      "Discharge destination and transport plan",
+      "Preferred anesthesia type and allergies only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Physical limitations, implants, and skin condition guide safe positioning decisions."
+  },
+  {
+    "id": "plan_of_care_103",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "What is the purpose of a care plan revision?",
+    "options": [
+      "To reduce documentation",
+      "To change the surgeon",
+      "To lengthen the surgery",
+      "To adapt interventions when the patient's condition or needs change"
+    ],
+    "correctIndex": 3,
+    "explanation": "Plans are dynamic and change with new assessment data."
+  },
+  {
+    "id": "plan_of_care_104",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient who uses a CPAP device is having outpatient surgery. Which plan supports safe discharge?",
+    "options": [
+      "Advise stopping CPAP for a week",
+      "Discharge immediately after arrival in Phase II",
+      "Confirm the patient keeps a stable airway and oxygenation unstimulated and will use CPAP at home",
+      "Send the patient home with extra sedatives to sleep, and advise skipping CPAP for the first night"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients with OSA should meet discharge criteria with stable oxygenation and continue CPAP use, especially when taking opioids."
+  },
+  {
+    "id": "plan_of_care_105",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient with chronic adrenal insufficiency takes hydrocortisone daily. Which plan is most important?",
+    "options": [
+      "Give a double dose at home without an order",
+      "Ensure stress-dose steroid coverage is addressed by the provider",
+      "Avoid IV access",
+      "Stop hydrocortisone the day of surgery"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patients with adrenal insufficiency cannot mount a stress response and may develop adrenal crisis without supplemental steroids."
+  },
+  {
+    "id": "plan_of_care_106",
+    "category": "plan_of_care",
+    "difficulty": "easy",
+    "question": "Which plan element supports a patient's emotional needs before surgery?",
+    "options": [
+      "Limiting explanations",
+      "Avoiding eye contact",
+      "Allowing time for questions and addressing fears",
+      "Rushing the patient through check-in"
+    ],
+    "correctIndex": 2,
+    "explanation": "Emotional support and information reduce anxiety."
+  },
+  {
+    "id": "plan_of_care_107",
+    "category": "plan_of_care",
+    "difficulty": "medium",
+    "question": "A patient with peripheral neuropathy is having lower extremity surgery. Which plan is most appropriate?",
+    "options": [
+      "Pad and inspect pressure areas carefully because the patient may not feel pressure or heat",
+      "Rely on the patient to report pressure",
+      "Use warming devices at the highest setting to improve circulation, since the patient cannot feel heat well",
+      "Skip skin assessment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Reduced sensation increases risk of unnoticed pressure and thermal injury."
+  },
+  {
+    "id": "plan_of_care_108",
+    "category": "plan_of_care",
+    "difficulty": "hard",
+    "question": "A patient with a history of severe PONV and motion sickness is having breast surgery. Which plan best reflects current practice?",
+    "options": [
+      "Restrict fluids completely",
+      "Give no prophylaxis until vomiting occurs",
+      "Use high-dose volatile agents and opioids, because they provide the most reliable anesthesia and analgesia",
+      "Use multimodal prophylaxis and consider a total intravenous anesthetic as decided by anesthesia"
+    ],
+    "correctIndex": 3,
+    "explanation": "High-risk patients benefit from multiple antiemetics and strategies that reduce emetogenic agents."
+  }
+]

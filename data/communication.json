@@ -1,0 +1,1486 @@
+[
+  {
+    "id": "communication_001",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "What does SBAR stand for?",
+    "options": [
+      "Safety, Behavior, Assessment, Response, and Reporting to the team",
+      "Situation, Background, Assessment, Recommendation",
+      "Summary, Brief, Action, Review",
+      "Situation, Brief, Analysis, Result"
+    ],
+    "correctIndex": 1,
+    "explanation": "SBAR is a structured format that organizes critical information for concise communication."
+  },
+  {
+    "id": "communication_002",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "When should the surgical time-out be performed?",
+    "options": [
+      "Immediately before the incision, with all team members participating",
+      "In the preoperative holding area, once the patient and the surgeon have both arrived there",
+      "After the incision is made",
+      "Only when requested by the surgeon"
+    ],
+    "correctIndex": 0,
+    "explanation": "The time-out confirms correct patient, procedure, and site immediately before starting, with active participation of the whole team."
+  },
+  {
+    "id": "communication_003",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which best describes closed-loop communication?",
+    "options": [
+      "The receiver nods to acknowledge",
+      "The sender writes the message in the chart and the receiver initials the entry after reading it",
+      "The message is sent by text page",
+      "The sender gives a message, the receiver repeats it back, and the sender confirms it"
+    ],
+    "correctIndex": 3,
+    "explanation": "Closed-loop communication verifies that information was received and understood correctly."
+  },
+  {
+    "id": "communication_004",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "During an emergency, the surgeon gives a verbal medication order. The nurse should:",
+    "options": [
+      "Give the medication without repeating it",
+      "Refuse all verbal orders",
+      "Repeat the order back and make sure it is documented as soon as possible",
+      "Wait until the end of the case to clarify the order and then document it from memory"
+    ],
+    "correctIndex": 2,
+    "explanation": "Read-back reduces errors; verbal orders are used only when necessary and documented promptly per policy."
+  },
+  {
+    "id": "communication_005",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "In TeamSTEPPS, the CUS technique stands for:",
+    "options": [
+      "Check, Unite, Support",
+      "Clarify, Understand, Summarize the situation, then act on it",
+      "I am Concerned, I am Uncomfortable, this is a Safety issue",
+      "Call, Update, Stop"
+    ],
+    "correctIndex": 2,
+    "explanation": "CUS is an escalating assertion technique that signals a team member must stop and listen."
+  },
+  {
+    "id": "communication_006",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "The WHO Surgical Safety Checklist 'Sign In' phase occurs:",
+    "options": [
+      "Before skin incision",
+      "After arrival in the PACU",
+      "Before the patient leaves the OR",
+      "Before induction of anesthesia"
+    ],
+    "correctIndex": 3,
+    "explanation": "The three phases are Sign In (before induction), Time Out (before incision), and Sign Out (before the patient leaves the OR)."
+  },
+  {
+    "id": "communication_007",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which item is confirmed during the WHO checklist 'Sign Out'?",
+    "options": [
+      "Patient fasting status and the time of the last oral intake before surgery",
+      "Instrument, sponge, and needle counts and specimen labeling",
+      "Anesthesia machine check",
+      "Surgical site marking"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sign Out confirms the procedure performed, counts, specimen labels, equipment problems, and key recovery concerns."
+  },
+  {
+    "id": "communication_008",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "A surgeon repeatedly yells at and belittles staff during procedures. What is the most appropriate action?",
+    "options": [
+      "Follow the code of conduct and report the behavior through the chain of command",
+      "Ignore it because surgeons are in charge",
+      "Confront the surgeon loudly during the procedure in front of the team and the patient",
+      "Post about it on social media"
+    ],
+    "correctIndex": 0,
+    "explanation": "Disruptive behavior undermines safety. Organizations must have codes of conduct and processes for reporting and managing it."
+  },
+  {
+    "id": "communication_009",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "The main purpose of a preoperative team briefing is to:",
+    "options": [
+      "Assign blame for problems from the previous case",
+      "Create a shared mental model of the plan and anticipated concerns",
+      "Confirm the surgeon's schedule for the rest of the day",
+      "Replace the need for the time-out"
+    ],
+    "correctIndex": 1,
+    "explanation": "Briefings align the team on the plan, equipment, and risks before the case."
+  },
+  {
+    "id": "communication_010",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which practice meets requirements for patient identification?",
+    "options": [
+      "Asking 'Are you Mr. Smith?' and accepting a nod or a yes as confirmation",
+      "Using the room number",
+      "Using the patient's diagnosis",
+      "Using at least two identifiers, such as name and date of birth"
+    ],
+    "correctIndex": 3,
+    "explanation": "Two patient-specific identifiers are required. Open-ended questions are preferred over yes/no questions."
+  },
+  {
+    "id": "communication_011",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "When a critical lab result is called to the OR, the nurse receiving it should:",
+    "options": [
+      "Write it down, read it back, and communicate it promptly to the responsible provider",
+      "Ask the lab to send it by mail",
+      "Remember it and tell the surgeon later, once the current phase of the case is complete",
+      "Document it without notifying anyone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Read-back verification and timely reporting of critical results are key patient safety practices."
+  },
+  {
+    "id": "communication_012",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "During a long procedure, how should updates be provided to the patient's family?",
+    "options": [
+      "By posting case details on a public status board in the waiting area, using the patient's full name",
+      "Only after the patient is discharged",
+      "Through periodic updates from a designated liaison, within the patient's privacy wishes",
+      "By allowing family into the OR"
+    ],
+    "correctIndex": 2,
+    "explanation": "Updates reduce anxiety while respecting the patient's privacy and HIPAA requirements."
+  },
+  {
+    "id": "communication_013",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which situation is most likely a HIPAA privacy violation?",
+    "options": [
+      "Discussing a patient's diagnosis by name in a public elevator",
+      "Discussing care with the surgical team in the OR",
+      "Documenting care in the EHR",
+      "Giving report to the PACU nurse at the bedside in a quiet, closed area"
+    ],
+    "correctIndex": 0,
+    "explanation": "Protected health information should only be shared with those who need it for care, in private settings."
+  },
+  {
+    "id": "communication_014",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which abbreviation appears on The Joint Commission's official 'Do Not Use' list?",
+    "options": [
+      "kg",
+      "mg",
+      "U (for unit)",
+      "mL"
+    ],
+    "correctIndex": 2,
+    "explanation": "'U' can be mistaken for 0, 4, or cc; 'unit' should be written out."
+  },
+  {
+    "id": "communication_015",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "In the I-PASS handoff tool, the final 'S' stands for:",
+    "options": [
+      "Sterile status",
+      "Synthesis by receiver",
+      "Signature of sender",
+      "Surgical summary"
+    ],
+    "correctIndex": 1,
+    "explanation": "I-PASS: Illness severity, Patient summary, Action list, Situation awareness and contingency planning, Synthesis by receiver."
+  },
+  {
+    "id": "communication_016",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "In TeamSTEPPS, a 'huddle' is best described as:",
+    "options": [
+      "A disciplinary meeting",
+      "A discussion held after the patient has been discharged, to review the chart and the outcome",
+      "A formal annual performance review",
+      "A brief ad hoc meeting to re-establish situational awareness or adjust the plan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Huddles are short problem-solving meetings held as needed during care."
+  },
+  {
+    "id": "communication_017",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "The primary purpose of a post-procedure debrief is to:",
+    "options": [
+      "Replace incident reporting",
+      "Schedule the next case",
+      "Assign fault for any errors that happened to the staff members involved",
+      "Review what went well and identify opportunities for improvement"
+    ],
+    "correctIndex": 3,
+    "explanation": "Debriefs support learning and continuous improvement; they do not replace formal event reporting."
+  },
+  {
+    "id": "communication_018",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which is an example of active listening?",
+    "options": [
+      "Interrupting the patient to save time and finish the assessment",
+      "Paraphrasing what the patient said to confirm understanding",
+      "Changing the subject to reduce anxiety",
+      "Looking at the monitor while the patient talks"
+    ],
+    "correctIndex": 1,
+    "explanation": "Active listening includes attention, eye contact, and reflecting or paraphrasing to confirm meaning."
+  },
+  {
+    "id": "communication_019",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "Which method best confirms that a patient understands discharge instructions?",
+    "options": [
+      "Teach-back, in which the patient explains the instructions in their own words",
+      "Having the patient sign the form",
+      "Asking 'Do you understand?' and accepting a yes from the patient who nods",
+      "Handing over a brochure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Teach-back checks understanding and is especially useful for patients with limited health literacy."
+  },
+  {
+    "id": "communication_020",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "A patient who relies on lip-reading is anxious because staff wear surgical masks. What is the best intervention?",
+    "options": [
+      "Speak louder through the mask",
+      "Remove masks in the sterile area",
+      "Use clear masks or written communication when possible",
+      "Avoid communicating with the patient until after the procedure is completed"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alternative communication methods maintain safety and reduce anxiety for patients with hearing impairment."
+  },
+  {
+    "id": "communication_021",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Who may call a 'stop' if a safety concern is identified during a procedure?",
+    "options": [
+      "Only the anesthesia professional",
+      "Only the surgeon",
+      "Only the charge nurse",
+      "Any member of the surgical team"
+    ],
+    "correctIndex": 3,
+    "explanation": "A culture of safety empowers every team member to stop the line when patient safety is at risk."
+  },
+  {
+    "id": "communication_022",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "In TeamSTEPPS, what is a 'check-back'?",
+    "options": [
+      "A second count of instruments",
+      "A check of the patient's back and sacrum for signs of early pressure injury",
+      "The receiver confirms the message and the sender verifies it was understood",
+      "A form signed after the case"
+    ],
+    "correctIndex": 2,
+    "explanation": "Check-back is closed-loop communication: sender states, receiver repeats, sender confirms."
+  },
+  {
+    "id": "communication_023",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "What is a 'call-out' in team communication?",
+    "options": [
+      "Calling the family with an update",
+      "Stating critical information aloud to the whole team during an event",
+      "Leaving the room to make a phone call",
+      "Paging a staff member to another room to assist with an urgent case now"
+    ],
+    "correctIndex": 1,
+    "explanation": "Call-outs inform all team members at once, such as announcing vital signs during an emergency."
+  },
+  {
+    "id": "communication_024",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "A nurse voices a safety concern to the surgeon twice and it is not acknowledged. According to the two-challenge rule, what should the nurse do next?",
+    "options": [
+      "Take stronger action or use the chain of command",
+      "Drop the concern",
+      "Wait until the next case",
+      "Discuss it only with coworkers in the break room after the shift ends"
+    ],
+    "correctIndex": 0,
+    "explanation": "If a concern is ignored after two attempts, the team member escalates to a supervisor or higher authority to protect the patient."
+  },
+  {
+    "id": "communication_025",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "What does the DESC script stand for in TeamSTEPPS conflict resolution?",
+    "options": [
+      "Describe, Express, Suggest, Consequences",
+      "Decide, Escalate, Stop, Close",
+      "Document, Explain, Sign, Confirm",
+      "Delegate, Evaluate, Supervise, Check, and Document the follow-up"
+    ],
+    "correctIndex": 0,
+    "explanation": "DESC helps team members address conflict by describing the situation, expressing concerns, suggesting alternatives, and stating consequences."
+  },
+  {
+    "id": "communication_026",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "During the time-out, the consent says 'left knee arthroscopy' but the site marking is on the right knee. What is the correct action?",
+    "options": [
+      "Proceed with the consented side",
+      "Proceed and correct the consent later",
+      "Proceed with the marked side because the surgeon placed the mark and knows the case",
+      "Stop the process and resolve the discrepancy before any incision is made"
+    ],
+    "correctIndex": 3,
+    "explanation": "Any discrepancy during the time-out stops the procedure until it is resolved using all available source documents and the patient if possible."
+  },
+  {
+    "id": "communication_027",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which practice reduces distractions during critical moments such as counts and the time-out?",
+    "options": [
+      "Holding side conversations",
+      "A no-interruption policy for those moments",
+      "Playing loud music",
+      "Taking phone calls during counts, as long as the call is short"
+    ],
+    "correctIndex": 1,
+    "explanation": "Limiting noise and interruptions during critical phases helps prevent errors."
+  },
+  {
+    "id": "communication_028",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which characteristic best describes psychological safety on a surgical team?",
+    "options": [
+      "Errors are kept within the team",
+      "Only senior staff speak during cases",
+      "Members feel safe speaking up about concerns without fear of punishment",
+      "Junior staff wait to be asked before speaking up about any concern they have"
+    ],
+    "correctIndex": 2,
+    "explanation": "Psychological safety encourages reporting and speaking up, which improves patient safety."
+  },
+  {
+    "id": "communication_029",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "A resident tells the circulating nurse to skip the time-out because the attending surgeon is late and wants to start. What is the best response?",
+    "options": [
+      "Agree because the resident is a physician",
+      "Skip it and document that it was done",
+      "Explain that the time-out is required and will be completed with the full team before incision",
+      "Ask anesthesia to perform the time-out alone while the surgeon is scrubbing and not in the room"
+    ],
+    "correctIndex": 2,
+    "explanation": "The time-out is mandatory before incision, and any team member may stop the process to protect the patient."
+  },
+  {
+    "id": "communication_030",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which statement is an example of assertive communication?",
+    "options": [
+      "'I am concerned the count is incorrect; we need to stop and recount.'",
+      "'Maybe we could count again if you want, but only if you have the time?'",
+      "'Never mind, it's probably fine.'",
+      "'You always make mistakes.'"
+    ],
+    "correctIndex": 0,
+    "explanation": "Assertive communication is clear, respectful, and specific about the concern and the needed action."
+  },
+  {
+    "id": "communication_031",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "A surgeon gives a verbal order for a medication during a non-emergency case. What is the most appropriate response?",
+    "options": [
+      "Write the order later from memory",
+      "Accept all verbal orders without question, since the surgeon takes full responsibility for each one",
+      "Refuse every order from the surgeon and request that all of them be sent electronically",
+      "Follow facility policy, which often limits verbal orders to emergencies, and read back any accepted"
+    ],
+    "correctIndex": 3,
+    "explanation": "Verbal orders should be limited and confirmed by read-back to reduce errors."
+  },
+  {
+    "id": "communication_032",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which element is part of the WHO Surgical Safety Checklist 'Time Out' phase?",
+    "options": [
+      "Confirming that the patient has eaten and that the stomach has been emptied by suction",
+      "Confirming team member names and roles and anticipated critical events",
+      "Confirming discharge medications",
+      "Reviewing the final count"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Time Out includes introductions, confirmation of patient, site, and procedure, antibiotic timing, and anticipated critical events."
+  },
+  {
+    "id": "communication_033",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which communication tool helps organize information for a concise report to a provider?",
+    "options": [
+      "RACE",
+      "SBAR",
+      "ABC",
+      "PASS"
+    ],
+    "correctIndex": 1,
+    "explanation": "SBAR structures communication into Situation, Background, Assessment, and Recommendation."
+  },
+  {
+    "id": "communication_034",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "During an emergency, the team is confused about who is leading. What is the best action?",
+    "options": [
+      "Leave the room to find a manager",
+      "Wait until the emergency is over to assign roles, so that nobody is distracted",
+      "Clearly identify the team leader and assign roles using closed-loop communication",
+      "Allow everyone to give orders at the same time so that tasks are done sooner"
+    ],
+    "correctIndex": 2,
+    "explanation": "Clear leadership and role assignment reduce confusion and errors in emergencies."
+  },
+  {
+    "id": "communication_035",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "What is the purpose of a 'huddle' when a case changes unexpectedly?",
+    "options": [
+      "To review the case in detail after the patient leaves",
+      "To replace the formal time-out before incision",
+      "To document staff concerns for the incident report",
+      "To quickly regroup and update the team's plan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Huddles help the team re-establish situational awareness and adjust plans."
+  },
+  {
+    "id": "communication_036",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "What is the main goal of situational awareness in the OR?",
+    "options": [
+      "Knowing what is happening with the patient, team, and environment and anticipating needs",
+      "Watching the clock to end on time",
+      "Keeping track of the surgeon's schedule and the order of cases for the rest of the day",
+      "Monitoring staff breaks"
+    ],
+    "correctIndex": 0,
+    "explanation": "Situational awareness supports early recognition of problems and coordinated responses."
+  },
+  {
+    "id": "communication_037",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which practice supports clear communication about patient allergies?",
+    "options": [
+      "Confirming allergies during preprocedure verification and the time-out",
+      "Discussing allergies only after the case",
+      "Assuming the surgeon knows",
+      "Writing allergies only on a sticky note that is placed on the front of the chart"
+    ],
+    "correctIndex": 0,
+    "explanation": "Repeated confirmation helps ensure all team members know about allergies."
+  },
+  {
+    "id": "communication_038",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "A nurse notices the surgeon is about to use a nonradiopaque sponge in the wound. What is the best response?",
+    "options": [
+      "Report it anonymously the next day",
+      "Say nothing because the choice of sponge is the surgeon's, and the nurse should not interrupt",
+      "Wait until the end of the case",
+      "Speak up immediately and offer a radiopaque sponge"
+    ],
+    "correctIndex": 3,
+    "explanation": "Speaking up promptly prevents retained items; nonradiopaque sponges should not be used in wounds."
+  },
+  {
+    "id": "communication_039",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "What is the main purpose of the 'Sign Out' phase of the WHO checklist?",
+    "options": [
+      "To confirm the surgical site",
+      "To sign the consent form",
+      "To confirm counts, specimen labeling, equipment problems, and recovery concerns",
+      "To check the patient's identity and the planned procedure just before induction of anesthesia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sign Out occurs before the patient leaves the OR and ensures key information is communicated."
+  },
+  {
+    "id": "communication_040",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which behavior is an example of disruptive behavior in the OR?",
+    "options": [
+      "Requesting a second count",
+      "Throwing instruments or yelling at team members",
+      "Calling a time-out",
+      "Asking a clarifying question about the order that the surgeon just gave"
+    ],
+    "correctIndex": 1,
+    "explanation": "Disruptive behavior undermines teamwork and safety and should be addressed through policy."
+  },
+  {
+    "id": "communication_041",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which action best supports communication during a shift change in the middle of a case?",
+    "options": [
+      "A quick wave and leaving the room",
+      "Asking the scrub person to explain everything to the new nurse later in the case",
+      "Leaving a note on the door",
+      "A structured handoff that includes counts, medications, specimens, and patient status"
+    ],
+    "correctIndex": 3,
+    "explanation": "Structured handoffs reduce omissions and errors."
+  },
+  {
+    "id": "communication_042",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which technique is an example of therapeutic communication?",
+    "options": [
+      "Using open-ended questions such as 'How are you feeling about surgery?'",
+      "Offering false reassurance",
+      "Asking only yes-or-no questions",
+      "Changing the subject when the patient becomes upset to keep the mood light"
+    ],
+    "correctIndex": 0,
+    "explanation": "Open-ended questions invite the patient to share concerns and feelings."
+  },
+  {
+    "id": "communication_043",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "A patient says, 'I'm scared I won't wake up.' Which response is most therapeutic?",
+    "options": [
+      "'Everyone feels that way before surgery; it's silly to be so afraid.'",
+      "'Don't worry, nothing will happen.'",
+      "'Tell me more about what worries you.'",
+      "'Let's talk about something else.'"
+    ],
+    "correctIndex": 2,
+    "explanation": "Exploring feelings acknowledges the patient's concern and guides further support."
+  },
+  {
+    "id": "communication_044",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which approach is best when using a professional interpreter?",
+    "options": [
+      "Speak to the interpreter instead of the patient, and talk about the patient in the third person",
+      "Speak directly to the patient in short segments and allow time for interpretation",
+      "Ask the interpreter to summarize the patient's answers",
+      "Use long, complex sentences"
+    ],
+    "correctIndex": 1,
+    "explanation": "Speaking directly to the patient maintains the relationship and accuracy."
+  },
+  {
+    "id": "communication_045",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Why should family members generally not be used as interpreters for medical information?",
+    "options": [
+      "They are not allowed in the hospital during preoperative teaching or any consent discussion",
+      "They cannot be present during surgery",
+      "They may omit, change, or misunderstand information and compromise privacy",
+      "They always speak too slowly"
+    ],
+    "correctIndex": 2,
+    "explanation": "Qualified interpreters provide accurate, confidential interpretation."
+  },
+  {
+    "id": "communication_046",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "A patient experienced a medication error during surgery that caused temporary harm. Which communication approach reflects current best practice?",
+    "options": [
+      "Disclose the event honestly, express regret, and explain next steps, per facility policy",
+      "Avoid telling the patient about the error in order to prevent anxiety and protect the team",
+      "Blame the pharmacy in the conversation",
+      "Tell the patient only if they ask"
+    ],
+    "correctIndex": 0,
+    "explanation": "Transparent disclosure supports trust and is expected by accrediting organizations and ethical standards."
+  },
+  {
+    "id": "communication_047",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which method helps ensure a patient understands preoperative instructions?",
+    "options": [
+      "Giving written instructions only",
+      "Teach-back",
+      "Asking 'Do you understand?'",
+      "Repeating instructions louder"
+    ],
+    "correctIndex": 1,
+    "explanation": "Teach-back confirms understanding by having the patient explain in their own words."
+  },
+  {
+    "id": "communication_048",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "A family member asks the circulating nurse for an update during surgery. Which response is most appropriate?",
+    "options": [
+      "Refuse to speak to the family at all",
+      "Share all details of the case with anyone who asks, including friends of the family",
+      "Tell them to call the surgeon at home",
+      "Provide information within the patient's privacy preferences and facility policy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Updates must respect HIPAA and the patient's wishes about who can receive information."
+  },
+  {
+    "id": "communication_049",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which nonverbal behavior conveys attentiveness?",
+    "options": [
+      "Checking a phone during conversation",
+      "Maintaining appropriate eye contact and facing the patient",
+      "Crossing the arms and looking at the computer screen while the patient is talking",
+      "Turning away while the patient speaks"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nonverbal cues such as eye contact and posture show interest and respect."
+  },
+  {
+    "id": "communication_050",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "A patient with expressive aphasia after a stroke is being prepared for surgery. Which communication strategy is most appropriate?",
+    "options": [
+      "Assume the patient does not understand",
+      "Use complex, open-ended questions only, and wait for a long, detailed spoken answer",
+      "Speak for the patient without asking",
+      "Use yes-or-no questions, picture boards, and allow extra time to respond"
+    ],
+    "correctIndex": 3,
+    "explanation": "Patients with expressive aphasia often understand but have difficulty speaking; simple questions and tools help."
+  },
+  {
+    "id": "communication_051",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which communication method is best for a child before surgery?",
+    "options": [
+      "Detailed medical terms",
+      "Avoiding explanations",
+      "Simple, honest explanations using words the child can understand",
+      "Telling the child that the surgery will not hurt at all and that nothing will happen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Age-appropriate, honest communication helps reduce fear."
+  },
+  {
+    "id": "communication_052",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "What is the best way to provide feedback to a coworker about an unsafe practice?",
+    "options": [
+      "Privately, promptly, and with specific examples",
+      "By ignoring the behavior",
+      "Through social media",
+      "Publicly during the case, so that the entire team hears and learns from it"
+    ],
+    "correctIndex": 0,
+    "explanation": "Constructive, private feedback supports improvement without embarrassment."
+  },
+  {
+    "id": "communication_053",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which item is required for valid informed consent communication?",
+    "options": [
+      "Explanation of the procedure, risks, benefits, and alternatives in plain terms",
+      "Consent obtained after sedation",
+      "A signature only",
+      "A discussion with the family only, without the patient present for the explanation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Informed consent requires understanding of key information before the patient agrees."
+  },
+  {
+    "id": "communication_054",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "During the consent process, a patient appears confused about the procedure. What should the nurse do?",
+    "options": [
+      "Have the patient sign anyway, since the surgeon has already explained the procedure in detail",
+      "Notify the surgeon so the patient's understanding can be clarified before proceeding",
+      "Ask the family to sign instead",
+      "Witness the signature and proceed to the OR"
+    ],
+    "correctIndex": 1,
+    "explanation": "If the patient does not understand, the surgeon must clarify before consent is valid."
+  },
+  {
+    "id": "communication_055",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which phrase demonstrates empathy?",
+    "options": [
+      "'Everyone goes through this.'",
+      "'Don't cry.'",
+      "'You should be grateful for the surgery, since many people cannot get it.'",
+      "'It sounds like this has been very stressful for you.'"
+    ],
+    "correctIndex": 3,
+    "explanation": "Empathy acknowledges the patient's feelings and builds trust."
+  },
+  {
+    "id": "communication_056",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "A patient asks the nurse about surgical risks that the surgeon did not mention. What is the best response?",
+    "options": [
+      "Avoid the question",
+      "Change the consent form",
+      "Provide general information if appropriate and notify the surgeon to address the questions",
+      "Tell the patient there are no real risks, so that the patient is not made anxious before surgery"
+    ],
+    "correctIndex": 2,
+    "explanation": "The surgeon is responsible for informed consent, but the nurse supports communication and advocacy."
+  },
+  {
+    "id": "communication_057",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which communication method best supports a patient who is deaf and uses sign language?",
+    "options": [
+      "Speaking slowly and clearly, without visual cues, directly into the patient's ear",
+      "Writing in medical jargon only",
+      "Shouting loudly",
+      "A qualified sign language interpreter"
+    ],
+    "correctIndex": 3,
+    "explanation": "Qualified interpreters ensure accurate communication."
+  },
+  {
+    "id": "communication_058",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "A patient refuses a blood transfusion after an explanation of risks and alternatives. How should the nurse communicate this to the team?",
+    "options": [
+      "Keep it confidential from the team",
+      "Ignore it if bleeding occurs",
+      "Document the refusal and ensure it is discussed during the briefing and time-out",
+      "Tell only the anesthesia professional after the case, once the patient has recovered"
+    ],
+    "correctIndex": 2,
+    "explanation": "All team members must know the patient's wishes to plan care."
+  },
+  {
+    "id": "communication_059",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Why should staff avoid discussing unrelated personal matters while the patient is awake in the OR?",
+    "options": [
+      "It can increase anxiety and reduce focus on the patient",
+      "It is prohibited by OSHA regulations",
+      "It interferes with the anesthesia monitors and the electrosurgical unit",
+      "It is a violation of the sterile field"
+    ],
+    "correctIndex": 0,
+    "explanation": "Professional communication helps maintain patient trust and safety."
+  },
+  {
+    "id": "communication_060",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which practice protects patient privacy when calling a patient from the waiting room?",
+    "options": [
+      "Announcing the diagnosis loudly",
+      "Using only the information needed and following facility policy",
+      "Posting the patient's name on the door",
+      "Calling the patient by full name, date of birth, and procedure aloud in the waiting room"
+    ],
+    "correctIndex": 1,
+    "explanation": "Minimizing shared information protects privacy."
+  },
+  {
+    "id": "communication_061",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "A patient expresses anger about a delay. What is the best initial response?",
+    "options": [
+      "Tell the patient to calm down and remind them that delays are common",
+      "Blame another department",
+      "Acknowledge the frustration and explain the reason for the delay if possible",
+      "Ignore the patient"
+    ],
+    "correctIndex": 2,
+    "explanation": "Acknowledging feelings and providing information can reduce frustration."
+  },
+  {
+    "id": "communication_062",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which documentation practice is correct in the electronic health record?",
+    "options": [
+      "Share passwords with the team",
+      "Document care before it is performed",
+      "Use a coworker's login to save time when the system is slow or locked",
+      "Document care promptly and accurately using your own login"
+    ],
+    "correctIndex": 3,
+    "explanation": "Accurate, timely documentation under one's own credentials supports accountability."
+  },
+  {
+    "id": "communication_063",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which item should be documented in the intraoperative record?",
+    "options": [
+      "The surgeon's verbal opinion of the anesthetic",
+      "Patient positioning and devices used",
+      "Staff conversations unrelated to care",
+      "The names of visitors in the waiting room"
+    ],
+    "correctIndex": 1,
+    "explanation": "Intraoperative documentation includes positioning, devices, counts, specimens, and other care."
+  },
+  {
+    "id": "communication_064",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "How should a critical test result received by phone in the OR be documented?",
+    "options": [
+      "Record the result, who reported it, the time, and the read-back",
+      "Document only the result",
+      "Tell the surgeon later without documenting, to avoid a duplicate entry",
+      "Remember it until the end of the case"
+    ],
+    "correctIndex": 0,
+    "explanation": "Documenting the result and verification creates a clear record."
+  },
+  {
+    "id": "communication_065",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which abbreviation should be avoided because it can be mistaken for 'QID' or 'QOD'?",
+    "options": [
+      "mL",
+      "PO",
+      "QD",
+      "mg"
+    ],
+    "correctIndex": 2,
+    "explanation": "'QD' (daily) is on the Joint Commission 'Do Not Use' list because it can be misread; 'daily' is written instead."
+  },
+  {
+    "id": "communication_066",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "A surgeon asks the nurse to document that a time-out was performed when it was not. What is the best response?",
+    "options": [
+      "Ask another nurse to document it, so that the first nurse is not responsible",
+      "Document it to avoid conflict",
+      "Document it and tell no one",
+      "Refuse to document inaccurate information and report the concern per policy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Falsifying records is unethical and illegal; the nurse must document accurately."
+  },
+  {
+    "id": "communication_067",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which element is required on a surgical specimen label?",
+    "options": [
+      "Patient identifiers and specimen description",
+      "The OR temperature",
+      "The surgeon's phone number",
+      "The patient's room number only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correct identifiers and specimen details prevent misidentification."
+  },
+  {
+    "id": "communication_068",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which practice helps prevent errors when reading back a verbal order for a medication with a similar-sounding name?",
+    "options": [
+      "Abbreviate the drug name",
+      "Spell the drug name and state the dose and route clearly",
+      "Say the drug name quickly, using the abbreviation printed on the vial",
+      "Guess the drug from context"
+    ],
+    "correctIndex": 1,
+    "explanation": "Spelling and clear statement of all parts of the order reduce look-alike/sound-alike errors."
+  },
+  {
+    "id": "communication_069",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Why should trailing zeros be avoided in medication orders, such as '5.0 mg'?",
+    "options": [
+      "It is required by law",
+      "It reduces the dose",
+      "The decimal point may be missed, leading to a tenfold overdose",
+      "It makes the dose more precise"
+    ],
+    "correctIndex": 2,
+    "explanation": "'5.0' can be misread as '50'; write '5 mg' instead."
+  },
+  {
+    "id": "communication_070",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "A nurse identifies an error in a colleague's documentation after the shift. What is the most appropriate action?",
+    "options": [
+      "Ignore it",
+      "Notify the colleague or supervisor so the record is corrected per policy",
+      "Correct it under the colleague's name and sign the entry so the record is complete and consistent",
+      "Delete the entry"
+    ],
+    "correctIndex": 1,
+    "explanation": "Corrections must be made by the original author or through proper amendment procedures."
+  },
+  {
+    "id": "communication_071",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which communication method is best for urgent safety information during surgery?",
+    "options": [
+      "Leaving a note in the hallway, at the nurses' station, for the next shift",
+      "Posting on social media",
+      "Sending an email",
+      "Direct verbal communication with confirmation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Urgent information needs immediate, confirmed communication."
+  },
+  {
+    "id": "communication_072",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which practice helps protect patient information when using the computer in the OR?",
+    "options": [
+      "Log out or lock the screen when stepping away",
+      "Leave the screen open for the next user",
+      "Print all records and leave them on the table",
+      "Share login credentials"
+    ],
+    "correctIndex": 0,
+    "explanation": "Locking the screen prevents unauthorized access to patient information."
+  },
+  {
+    "id": "communication_073",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which is the best way to communicate a change in the surgical plan to the team?",
+    "options": [
+      "Tell only the scrub person, because the change affects the instruments in use",
+      "Pause and inform the whole team, confirming understanding",
+      "Assume the team will notice",
+      "Announce it after the case"
+    ],
+    "correctIndex": 1,
+    "explanation": "Changes must be communicated so all members can prepare."
+  },
+  {
+    "id": "communication_074",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "During the time-out, the anesthesia professional is distracted and not participating. What is the best action?",
+    "options": [
+      "Ask the surgeon to answer for anesthesia",
+      "Proceed without the anesthesia professional, since the surgeon's confirmation is enough",
+      "Pause the time-out until all required team members actively participate",
+      "Document that everyone agreed"
+    ],
+    "correctIndex": 2,
+    "explanation": "Active participation by all team members is essential for the time-out."
+  },
+  {
+    "id": "communication_075",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which item should be discussed during a preoperative briefing?",
+    "options": [
+      "The planned procedure, special equipment, and anticipated concerns",
+      "A detailed review of the previous case's errors",
+      "The order of the cases scheduled for the next day and the staffing plan",
+      "The final sponge, sharps, and instrument counts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Briefings create a shared plan and prepare the team."
+  },
+  {
+    "id": "communication_076",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "What is the main risk of using unapproved abbreviations in documentation?",
+    "options": [
+      "Lower supply costs",
+      "Better communication",
+      "A longer documentation time for the staff who must complete each entry",
+      "Misinterpretation that can cause errors"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ambiguous abbreviations can lead to medication and treatment errors."
+  },
+  {
+    "id": "communication_077",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which situation best illustrates closed-loop communication?",
+    "options": [
+      "The nurse nods without repeating",
+      "The nurse gives medication without speaking",
+      "The anesthesia professional asks for 2 mg of midazolam; the nurse repeats '2 mg midazolam' and confirms when it is given",
+      "The surgeon gives an order and leaves"
+    ],
+    "correctIndex": 2,
+    "explanation": "Closed-loop communication includes the message, repeat-back, and confirmation."
+  },
+  {
+    "id": "communication_078",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "A surgeon asks for a medication that the nurse believes may interact with a patient's allergy. What is the best response?",
+    "options": [
+      "State the concern clearly and verify the allergy and order before giving the drug",
+      "Give half the dose",
+      "Give it without questioning, since the surgeon is responsible for every order he or she gives",
+      "Refuse and leave the room"
+    ],
+    "correctIndex": 0,
+    "explanation": "Questioning orders that may harm the patient is part of patient advocacy."
+  },
+  {
+    "id": "communication_079",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which practice supports communication during emergencies?",
+    "options": [
+      "Using vague language",
+      "Speaking clearly and directing requests to specific people by name or role",
+      "Shouting general requests to no one in particular",
+      "Talking over others so that the most urgent request is heard first and acted upon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Directed requests reduce confusion and ensure tasks are completed."
+  },
+  {
+    "id": "communication_080",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "What should be included when reporting a patient's change in condition using SBAR?",
+    "options": [
+      "Only the patient's name and room number, then wait for the provider to ask questions",
+      "Only the vital signs",
+      "Only the recommendation",
+      "The current situation, relevant history, assessment, and a recommendation or request"
+    ],
+    "correctIndex": 3,
+    "explanation": "SBAR provides a complete, organized report."
+  },
+  {
+    "id": "communication_081",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "A patient's family asks for an update while the surgeon is still operating. Which response is appropriate?",
+    "options": [
+      "Provide a general update as allowed and explain that the surgeon will speak with them after the procedure",
+      "Refuse to say anything",
+      "Give a prognosis",
+      "Share specific pathology results immediately"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nurses provide updates within their role and patient privacy preferences."
+  },
+  {
+    "id": "communication_082",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which behavior reflects professional communication with colleagues?",
+    "options": [
+      "Using sarcasm during cases",
+      "Treating colleagues with respect even during disagreements",
+      "Talking about colleagues behind their backs",
+      "Ignoring requests for help from colleagues who are slower or less experienced"
+    ],
+    "correctIndex": 1,
+    "explanation": "Respectful communication supports teamwork and safety."
+  },
+  {
+    "id": "communication_083",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which situation calls for a structured handoff?",
+    "options": [
+      "A brief walk to the supply room",
+      "A coffee break with no patient involvement",
+      "A conversation with the manager about the schedule for the following week",
+      "Transfer of patient care from one nurse to another"
+    ],
+    "correctIndex": 3,
+    "explanation": "Structured handoffs ensure continuity of care."
+  },
+  {
+    "id": "communication_084",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Lateral violence among nurses is best described as:",
+    "options": [
+      "Conflict between departments over budgets, equipment, and operating room time",
+      "Physical violence by patients",
+      "Hostile or aggressive behavior between peers",
+      "Disagreement about policy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lateral violence harms morale and patient safety and should be addressed by organizational policies."
+  },
+  {
+    "id": "communication_085",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which response best addresses a coworker's incivility during a case?",
+    "options": [
+      "Post about it online",
+      "Ignore it permanently and avoid working with the person in the future",
+      "Address it calmly after the case or through appropriate channels",
+      "Respond with the same behavior"
+    ],
+    "correctIndex": 2,
+    "explanation": "Addressing incivility professionally helps resolve conflict and maintain safety."
+  },
+  {
+    "id": "communication_086",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "During a case, the surgeon becomes angry and refuses to listen to the nurse's concern about an incorrect count. What should the nurse do?",
+    "options": [
+      "Accept the surgeon's decision and document a correct count to avoid a conflict during the case, as requested",
+      "Stop counting",
+      "Leave the room",
+      "Maintain the concern, follow the incorrect count protocol, and escalate through the chain of command"
+    ],
+    "correctIndex": 3,
+    "explanation": "Patient safety requires following protocol and escalating if needed."
+  },
+  {
+    "id": "communication_087",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which communication practice helps prevent wrong-patient errors?",
+    "options": [
+      "Using two patient identifiers",
+      "Using the room number only",
+      "Using the bed position",
+      "Using the patient's diagnosis only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Two identifiers, such as name and date of birth, confirm patient identity."
+  },
+  {
+    "id": "communication_088",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which is a barrier to effective communication in the OR?",
+    "options": [
+      "Briefings",
+      "Excessive noise and interruptions",
+      "Closed-loop communication",
+      "Clear role assignment"
+    ],
+    "correctIndex": 1,
+    "explanation": "Noise and interruptions can cause missed information and errors."
+  },
+  {
+    "id": "communication_089",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which action supports interdisciplinary communication about patient positioning?",
+    "options": [
+      "Assuming each member knows",
+      "Avoiding discussion to save time",
+      "Discussing positioning needs and risks during the briefing",
+      "Discussing positioning after the surgery, once any injuries have been noticed"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shared planning helps prevent injuries."
+  },
+  {
+    "id": "communication_090",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "A new graduate nurse hesitates to speak up about a sterile field break during a case. Which organizational practice best supports speaking up?",
+    "options": [
+      "A culture that encourages and supports speaking up without retaliation",
+      "Punishing staff who report concerns",
+      "Allowing only senior staff to speak",
+      "Rewarding silence to avoid conflict and keeping the unit running smoothly"
+    ],
+    "correctIndex": 0,
+    "explanation": "A supportive culture empowers all staff to report safety concerns."
+  },
+  {
+    "id": "communication_091",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which phrase is part of the TeamSTEPPS CUS technique?",
+    "options": [
+      "'Let's skip this step because we are running behind schedule.'",
+      "'This is a safety issue.'",
+      "'I am confused.'",
+      "'We are almost done.'"
+    ],
+    "correctIndex": 1,
+    "explanation": "CUS: I am Concerned, I am Uncomfortable, This is a Safety issue."
+  },
+  {
+    "id": "communication_092",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "What is the purpose of a debrief after an emergency event in the OR?",
+    "options": [
+      "To discuss unrelated topics",
+      "To schedule the next case",
+      "To assign blame to the individual who made the error",
+      "To review what happened and identify improvements"
+    ],
+    "correctIndex": 3,
+    "explanation": "Debriefs promote learning and system improvements."
+  },
+  {
+    "id": "communication_093",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which method best ensures that a surgeon's preference card information is communicated accurately?",
+    "options": [
+      "Ignoring the card during setup",
+      "Relying on memory",
+      "Changing the cards without input from the surgeon or the staff",
+      "Regularly reviewing and updating cards with the surgeon"
+    ],
+    "correctIndex": 3,
+    "explanation": "Accurate preference cards improve efficiency and reduce errors."
+  },
+  {
+    "id": "communication_094",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "A patient asks a nurse to keep a diagnosis secret from the surgeon. What is the best response?",
+    "options": [
+      "Explain that information needed for safe care must be shared with the team",
+      "Agree to keep it secret",
+      "Ignore the request and say nothing to the patient, the surgeon, or the family",
+      "Tell the family instead"
+    ],
+    "correctIndex": 0,
+    "explanation": "Confidentiality does not prevent sharing necessary information with the care team."
+  },
+  {
+    "id": "communication_095",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which practice helps communicate a patient's fall risk to the team?",
+    "options": [
+      "Assuming everyone knows",
+      "Writing it on scrap paper",
+      "Using standardized fall risk alerts per policy",
+      "Telling only one coworker, who is expected to pass it along"
+    ],
+    "correctIndex": 2,
+    "explanation": "Standardized alerts communicate risk consistently."
+  },
+  {
+    "id": "communication_096",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "What is the most appropriate way to communicate an urgent equipment malfunction during surgery?",
+    "options": [
+      "Report it after the case only",
+      "Inform the team immediately and obtain replacement equipment",
+      "Continue using it quietly",
+      "Wait for biomedical engineering to notice the problem and send someone to the room"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prompt communication allows the team to maintain patient safety."
+  },
+  {
+    "id": "communication_097",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which situation is an example of a communication failure that can lead to harm?",
+    "options": [
+      "An allergy not communicated during handoff",
+      "A completed time-out",
+      "A shared briefing",
+      "A verified medication order that was read back and confirmed by the nurse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Missing information during handoffs is a common cause of adverse events."
+  },
+  {
+    "id": "communication_098",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "During a complex case, the scrub person notices the surgeon is fatigued and making errors. What is the best action?",
+    "options": [
+      "Leave the room",
+      "Tell the patient's family",
+      "Ignore it because the surgeon is in charge and has more experience than the staff",
+      "Raise the concern respectfully using a safety tool and escalate if needed"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fatigue can lead to errors; speaking up protects the patient."
+  },
+  {
+    "id": "communication_099",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which practice improves communication between the OR and PACU?",
+    "options": [
+      "Leaving the chart without discussion",
+      "A standardized handoff tool",
+      "A quick verbal update while walking away",
+      "No handoff for simple cases"
+    ],
+    "correctIndex": 1,
+    "explanation": "Standardized tools reduce omissions."
+  },
+  {
+    "id": "communication_100",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "What is the purpose of using a communication board in the OR?",
+    "options": [
+      "To list the patient's full medical history",
+      "To record the official intraoperative documentation",
+      "To display key information such as counts and team members",
+      "To replace verbal communication during the time-out"
+    ],
+    "correctIndex": 2,
+    "explanation": "Visible information supports shared awareness."
+  },
+  {
+    "id": "communication_101",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "How should a nurse respond when unsure of an instruction?",
+    "options": [
+      "Ask for clarification before acting",
+      "Guess and proceed, then verify the result after the task is finished",
+      "Ask the patient",
+      "Ignore the instruction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clarifying instructions prevents errors."
+  },
+  {
+    "id": "communication_102",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which statement best describes active listening?",
+    "options": [
+      "Interrupting to offer solutions",
+      "Planning a response while the patient is still speaking about the concern",
+      "Looking at the computer during the conversation",
+      "Giving full attention and confirming understanding"
+    ],
+    "correctIndex": 3,
+    "explanation": "Active listening involves attention, reflection, and clarification."
+  },
+  {
+    "id": "communication_103",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "Which statement best supports shared decision-making?",
+    "options": [
+      "'You don't need to understand the details.'",
+      "'The surgeon knows best, so don't worry about the details of the plan or the risks.'",
+      "'Here are the options and their risks and benefits; what matters most to you?'",
+      "'This is what you will do.'"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shared decision-making combines clinical evidence with patient values."
+  },
+  {
+    "id": "communication_104",
+    "category": "communication",
+    "difficulty": "hard",
+    "question": "During the time-out, a nurse realizes the antibiotic has not been given. What is the best action?",
+    "options": [
+      "Skip the antibiotic",
+      "State the concern during the time-out so the antibiotic is given before incision",
+      "Give it after incision without telling anyone, to avoid delaying the case for the team",
+      "Document it as given"
+    ],
+    "correctIndex": 1,
+    "explanation": "The time-out is an opportunity to confirm key safety measures such as antibiotic timing."
+  },
+  {
+    "id": "communication_105",
+    "category": "communication",
+    "difficulty": "easy",
+    "question": "Which practice helps reduce communication errors with look-alike patient names?",
+    "options": [
+      "Using only last names, which are quicker to say and write on the board",
+      "Using name alerts and verifying two identifiers",
+      "Assuming the correct patient by room number",
+      "Calling patients by diagnosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Name alerts and two identifiers reduce wrong-patient errors."
+  },
+  {
+    "id": "communication_106",
+    "category": "communication",
+    "difficulty": "medium",
+    "question": "What is the best way to communicate with a patient who is drowsy after sedation?",
+    "options": [
+      "Avoid communication entirely",
+      "Give complex instructions immediately, while the patient is still in the PACU",
+      "Use short, clear sentences and repeat important information later",
+      "Speak only to the family"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sedation affects memory; information is repeated when the patient is alert."
+  }
+]

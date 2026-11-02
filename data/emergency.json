@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "emergency_001",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Which is often the earliest sign of malignant hyperthermia?",
+    "options": [
+      "A high fever of 40 °C appearing at the very start of surgery",
+      "Unexplained rise in end-tidal carbon dioxide",
+      "Decreased muscle tone",
+      "Bradycardia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hypercarbia and tachycardia are often early signs; fever may occur later."
+  },
+  {
+    "id": "emergency_002",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Which medication is the specific treatment for malignant hyperthermia?",
+    "options": [
+      "Naloxone",
+      "Flumazenil",
+      "Dantrolene",
+      "Succinylcholine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dantrolene reduces calcium release in skeletal muscle and is given early in an MH crisis."
+  },
+  {
+    "id": "emergency_003",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which agents can trigger malignant hyperthermia?",
+    "options": [
+      "Propofol and midazolam",
+      "Opioids and nitrous oxide only, when given in high doses together",
+      "Local anesthetics",
+      "Volatile inhaled anesthetics and succinylcholine"
+    ],
+    "correctIndex": 3,
+    "explanation": "Volatile agents and succinylcholine are known triggers; MH-susceptible patients receive trigger-free anesthesia."
+  },
+  {
+    "id": "emergency_004",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "What is the first-line medication for anaphylaxis?",
+    "options": [
+      "Epinephrine",
+      "Ondansetron",
+      "Diphenhydramine",
+      "Famotidine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Epinephrine counteracts vasodilation and bronchospasm; antihistamines are adjuncts."
+  },
+  {
+    "id": "emergency_005",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "An airway fire occurs during a tracheal procedure. What are the first steps?",
+    "options": [
+      "Apply a dry towel over the mouth",
+      "Remove the endotracheal tube and stop the flow of all airway gases",
+      "Leave the tube in place, call for help, and wait for the fire team",
+      "Increase the oxygen concentration"
+    ],
+    "correctIndex": 1,
+    "explanation": "Removing the burning tube and stopping oxidizers are immediate priorities, followed by saline to extinguish and reestablishing the airway."
+  },
+  {
+    "id": "emergency_006",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "In the RACE fire response acronym, the 'C' stands for:",
+    "options": [
+      "Call the surgeon back into the room to take over the response",
+      "Cool the room",
+      "Confine the fire by closing doors",
+      "Cover the patient"
+    ],
+    "correctIndex": 2,
+    "explanation": "RACE: Rescue, Alarm, Confine, Extinguish or Evacuate."
+  },
+  {
+    "id": "emergency_007",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "The PASS technique for using a fire extinguisher stands for:",
+    "options": [
+      "Push, Activate, Spray, Stop",
+      "Point, Aim, Shoot, Spray",
+      "Pull, Activate, Spray, Sweep",
+      "Pull, Aim, Squeeze, Sweep"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pull the pin, Aim at the base of the fire, Squeeze the handle, and Sweep side to side."
+  },
+  {
+    "id": "emergency_008",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which treatment is specifically recommended for local anesthetic systemic toxicity (LAST)?",
+    "options": [
+      "20% lipid emulsion",
+      "Sodium bicarbonate only",
+      "Naloxone",
+      "Dantrolene"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lipid emulsion therapy is the specific treatment for LAST, along with airway management and seizure control."
+  },
+  {
+    "id": "emergency_009",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which symptoms are early signs of local anesthetic systemic toxicity?",
+    "options": [
+      "Hyperactive bowel sounds",
+      "Circumoral numbness, metallic taste, and tinnitus",
+      "Urticaria at the injection site only",
+      "Hypertension and bradycardia only, with no neurologic symptoms"
+    ],
+    "correctIndex": 1,
+    "explanation": "CNS symptoms often precede seizures and cardiovascular collapse."
+  },
+  {
+    "id": "emergency_010",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "During massive intraoperative hemorrhage, which action is appropriate?",
+    "options": [
+      "Stop all monitoring",
+      "Infuse only cold crystalloid",
+      "Activate the massive transfusion protocol and use a blood warmer",
+      "Wait for the end of the case to request blood from the blood bank"
+    ],
+    "correctIndex": 2,
+    "explanation": "Massive transfusion protocols speed balanced product delivery; warming prevents hypothermia and coagulopathy."
+  },
+  {
+    "id": "emergency_011",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "What is the recommended chest compression rate for adult CPR?",
+    "options": [
+      "30 compressions per minute",
+      "140-160 compressions per minute",
+      "60-80 compressions per minute, to reduce rescuer fatigue over time",
+      "100-120 compressions per minute"
+    ],
+    "correctIndex": 3,
+    "explanation": "High-quality CPR includes a rate of 100-120/min and depth of at least 2 inches (5 cm) with full recoil."
+  },
+  {
+    "id": "emergency_012",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "A patient in the PACU develops laryngospasm after extubation. What is the initial intervention?",
+    "options": [
+      "Jaw thrust and positive-pressure ventilation with 100% oxygen",
+      "Administer an antiemetic",
+      "Give oral fluids",
+      "Place the patient flat and wait for the spasm to resolve on its own"
+    ],
+    "correctIndex": 0,
+    "explanation": "Initial treatment is airway maneuvers and positive pressure; medications may be required if spasm persists."
+  },
+  {
+    "id": "emergency_013",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "A sudden drop in end-tidal CO2 and hypotension occur during a sitting craniotomy. What should the team suspect?",
+    "options": [
+      "Anaphylaxis to latex",
+      "Hypoglycemia",
+      "Venous air embolism",
+      "Malignant hyperthermia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Procedures with the surgical site above the heart increase air embolism risk. Treatment includes flooding the field and supportive care."
+  },
+  {
+    "id": "emergency_014",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which cardiac rhythms are treated with defibrillation?",
+    "options": [
+      "Ventricular fibrillation and pulseless ventricular tachycardia",
+      "Sinus bradycardia",
+      "First-degree heart block",
+      "Asystole and pulseless electrical activity, which are both shockable rhythms"
+    ],
+    "correctIndex": 0,
+    "explanation": "VF and pulseless VT are shockable; asystole and PEA are treated with CPR and epinephrine."
+  },
+  {
+    "id": "emergency_015",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "A blood transfusion reaction is suspected. What is the first action?",
+    "options": [
+      "Slow the transfusion rate",
+      "Stop the transfusion and keep the IV line open with normal saline",
+      "Add an antihistamine to the blood bag and continue the transfusion",
+      "Finish the unit quickly"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stopping the transfusion limits exposure; the provider and blood bank are notified and the product is returned."
+  },
+  {
+    "id": "emergency_016",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "When an operating suite must be evacuated due to fire, the preferred first approach is usually:",
+    "options": [
+      "Vertical evacuation to the roof",
+      "Leaving patients in the OR",
+      "Using the elevators immediately, since they are the fastest exit for beds",
+      "Horizontal evacuation to an adjacent smoke compartment"
+    ],
+    "correctIndex": 3,
+    "explanation": "Horizontal movement past fire/smoke barriers is typically safest and fastest before vertical evacuation."
+  },
+  {
+    "id": "emergency_017",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which fire extinguisher is commonly recommended for use in the OR for fires involving electrical equipment?",
+    "options": [
+      "Water",
+      "Carbon dioxide (CO2)",
+      "Wet chemical (Class K)",
+      "Foam"
+    ],
+    "correctIndex": 1,
+    "explanation": "CO2 extinguishers leave no residue and are safe on electrical fires; water is used for small fires on the patient per protocol."
+  },
+  {
+    "id": "emergency_018",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "During malignant hyperthermia treatment, active cooling should be stopped when core temperature reaches approximately:",
+    "options": [
+      "38 °C (100.4 °F)",
+      "40 °C (104 °F), which is the point at which cooling is first started",
+      "33 °C (91.4 °F), to make sure that the fever does not return",
+      "35 °C (95 °F), so that the patient is slightly hypothermic"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stopping at about 38 °C prevents overshooting into hypothermia."
+  },
+  {
+    "id": "emergency_019",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "During a cardiac arrest in the OR, the circulating nurse's key role often includes:",
+    "options": [
+      "Leaving the room to notify family",
+      "Performing intubation",
+      "Breaking the sterile field to scrub in and assist with compressions",
+      "Calling for help, bringing the code cart and defibrillator, and documenting"
+    ],
+    "correctIndex": 3,
+    "explanation": "Roles are coordinated; the circulator mobilizes resources and records time-sensitive interventions."
+  },
+  {
+    "id": "emergency_020",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "Which sign during anesthesia may indicate a latex anaphylactic reaction?",
+    "options": [
+      "A slow rise in blood glucose with a gradually falling heart rate",
+      "Gradual hypothermia",
+      "Sudden hypotension, bronchospasm, and flushing or urticaria",
+      "Improved oxygen saturation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Intraoperative anaphylaxis may present primarily with cardiovascular collapse and bronchospasm; skin signs may be hidden under drapes."
+  },
+  {
+    "id": "emergency_021",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "In a mass casualty incident, what is the perioperative department's typical first operational step?",
+    "options": [
+      "Send all staff home",
+      "Close the department",
+      "Activate the emergency operations plan and postpone elective cases",
+      "Continue the normal elective schedule until the emergency department requests help"
+    ],
+    "correctIndex": 2,
+    "explanation": "Surge plans free OR capacity, mobilize staff, and support triage."
+  },
+  {
+    "id": "emergency_022",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Which device should be immediately available for patients receiving moderate sedation?",
+    "options": [
+      "A sterile instrument tray and a laparotomy set for conversion",
+      "A laser",
+      "A tourniquet",
+      "Emergency airway equipment and a reversal agent for the drugs used"
+    ],
+    "correctIndex": 3,
+    "explanation": "Patients may progress to deeper sedation; airway equipment, suction, oxygen, and reversal agents must be ready."
+  },
+  {
+    "id": "emergency_023",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "When malignant hyperthermia is suspected, what is the first action regarding triggering agents?",
+    "options": [
+      "Finish the procedure before changing anything",
+      "Stop the volatile anesthetic and succinylcholine immediately",
+      "Give a second dose of succinylcholine",
+      "Increase the volatile anesthetic to deepen anesthesia and relax the muscles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stopping triggers is the first step in managing MH, along with calling for help, hyperventilating with 100% oxygen, and giving dantrolene."
+  },
+  {
+    "id": "emergency_024",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "The initial recommended dose of dantrolene for a malignant hyperthermia crisis is:",
+    "options": [
+      "2.5 mg/kg IV, repeated as needed",
+      "10 mg total, regardless of the patient's weight, repeated every hour",
+      "0.25 mg/kg IV once only",
+      "25 mg/kg orally"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dantrolene 2.5 mg/kg IV is given rapidly and repeated until signs of MH resolve; some patients need much higher cumulative doses."
+  },
+  {
+    "id": "emergency_025",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "During a malignant hyperthermia crisis, which role is commonly assigned to the circulating nurse?",
+    "options": [
+      "Continue opening supplies for the case",
+      "Call for help, bring the MH cart, and help prepare dantrolene",
+      "Increase room temperature",
+      "Leave the room to call the family and update them on the case"
+    ],
+    "correctIndex": 1,
+    "explanation": "MH response needs many hands. Reconstituting dantrolene is labor intensive, so additional staff are assigned to the task."
+  },
+  {
+    "id": "emergency_026",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "Which electrolyte disturbance during malignant hyperthermia can cause life-threatening dysrhythmias and must be treated promptly?",
+    "options": [
+      "Hyperkalemia",
+      "Hypermagnesemia",
+      "Hypernatremia",
+      "Hypocalcemia from dantrolene"
+    ],
+    "correctIndex": 0,
+    "explanation": "Muscle breakdown releases potassium. Hyperkalemia is treated with calcium, insulin and glucose, and bicarbonate as directed."
+  },
+  {
+    "id": "emergency_027",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "Which medication class should be avoided with dantrolene during MH treatment because the combination can cause hyperkalemia and cardiovascular collapse?",
+    "options": [
+      "Insulin, which is also given to shift potassium into cells",
+      "Beta-agonist inhalers",
+      "Sodium bicarbonate",
+      "Calcium channel blockers"
+    ],
+    "correctIndex": 3,
+    "explanation": "Calcium channel blockers combined with dantrolene can cause severe hyperkalemia and myocardial depression; other antiarrhythmics are used instead."
+  },
+  {
+    "id": "emergency_028",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which finding after succinylcholine may be an early warning sign of MH susceptibility?",
+    "options": [
+      "Bradycardia only",
+      "Decreased end-tidal CO2 with a falling heart rate",
+      "Masseter muscle rigidity (jaw rigidity)",
+      "Flaccid jaw muscles"
+    ],
+    "correctIndex": 2,
+    "explanation": "Masseter muscle rigidity after succinylcholine can be an early sign of MH; the team monitors closely and may stop the case."
+  },
+  {
+    "id": "emergency_029",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Which method is appropriate for active cooling during malignant hyperthermia?",
+    "options": [
+      "Stopping all IV fluids",
+      "Cold IV saline and ice packs to the groin, axillae, and neck",
+      "Increasing the room temperature and applying warm blankets to the patient",
+      "Warm blankets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cooling measures lower core temperature. Cooling is stopped when the temperature reaches about 38 °C to avoid overshoot."
+  },
+  {
+    "id": "emergency_030",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "After a malignant hyperthermia episode, where should the patient be monitored?",
+    "options": [
+      "At home with a family member, once the temperature has returned to normal",
+      "In Phase II recovery",
+      "In an ICU or similar setting for at least 24 hours, for possible recurrence",
+      "In the holding area"
+    ],
+    "correctIndex": 2,
+    "explanation": "MH can recur within 24-36 hours. Patients are monitored closely with continued dantrolene as directed."
+  },
+  {
+    "id": "emergency_031",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Which route and concentration is commonly used for initial epinephrine in an adult with anaphylaxis outside of a monitored IV setting?",
+    "options": [
+      "Intramuscular 1 mg/mL (1:1,000) into the anterolateral thigh",
+      "Oral 1 mg tablet",
+      "Inhaled epinephrine only",
+      "Subcutaneous 0.1 mg/mL into the arm, repeated every 30 minutes"
+    ],
+    "correctIndex": 0,
+    "explanation": "IM epinephrine into the thigh is first-line for anaphylaxis; in anesthesia settings, IV epinephrine may be titrated by the anesthesia professional."
+  },
+  {
+    "id": "emergency_032",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "During suspected intraoperative anaphylaxis, which action is a priority in addition to epinephrine?",
+    "options": [
+      "Lower the head of the bed only",
+      "Stop all monitoring",
+      "Give the next dose of the suspected antibiotic as scheduled by the surgeon",
+      "Remove or stop the suspected trigger and give IV fluids and 100% oxygen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Removing the trigger, airway support, oxygen, and fluid resuscitation are key; antihistamines and steroids are secondary."
+  },
+  {
+    "id": "emergency_033",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "After an intraoperative anaphylactic reaction, which blood test may help confirm mast cell activation if drawn promptly?",
+    "options": [
+      "Serum amylase",
+      "TSH level, drawn within 6 hours of the reaction",
+      "Hemoglobin A1c",
+      "Serum tryptase"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tryptase rises after mast cell degranulation; timing of samples matters and results support later allergy evaluation."
+  },
+  {
+    "id": "emergency_034",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "During local anesthetic systemic toxicity, what is the recommended initial bolus of 20% lipid emulsion for an adult over 70 kg?",
+    "options": [
+      "100 mL over 2-3 minutes, followed by an infusion",
+      "10 mL over 1 hour",
+      "No lipid should be given until the seizures have completely stopped",
+      "1,000 mL rapidly"
+    ],
+    "correctIndex": 0,
+    "explanation": "ASRA guidance for adults over 70 kg is a 100 mL bolus followed by infusion; for patients under 70 kg the bolus is about 1.5 mL/kg lean body weight."
+  },
+  {
+    "id": "emergency_035",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "During LAST resuscitation, which medication adjustment is recommended?",
+    "options": [
+      "Give lidocaine for dysrhythmias",
+      "Give high-dose epinephrine of 5 mg",
+      "Use reduced-dose epinephrine and avoid vasopressin, calcium channel blockers, and beta-blockers",
+      "Give propofol in large doses to treat the seizures, in place of a benzodiazepine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lower-dose epinephrine is used in LAST; lidocaine and other local anesthetics are avoided, and benzodiazepines are preferred for seizures."
+  },
+  {
+    "id": "emergency_036",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Which item should be immediately available wherever local anesthetics are given in large doses?",
+    "options": [
+      "Naloxone only",
+      "Lipid emulsion and a LAST treatment checklist",
+      "Dantrolene only, along with a reversal agent for the local anesthetic",
+      "Protamine only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lipid emulsion and resuscitation equipment should be available wherever significant doses of local anesthetic are administered."
+  },
+  {
+    "id": "emergency_037",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "A patient receiving a peripheral nerve block suddenly has a seizure. What should the team suspect?",
+    "options": [
+      "Hypothermia",
+      "Anaphylaxis to latex only, from the gloves worn by the anesthesia provider",
+      "Local anesthetic systemic toxicity",
+      "Malignant hyperthermia"
+    ],
+    "correctIndex": 2,
+    "explanation": "CNS symptoms such as agitation, seizures, and loss of consciousness may progress to cardiovascular collapse in LAST."
+  },
+  {
+    "id": "emergency_038",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "What is the contact for 24-hour expert consultation during an MH crisis in the United States?",
+    "options": [
+      "The MHAUS MH Hotline",
+      "The CDC emergency operations center",
+      "The regional poison control center",
+      "The FDA MedWatch reporting line"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Malignant Hyperthermia Association of the United States provides a 24-hour hotline for clinical support."
+  },
+  {
+    "id": "emergency_039",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "Which statement about the MH cart is correct?",
+    "options": [
+      "It is needed only in hospitals that have a pediatric surgery service",
+      "It contains only cooling blankets",
+      "It can be stored in central supply offsite",
+      "It should be immediately available where triggers are used, with dantrolene checked"
+    ],
+    "correctIndex": 3,
+    "explanation": "Facilities that use triggering agents must have dantrolene and MH supplies immediately available and maintained."
+  },
+  {
+    "id": "emergency_040",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Which sign during anesthesia is most consistent with bronchospasm?",
+    "options": [
+      "Decreased airway pressure with clear, normal breath sounds throughout the chest",
+      "High airway pressures with wheezing and decreased chest movement",
+      "Increased urine output",
+      "Bradycardia with normal breath sounds"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bronchospasm narrows the airways, increasing ventilation pressures and causing wheezing and hypoxemia."
+  },
+  {
+    "id": "emergency_041",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which latex exposure route is most likely to cause rapid anaphylaxis during surgery?",
+    "options": [
+      "Wearing latex shoes while walking in the hallway before the procedure",
+      "Touching a nonlatex glove",
+      "Contact with mucous membranes or internal tissues",
+      "Hand washing"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mucosal and internal exposure to latex proteins can rapidly cause systemic reactions in sensitized patients."
+  },
+  {
+    "id": "emergency_042",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "A patient develops sudden tachycardia, hypercarbia despite increased ventilation, and rising temperature during surgery. Which action should occur first?",
+    "options": [
+      "Wait for the temperature to reach 40 °C before acting on the trend",
+      "Give acetaminophen and continue",
+      "Increase volatile anesthetic",
+      "Stop triggering agents and call for help and the MH cart"
+    ],
+    "correctIndex": 3,
+    "explanation": "Early recognition and treatment improve outcomes in MH. Temperature rise can be a late sign."
+  },
+  {
+    "id": "emergency_043",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "A nurse is coaching a colleague who is compressing the chest of an adult in cardiac arrest. Which depth target is correct?",
+    "options": [
+      "At least 4 inches (10 cm)",
+      "At least 2 inches (5 cm) but not more than 2.4 inches (6 cm)",
+      "About 1 inch (2.5 cm)",
+      "Any depth is acceptable as long as the compression rate is fast"
+    ],
+    "correctIndex": 1,
+    "explanation": "High-quality CPR includes adequate depth, full recoil, minimal interruptions, and a rate of 100-120 per minute."
+  },
+  {
+    "id": "emergency_044",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "For adult CPR without an advanced airway, what is the compression-to-ventilation ratio?",
+    "options": [
+      "30:2",
+      "50:5",
+      "5:1",
+      "15:1, which is used for all adult patients before an advanced airway"
+    ],
+    "correctIndex": 0,
+    "explanation": "Without an advanced airway, adult CPR uses 30 compressions to 2 breaths. With an advanced airway, continuous compressions with 1 breath every 6 seconds are given."
+  },
+  {
+    "id": "emergency_045",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "During adult cardiac arrest, what is the standard dose of IV epinephrine?",
+    "options": [
+      "0.1 mg every hour until the pulse returns",
+      "0.3 mg IM once",
+      "1 mg every 3-5 minutes",
+      "10 mg once"
+    ],
+    "correctIndex": 2,
+    "explanation": "Epinephrine 1 mg IV/IO is given every 3-5 minutes during cardiac arrest."
+  },
+  {
+    "id": "emergency_046",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "A patient develops pulseless electrical activity in the OR. Which approach is most appropriate?",
+    "options": [
+      "Begin CPR, give epinephrine, and look for reversible causes such as hypovolemia",
+      "Defibrillate immediately, because PEA is a shockable rhythm that responds to current",
+      "Give atropine as the first drug",
+      "Stop CPR to check for a pulse every 30 seconds"
+    ],
+    "correctIndex": 0,
+    "explanation": "PEA is not shockable. CPR, epinephrine, and treating the H's and T's are the priorities."
+  },
+  {
+    "id": "emergency_047",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "During laparoscopic surgery, a patient develops sudden hypoxemia, high airway pressures, hypotension, and absent breath sounds on one side. What should the team suspect?",
+    "options": [
+      "Bronchial intubation with no hemodynamic effect",
+      "Tension pneumothorax",
+      "Laryngospasm",
+      "Malignant hyperthermia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tension pneumothorax causes hemodynamic collapse and requires immediate decompression and chest tube placement."
+  },
+  {
+    "id": "emergency_048",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "Which findings make up Beck's triad, suggesting cardiac tamponade?",
+    "options": [
+      "Fever, rash, and joint pain that develop over several days after the surgery",
+      "Tachycardia, wheezing, and hives",
+      "Hypertension, bradycardia, and irregular respirations",
+      "Hypotension, jugular venous distention, and muffled heart sounds"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pericardial fluid compresses the heart, reducing filling. Pericardiocentesis or surgical drainage is needed."
+  },
+  {
+    "id": "emergency_049",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "A patient becomes bradycardic with a heart rate of 38 and hypotension. Which drug is commonly given first?",
+    "options": [
+      "Diltiazem IV",
+      "Adenosine 6 mg rapid IV",
+      "Atropine 1 mg IV",
+      "Amiodarone 300 mg IV"
+    ],
+    "correctIndex": 2,
+    "explanation": "For symptomatic bradycardia, atropine 1 mg IV is first-line, repeated as needed, with pacing or infusions if ineffective."
+  },
+  {
+    "id": "emergency_050",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Where should defibrillator pads be placed in an adult using the anterolateral position?",
+    "options": [
+      "Both pads on the left chest",
+      "Right upper chest below the clavicle and left lateral chest",
+      "On the abdomen and the lower back, with a gap of 10 cm between pads",
+      "On the back of both shoulders"
+    ],
+    "correctIndex": 1,
+    "explanation": "The anterolateral position directs current through the heart. Pads should not be placed over implanted devices."
+  },
+  {
+    "id": "emergency_051",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "The anesthesia professional calls a 'cannot intubate, cannot oxygenate' emergency. What is the circulating nurse's most important action?",
+    "options": [
+      "Call for help and bring the difficult airway cart, including surgical airway equipment",
+      "Prepare for the case to continue while the anesthesia professional secures the airway",
+      "Start counting instruments",
+      "Leave the room to find the family"
+    ],
+    "correctIndex": 0,
+    "explanation": "In a CICO situation, emergency front-of-neck access may be needed. Rapid availability of difficult airway equipment saves time."
+  },
+  {
+    "id": "emergency_052",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "A patient vomits during induction and the anesthesia professional suspects aspiration. Which action is most appropriate?",
+    "options": [
+      "Sit the patient upright and give oral fluids to clear the airway",
+      "Give a large IV fluid bolus only",
+      "Continue induction without suction",
+      "Position head-down or lateral as directed, suction the airway, and support oxygenation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Positioning and immediate suctioning limit aspiration; airway protection and oxygen support follow."
+  },
+  {
+    "id": "emergency_053",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "What is a key sign of hypovolemic shock?",
+    "options": [
+      "Hypertension with bounding pulses",
+      "Increased urine output",
+      "Tachycardia with narrowing pulse pressure",
+      "Bradycardia with warm, flushed skin and a widening pulse pressure"
+    ],
+    "correctIndex": 2,
+    "explanation": "Compensatory tachycardia and vasoconstriction occur early in hypovolemia; blood pressure may drop later."
+  },
+  {
+    "id": "emergency_054",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Which item should be checked routinely on the code cart?",
+    "options": [
+      "The cart's location on the floor plan once a year",
+      "Defibrillator function, medications, and supplies according to policy",
+      "Only the expiration date on the outside seal",
+      "The defibrillator only after it is used in a code"
+    ],
+    "correctIndex": 1,
+    "explanation": "Daily or scheduled checks ensure the defibrillator works and supplies are available and not expired."
+  },
+  {
+    "id": "emergency_055",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "During massive transfusion, which ratio of blood products is commonly targeted in trauma resuscitation?",
+    "options": [
+      "Plasma only",
+      "Only crystalloid fluids",
+      "Red blood cells only, until the surgical bleeding is controlled",
+      "Balanced ratios such as 1:1:1 of plasma, platelets, and red blood cells"
+    ],
+    "correctIndex": 3,
+    "explanation": "Balanced resuscitation reduces coagulopathy and improves outcomes in massive hemorrhage."
+  },
+  {
+    "id": "emergency_056",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "During rapid transfusion of large volumes of blood, which complication is a concern?",
+    "options": [
+      "Hypocalcemia from citrate and hypothermia from cold products",
+      "Hypoglycemia from glucose in blood",
+      "Hypercalcemia from citrate and hyperthermia from warmed products",
+      "Hyperthermia from warm products"
+    ],
+    "correctIndex": 0,
+    "explanation": "Citrate binds calcium, and cold blood lowers body temperature. Calcium replacement and fluid warmers are used."
+  },
+  {
+    "id": "emergency_057",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which sign suggests venous air embolism during surgery with the surgical site above the heart?",
+    "options": [
+      "Increased end-tidal CO2 only",
+      "Sudden decrease in end-tidal CO2 with hypotension",
+      "A slow increase in body temperature with a rising heart rate",
+      "Increased urine output"
+    ],
+    "correctIndex": 1,
+    "explanation": "Air entering the venous system decreases pulmonary blood flow, causing a drop in end-tidal CO2 and cardiovascular instability."
+  },
+  {
+    "id": "emergency_058",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "What is the first step when a patient is found unresponsive in the PACU?",
+    "options": [
+      "Check responsiveness and breathing, call for help, and start CPR",
+      "Call the family and wait for them to give permission to start CPR",
+      "Document the event first",
+      "Wait for the anesthesia professional before acting"
+    ],
+    "correctIndex": 0,
+    "explanation": "Immediate recognition and calling for help, followed by CPR, improve survival."
+  },
+  {
+    "id": "emergency_059",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which rhythm is treated with synchronized cardioversion when the patient is unstable?",
+    "options": [
+      "Normal sinus rhythm",
+      "Asystole, which is treated with synchronized shocks at a low energy level",
+      "Pulseless ventricular tachycardia",
+      "Unstable supraventricular tachycardia with a pulse"
+    ],
+    "correctIndex": 3,
+    "explanation": "Synchronized cardioversion is for unstable tachyarrhythmias with a pulse; defibrillation is used for pulseless VT and VF."
+  },
+  {
+    "id": "emergency_060",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "A patient with a spinal cord injury at T4 develops severe hypertension, bradycardia, and flushing above the injury level during a cystoscopy. What should the nurse do first?",
+    "options": [
+      "Increase bladder distention to complete the procedure",
+      "Give a rapid fluid bolus and increase the stimulus from the bladder",
+      "Stop the stimulus and elevate the head of the bed if possible",
+      "Lay the patient flat and continue the procedure"
+    ],
+    "correctIndex": 2,
+    "explanation": "Autonomic dysreflexia is triggered by stimuli below the injury. Removing the trigger and raising the head lowers blood pressure."
+  },
+  {
+    "id": "emergency_061",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which treatment is used for severe hyperkalemia with ECG changes?",
+    "options": [
+      "Oral potassium supplements",
+      "IV calcium to stabilize the myocardium",
+      "IV potassium chloride",
+      "Withholding all fluids and giving potassium-sparing medications by mouth"
+    ],
+    "correctIndex": 1,
+    "explanation": "Calcium protects the heart while insulin with glucose and other measures shift or remove potassium."
+  },
+  {
+    "id": "emergency_062",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Which situation requires the immediate use of an automated external defibrillator (AED) or defibrillator?",
+    "options": [
+      "Ventricular fibrillation",
+      "Sinus tachycardia",
+      "Sinus bradycardia with a heart rate of 50 per minute and a normal blood pressure",
+      "First-degree heart block"
+    ],
+    "correctIndex": 0,
+    "explanation": "Early defibrillation is the most important treatment for ventricular fibrillation."
+  },
+  {
+    "id": "emergency_063",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "What is the first action when a small fire occurs on the drapes over a patient?",
+    "options": [
+      "Open the doors to ventilate the smoke",
+      "Leave the room immediately",
+      "Call the fire department before taking any action on the burning drapes",
+      "Remove the burning drapes and extinguish the fire, then attend to the patient"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rapid removal of burning materials and extinguishing small fires limits patient injury; saline or water can be used on the field."
+  },
+  {
+    "id": "emergency_064",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which action best reduces fire risk during head and neck surgery under sedation with supplemental oxygen?",
+    "options": [
+      "Use 100% oxygen by open mask, with the drapes tented to keep the patient comfortable",
+      "Tent drapes tightly to trap oxygen",
+      "Use the lowest oxygen concentration needed and consider a secured airway",
+      "Use alcohol prep without drying time"
+    ],
+    "correctIndex": 2,
+    "explanation": "Open oxygen sources near ignition sources create oxygen-enriched environments. The team discusses oxygen use and airway choices during the fire risk assessment."
+  },
+  {
+    "id": "emergency_065",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "When is a fire risk assessment performed for each surgical procedure?",
+    "options": [
+      "Only if a fire has occurred before in the same operating room",
+      "After the case ends",
+      "Only for laser cases",
+      "Before the procedure begins, typically at the briefing or time-out"
+    ],
+    "correctIndex": 3,
+    "explanation": "A fire risk assessment identifies ignition sources, fuels, and oxidizers so preventive measures can be planned."
+  },
+  {
+    "id": "emergency_066",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "After an airway fire is extinguished and the tube removed, what is the next priority?",
+    "options": [
+      "Continue with 100% oxygen through the burned tube until the surgeon has finished the procedure",
+      "Re-establish the airway, ventilate with air until the fire is clearly out, and assess for injury",
+      "Delay airway support until the drapes are removed",
+      "Reinsert the burned tube"
+    ],
+    "correctIndex": 1,
+    "explanation": "After extinguishing, the airway is re-established, oxygen is reintroduced once safe, and bronchoscopy assesses damage."
+  },
+  {
+    "id": "emergency_067",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Where is the medical gas shut-off valve for an OR usually located?",
+    "options": [
+      "Inside the anesthesia machine, behind the vaporizer and flowmeter panel",
+      "In the scrub sink cabinet",
+      "In a zone valve box outside the OR in the corridor",
+      "Under the OR bed"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zone valves allow gas flow to be shut off to an area during a fire. Staff should know their location and who can close them."
+  },
+  {
+    "id": "emergency_068",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "During a power failure in the OR, which action is appropriate?",
+    "options": [
+      "Use emergency power outlets for critical equipment and support anesthesia manually",
+      "Leave the room until power returns",
+      "Turn off the anesthesia machine",
+      "Unplug all equipment from the emergency outlets to protect it from a power surge"
+    ],
+    "correctIndex": 0,
+    "explanation": "Emergency power (red outlets) supports critical equipment. The team maintains patient safety with manual ventilation and battery-powered devices as needed."
+  },
+  {
+    "id": "emergency_069",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "The pipeline oxygen supply fails during surgery. What should the anesthesia team do?",
+    "options": [
+      "Turn off all oxygen",
+      "Continue using the pipeline oxygen until the engineering department restores the pressure",
+      "Switch to nitrous oxide only",
+      "Open the backup oxygen cylinder on the anesthesia machine and disconnect the pipeline"
+    ],
+    "correctIndex": 3,
+    "explanation": "Backup cylinders provide oxygen when pipeline supply fails. Disconnecting the pipeline prevents contaminated or low-pressure supply from reaching the patient."
+  },
+  {
+    "id": "emergency_070",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which action is part of evacuating a patient from the OR during a fire?",
+    "options": [
+      "Move vertically down stairs first",
+      "Maintain airway and anesthesia support, take essential monitoring, and move to safety",
+      "Stop all anesthesia support immediately",
+      "Leave the patient and evacuate staff only, after turning off the anesthesia machine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patient evacuation is coordinated, with airway and monitoring support and horizontal evacuation as the first option."
+  },
+  {
+    "id": "emergency_071",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "What does the 'R' in the RACE fire response stand for?",
+    "options": [
+      "Rescue anyone in immediate danger",
+      "Report to the manager only, and wait for instructions before acting",
+      "Record the fire on the chart",
+      "Run to the exit"
+    ],
+    "correctIndex": 0,
+    "explanation": "RACE stands for Rescue, Alarm, Confine, and Extinguish or Evacuate."
+  },
+  {
+    "id": "emergency_072",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which agent is preferred to extinguish a small fire on the sterile field?",
+    "options": [
+      "A dry towel",
+      "Dry powder from a fire extinguisher onto the incision",
+      "Sterile saline or water",
+      "Alcohol"
+    ],
+    "correctIndex": 2,
+    "explanation": "Saline or water is effective and safe for most small fires on the field; extinguishers are used for larger fires."
+  },
+  {
+    "id": "emergency_073",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "During an active shooter event, how should OR staff respond when a patient is anesthetized and cannot be moved?",
+    "options": [
+      "Call the family first",
+      "Leave the patient and run immediately, in all cases, to the nearest exit",
+      "Open the doors to look for the shooter",
+      "Follow the facility's plan, which may include sheltering in place"
+    ],
+    "correctIndex": 3,
+    "explanation": "Facilities plan for active shooter events. In the OR, staff may need to shelter in place to protect patients who cannot be moved."
+  },
+  {
+    "id": "emergency_074",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "A bomb threat is received by phone in the perioperative department. Which action is most appropriate?",
+    "options": [
+      "Evacuate all patients immediately without notifying security or the administrator on duty",
+      "Ignore the call",
+      "Keep the caller talking, note details, and notify security per policy",
+      "Hang up immediately"
+    ],
+    "correctIndex": 2,
+    "explanation": "Collecting details helps authorities. Facility policy guides notification and evacuation decisions."
+  },
+  {
+    "id": "emergency_075",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Which resource should be consulted for information about a hazardous chemical spill in the OR?",
+    "options": [
+      "The Safety Data Sheet (SDS)",
+      "The OR schedule",
+      "The patient's chart",
+      "The surgeon's preference card"
+    ],
+    "correctIndex": 0,
+    "explanation": "SDSs describe hazards, handling, PPE, and spill response for chemicals."
+  },
+  {
+    "id": "emergency_076",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "During a mass casualty event, which triage approach is commonly used to prioritize patients?",
+    "options": [
+      "Treat the least injured patients first, so the most staff are free for the others",
+      "A system such as START that sorts patients by injury severity and resource needs",
+      "Prioritize by age only",
+      "First come, first served"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triage systems allocate limited resources to patients most likely to benefit."
+  },
+  {
+    "id": "emergency_077",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "Which statement about the OR's role in an emergency operations plan is correct?",
+    "options": [
+      "The OR closes during all emergencies",
+      "Elective cases must continue regardless of the event, so that the schedule is not disrupted",
+      "Only the ED is involved in disaster response",
+      "The OR may postpone elective cases and prepare staff and rooms for incoming casualties"
+    ],
+    "correctIndex": 3,
+    "explanation": "Perioperative departments plan for surge capacity, including staff recall and supply management."
+  },
+  {
+    "id": "emergency_078",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which piece of equipment should always be available when a patient is under general anesthesia in case of a power failure?",
+    "options": [
+      "A manual resuscitation bag and a battery-powered light source",
+      "A microwave",
+      "A forced-air warmer and a spare blanket for the patient",
+      "A printer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Manual ventilation and lighting allow the team to maintain the patient's airway when power is lost."
+  },
+  {
+    "id": "emergency_079",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Who should be trained to use the OR's fire extinguishers?",
+    "options": [
+      "Only the surgeon",
+      "Only the facility engineers",
+      "All perioperative staff",
+      "Only the fire department"
+    ],
+    "correctIndex": 2,
+    "explanation": "All staff need fire safety education and should know extinguisher locations and use."
+  },
+  {
+    "id": "emergency_080",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "What is the fire risk associated with dry towels near an electrosurgical active electrode?",
+    "options": [
+      "They absorb electrical current and prevent the current from reaching the patient",
+      "They are fuel that can ignite in an oxygen-enriched environment",
+      "They improve electrode cooling",
+      "They prevent smoke formation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dry drapes, towels, and gauze are fuels. Keeping materials moist near ignition sources reduces fire risk."
+  },
+  {
+    "id": "emergency_081",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "During a fire, why should the anesthesia professional stop the flow of oxygen and nitrous oxide?",
+    "options": [
+      "Nitrous oxide is flammable only in cylinders and not in a breathing circuit",
+      "Both gases support combustion and intensify the fire",
+      "It reduces the patient's anesthetic depth",
+      "Oxygen extinguishes fires"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oxygen and nitrous oxide are oxidizers; stopping them removes one side of the fire triangle."
+  },
+  {
+    "id": "emergency_082",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "What is the purpose of fire drills in the perioperative area?",
+    "options": [
+      "To count the instruments and sponges before the start of the next case",
+      "To test surgical lights",
+      "To check staff attendance",
+      "To ensure staff know their roles and can respond quickly"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fire drills reinforce response steps and identify gaps in the plan."
+  },
+  {
+    "id": "emergency_083",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "After a cesarean birth, the uterus is soft and boggy with heavy bleeding. Which intervention is usually first?",
+    "options": [
+      "Apply ice to the abdomen and wait",
+      "Stop all IV fluids",
+      "Uterine massage and uterotonic medications such as oxytocin, as ordered",
+      "Place the patient in reverse Trendelenburg position and apply ice to the abdomen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Uterine atony is the most common cause of postpartum hemorrhage. Massage and uterotonics help the uterus contract."
+  },
+  {
+    "id": "emergency_084",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "A patient receiving magnesium sulfate for preeclampsia has absent reflexes and a respiratory rate of 8. Which medication should be available?",
+    "options": [
+      "Calcium gluconate",
+      "Naloxone",
+      "Protamine",
+      "Flumazenil, which reverses the effects of magnesium sulfate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Magnesium toxicity causes loss of reflexes and respiratory depression. Calcium gluconate is the antidote."
+  },
+  {
+    "id": "emergency_085",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "During cesarean birth, a patient suddenly develops hypoxemia, hypotension, and coagulopathy. What should the team suspect?",
+    "options": [
+      "Spinal headache",
+      "Postoperative ileus with abdominal distention and absent bowel sounds",
+      "Amniotic fluid embolism",
+      "Hypoglycemia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Amniotic fluid embolism is a rare, catastrophic event with cardiovascular collapse and DIC; rapid resuscitation is required."
+  },
+  {
+    "id": "emergency_086",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "A pregnant patient in cardiac arrest is being resuscitated. Which action improves CPR effectiveness?",
+    "options": [
+      "Stopping compressions to check fetal heart tones before shocking",
+      "Delaying defibrillation",
+      "Placing the patient in Trendelenburg",
+      "Manual left uterine displacement during compressions"
+    ],
+    "correctIndex": 3,
+    "explanation": "Displacing the uterus relieves aortocaval compression, improving venous return and the effectiveness of compressions."
+  },
+  {
+    "id": "emergency_087",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Which sign is most consistent with an acute hemolytic transfusion reaction?",
+    "options": [
+      "Hives only",
+      "Fever, chills, flank pain, and hypotension",
+      "Increased appetite",
+      "Mild itching after the transfusion that resolves without treatment"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acute hemolytic reactions are usually caused by ABO incompatibility and are life-threatening."
+  },
+  {
+    "id": "emergency_088",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "A patient develops respiratory distress, hypoxemia, and bilateral infiltrates within 6 hours of plasma transfusion, without signs of fluid overload. What is the most likely cause?",
+    "options": [
+      "Transfusion-related acute lung injury (TRALI)",
+      "Transfusion-associated circulatory overload",
+      "Hypokalemia from the potassium in stored red blood cells",
+      "Febrile nonhemolytic reaction"
+    ],
+    "correctIndex": 0,
+    "explanation": "TRALI is noncardiogenic pulmonary edema after transfusion. Supportive care and reporting to the blood bank are required."
+  },
+  {
+    "id": "emergency_089",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "A patient with heart failure develops crackles, hypertension, and dyspnea during transfusion. What is the most likely cause?",
+    "options": [
+      "Hypothermia",
+      "Anaphylaxis",
+      "TRALI, which presents with normal blood pressure and no signs of volume overload",
+      "Transfusion-associated circulatory overload (TACO)"
+    ],
+    "correctIndex": 3,
+    "explanation": "TACO results from volume overload; slowing or stopping the transfusion and giving diuretics as ordered help."
+  },
+  {
+    "id": "emergency_090",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Which treatment is appropriate for a conscious patient with hypoglycemia who can swallow?",
+    "options": [
+      "A high-fat meal",
+      "Insulin",
+      "15-20 g of fast-acting carbohydrate",
+      "Nothing until the next blood glucose test is performed by the lab"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fast-acting carbohydrate raises glucose quickly. For NPO or unconscious patients, IV dextrose or glucagon is used."
+  },
+  {
+    "id": "emergency_091",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which finding suggests thyroid storm during surgery?",
+    "options": [
+      "Decreased end-tidal CO2",
+      "Hyperthermia, tachycardia, and agitation in a patient with hyperthyroidism",
+      "Bradycardia and hypothermia in a patient with a history of hyperthyroidism",
+      "Hypoglycemia only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thyroid storm is life-threatening and may mimic MH. Treatment includes beta-blockers, antithyroid drugs, and cooling."
+  },
+  {
+    "id": "emergency_092",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "During cardiac surgery, the patient becomes severely hypotensive with pulmonary hypertension after protamine administration. What is the likely cause?",
+    "options": [
+      "A protamine reaction",
+      "Spinal shock",
+      "Hypoglycemia",
+      "Malignant hyperthermia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Protamine can cause hypotension, pulmonary hypertension, and anaphylaxis. Slow administration and readiness to treat are essential."
+  },
+  {
+    "id": "emergency_093",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which action is recommended immediately after a suspected transfusion reaction?",
+    "options": [
+      "Restart the same unit at a slower rate once symptoms have improved",
+      "Discard the blood bag",
+      "Notify the provider and blood bank, and return the bag and tubing per policy",
+      "Give the next unit"
+    ],
+    "correctIndex": 2,
+    "explanation": "The blood bank investigates reactions, so the unit and tubing are returned with required samples."
+  },
+  {
+    "id": "emergency_094",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "What is the first-line drug for status epilepticus in a patient with IV access?",
+    "options": [
+      "Insulin",
+      "A benzodiazepine such as lorazepam",
+      "Calcium chloride, given slowly through the central line",
+      "Atropine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Benzodiazepines stop most seizures; additional antiepileptic drugs are used if seizures continue."
+  },
+  {
+    "id": "emergency_095",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "A patient becomes acutely hypotensive after induction of anesthesia. Which assessment helps identify a cause?",
+    "options": [
+      "Check the room temperature only",
+      "Ignore the hypotension if the heart rate is normal, and recheck later",
+      "Check the surgeon's notes",
+      "Review medications given, volume status, and signs of anaphylaxis or bleeding"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hypotension can be due to anesthetic drugs, hypovolemia, anaphylaxis, or cardiac causes. Rapid assessment guides treatment."
+  },
+  {
+    "id": "emergency_096",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "Which finding most clearly distinguishes malignant hyperthermia from thyroid storm or sepsis?",
+    "options": [
+      "Rapidly rising end-tidal CO2 despite increased minute ventilation",
+      "Fever that develops during the first hour of the anesthetic",
+      "Tachycardia that is not controlled by beta-blockers or fluids",
+      "Hypotension with decreased urine output during the case"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tachycardia and fever occur in many conditions. Unexplained hypercarbia despite ventilation is a hallmark of MH."
+  },
+  {
+    "id": "emergency_097",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which action is appropriate during a suspected latex allergic reaction?",
+    "options": [
+      "Remove all latex products and continue treatment for anaphylaxis",
+      "Continue with latex catheters",
+      "Switch to powdered latex gloves to keep the hands dry during resuscitation",
+      "Stop all monitoring"
+    ],
+    "correctIndex": 0,
+    "explanation": "Removing the allergen and treating anaphylaxis are the key steps."
+  },
+  {
+    "id": "emergency_098",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Which sign suggests that a patient is having a stroke?",
+    "options": [
+      "Increased appetite",
+      "Sudden facial droop, arm weakness, and speech difficulty",
+      "Slow onset of mild fatigue over a period of several weeks",
+      "Mild knee pain"
+    ],
+    "correctIndex": 1,
+    "explanation": "The BE FAST approach (Balance, Eyes, Face, Arms, Speech, Time) helps recognize stroke quickly."
+  },
+  {
+    "id": "emergency_099",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which priority applies to a patient with suspected sepsis in the PACU?",
+    "options": [
+      "Delay treatment until the fever resolves or a culture result is available",
+      "Give antipyretics only",
+      "Restrict fluids",
+      "Early recognition, cultures, antibiotics, and fluid resuscitation per protocol"
+    ],
+    "correctIndex": 3,
+    "explanation": "Early treatment of sepsis improves survival; sepsis bundles guide time-sensitive actions."
+  },
+  {
+    "id": "emergency_100",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "During a procedure, the patient's ECG shows peaked T waves and widened QRS complexes. Which electrolyte imbalance is most likely?",
+    "options": [
+      "Hypokalemia",
+      "Hypercalcemia",
+      "Hyperkalemia",
+      "Hyponatremia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Peaked T waves and widened QRS are typical of hyperkalemia and require urgent treatment."
+  },
+  {
+    "id": "emergency_101",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "A pediatric patient needs CPR. What is the compression depth for a child?",
+    "options": [
+      "As shallow as possible",
+      "About 4 inches (10 cm), which is the same depth used for an adult",
+      "About 0.5 inch",
+      "About one-third of the chest depth, approximately 2 inches (5 cm)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pediatric compressions are about one-third the anteroposterior chest diameter."
+  },
+  {
+    "id": "emergency_102",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "What should be done with an emergency drug box after it is used?",
+    "options": [
+      "Leave it open in the room",
+      "Restock it promptly and check expiration dates per policy",
+      "Reuse open vials for the next patient, to reduce waste",
+      "Store it without checking"
+    ],
+    "correctIndex": 1,
+    "explanation": "Emergency supplies must be complete and ready for the next event."
+  },
+  {
+    "id": "emergency_103",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "A patient in the PACU suddenly develops stridor after extubation and is anxious. What is the most likely cause?",
+    "options": [
+      "Hypoglycemia",
+      "Urinary retention",
+      "Upper airway obstruction such as laryngeal edema or laryngospasm",
+      "Pulmonary embolism with sudden hypoxemia and clear lung sounds"
+    ],
+    "correctIndex": 2,
+    "explanation": "Stridor indicates upper airway narrowing; prompt airway support and evaluation are needed."
+  },
+  {
+    "id": "emergency_104",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "A patient with a history of severe asthma develops sudden wheezing and decreased oxygen saturation during induction. What is the first priority?",
+    "options": [
+      "Deepen anesthesia and give bronchodilators as directed while supporting oxygenation",
+      "Stop all oxygen",
+      "Extubate the patient immediately to relieve the pressure on the airway",
+      "Give a beta-blocker"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bronchospasm is treated with deepening anesthesia, bronchodilators, and oxygen support."
+  },
+  {
+    "id": "emergency_105",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "What is the main purpose of a rapid response team?",
+    "options": [
+      "To schedule surgeries",
+      "To transport patients between units when the transport team is short-staffed",
+      "To intervene early when patients show signs of clinical deterioration",
+      "To clean rooms quickly"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rapid response teams intervene before cardiac or respiratory arrest occurs."
+  },
+  {
+    "id": "emergency_106",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which sign in a postoperative patient suggests hypovolemia due to bleeding?",
+    "options": [
+      "Bradycardia and hypertension with warm, dry skin and good urine output",
+      "Increased urine output",
+      "Warm, dry skin",
+      "Rising heart rate and falling blood pressure"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hemorrhage causes compensatory tachycardia, followed by hypotension and decreased perfusion."
+  },
+  {
+    "id": "emergency_107",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "A patient undergoing a craniotomy in the sitting position develops a sudden air embolism. Which action is appropriate?",
+    "options": [
+      "Flood the field with saline, prevent further air entry, and support circulation",
+      "Open more venous sinuses",
+      "Give nitrous oxide",
+      "Increase the head elevation to improve venous drainage from the surgical field"
+    ],
+    "correctIndex": 0,
+    "explanation": "Covering the field and preventing air entry are key; nitrous oxide is avoided because it expands air bubbles."
+  },
+  {
+    "id": "emergency_108",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which action is appropriate if a patient falls from the OR bed?",
+    "options": [
+      "Leave the patient on the floor until the case ends",
+      "Assess for injury, notify the team and provider, and follow event reporting",
+      "Return the patient to the bed and continue with the case without any reporting",
+      "Document it later only if injury occurs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Falls must be assessed and reported. Preventive measures include safety straps and attentive staff."
+  },
+  {
+    "id": "emergency_109",
+    "category": "emergency",
+    "difficulty": "easy",
+    "question": "Which item is used to treat opioid-induced respiratory depression?",
+    "options": [
+      "Dantrolene",
+      "Naloxone",
+      "Protamine",
+      "Flumazenil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Naloxone reverses opioid effects; flumazenil reverses benzodiazepines."
+  },
+  {
+    "id": "emergency_110",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which medication reverses benzodiazepine sedation?",
+    "options": [
+      "Neostigmine",
+      "Atropine",
+      "Flumazenil",
+      "Naloxone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Flumazenil reverses benzodiazepines but can cause seizures in patients with chronic benzodiazepine use."
+  },
+  {
+    "id": "emergency_111",
+    "category": "emergency",
+    "difficulty": "hard",
+    "question": "A patient has a severe drop in blood pressure after spinal anesthesia, along with nausea. What is the first action?",
+    "options": [
+      "Notify the anesthesia professional and support blood pressure with fluids and pressors",
+      "Give an opioid",
+      "Lay the patient prone",
+      "Elevate the head of the bed to raise the blood pressure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Spinal anesthesia can cause hypotension from sympathetic blockade. Treatment includes fluids and vasopressors."
+  },
+  {
+    "id": "emergency_112",
+    "category": "emergency",
+    "difficulty": "medium",
+    "question": "Which action is part of a coordinated response to a surgical emergency such as a major hemorrhage?",
+    "options": [
+      "Everyone shouting instructions at once, so the team hears them quickly",
+      "Leaving the room to call for help",
+      "Waiting for the surgeon to request each item",
+      "Clear role assignments and closed-loop communication"
+    ],
+    "correctIndex": 3,
+    "explanation": "Clear roles and closed-loop communication improve teamwork during emergencies."
+  }
+]

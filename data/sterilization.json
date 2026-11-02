@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "sterilization_001",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Under the Spaulding classification, items that enter sterile tissue or the vascular system are:",
+    "options": [
+      "Semicritical items requiring low-level disinfection",
+      "Exempt from processing",
+      "Noncritical items requiring cleaning only",
+      "Critical items that require sterilization"
+    ],
+    "correctIndex": 3,
+    "explanation": "Critical items carry a high infection risk and must be sterile."
+  },
+  {
+    "id": "sterilization_002",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Semicritical items that contact mucous membranes require at least:",
+    "options": [
+      "Intermediate-level disinfection only",
+      "Soap and water only",
+      "High-level disinfection",
+      "Low-level disinfection"
+    ],
+    "correctIndex": 2,
+    "explanation": "Semicritical items (such as some endoscopes) require at least high-level disinfection; sterilization is preferred when feasible."
+  },
+  {
+    "id": "sterilization_003",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Noncritical items that contact only intact skin require:",
+    "options": [
+      "High-level disinfection",
+      "Low-level disinfection",
+      "Sterilization",
+      "No cleaning"
+    ],
+    "correctIndex": 1,
+    "explanation": "Items such as blood pressure cuffs contact intact skin and need cleaning and low-level disinfection."
+  },
+  {
+    "id": "sterilization_004",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "What is the first step in instrument reprocessing?",
+    "options": [
+      "Point-of-use treatment to remove gross soil and keep items moist",
+      "Packaging",
+      "Storage",
+      "Sterilization of the instruments in the nearest available sterilizer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Allowing blood and debris to dry makes cleaning difficult; point-of-use treatment starts reprocessing."
+  },
+  {
+    "id": "sterilization_005",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "A typical dynamic-air-removal (prevacuum) steam cycle for wrapped instruments is:",
+    "options": [
+      "212 °F (100 °C) for 10 minutes",
+      "270 °F (132 °C) for 4 minutes",
+      "180 °F (82 °C) for 30 minutes",
+      "250 °F (121 °C) for 4 minutes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prevacuum cycles commonly run at 270-275 °F for 4 minutes of exposure; manufacturers' IFU always take priority."
+  },
+  {
+    "id": "sterilization_006",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which organism is used in biological indicators for steam sterilization?",
+    "options": [
+      "Staphylococcus aureus",
+      "Escherichia coli",
+      "Geobacillus stearothermophilus",
+      "Bacillus atrophaeus"
+    ],
+    "correctIndex": 2,
+    "explanation": "G. stearothermophilus spores are highly resistant to moist heat. B. atrophaeus is used for ethylene oxide and dry heat."
+  },
+  {
+    "id": "sterilization_007",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Biological indicators that monitor ethylene oxide cycles contain spores of which organism?",
+    "options": [
+      "Bacillus atrophaeus",
+      "Clostridium difficile",
+      "Pseudomonas aeruginosa",
+      "Geobacillus stearothermophilus"
+    ],
+    "correctIndex": 0,
+    "explanation": "B. atrophaeus spores are resistant to EO and are used to monitor EO cycles."
+  },
+  {
+    "id": "sterilization_008",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "The Bowie-Dick test is used to:",
+    "options": [
+      "Measure ethylene oxide residue",
+      "Check water hardness",
+      "Confirm the sterility of an implant before it is released for use",
+      "Test air removal in a dynamic-air-removal steam sterilizer"
+    ],
+    "correctIndex": 3,
+    "explanation": "It is run daily in an empty chamber before the first load to detect air leaks or inadequate air removal."
+  },
+  {
+    "id": "sterilization_009",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "How should a load containing an implant be managed?",
+    "options": [
+      "Use IUSS for all implants",
+      "Quarantine it until the biological indicator is negative, except in a documented emergency",
+      "Release it immediately after the cycle if the chemical indicators changed color",
+      "Release it based on the external tape only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Implants should not be released until BI results are available; emergency release must be documented."
+  },
+  {
+    "id": "sterilization_010",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Immediate-use steam sterilization (IUSS) is appropriate:",
+    "options": [
+      "Whenever it is convenient",
+      "For all implants to save time",
+      "Routinely, in order to reduce the amount of instrument inventory that the department owns",
+      "Only when there is not enough time to process by the preferred wrapped method"
+    ],
+    "correctIndex": 3,
+    "explanation": "IUSS should be minimized and never used for convenience or routinely for implants."
+  },
+  {
+    "id": "sterilization_011",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Under event-related sterility, a sterile package is considered sterile until:",
+    "options": [
+      "An event compromises it, such as moisture, tears, or being dropped",
+      "It is moved from the shelf",
+      "The end of the calendar month",
+      "Exactly 30 days have passed since the date of sterilization on the label"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sterility depends on events and handling, not time alone. Packages are inspected before use."
+  },
+  {
+    "id": "sterilization_012",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "An internal chemical indicator that changes color inside a package indicates that:",
+    "options": [
+      "The biological indicator is negative",
+      "The contents are definitely sterile and can be used without further checks",
+      "The package was exposed to certain sterilization conditions",
+      "The sterilizer passed a Bowie-Dick test"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chemical indicators show exposure to process parameters but do not prove sterility."
+  },
+  {
+    "id": "sterilization_013",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "Instruments used on high-risk tissue of a patient with suspected Creutzfeldt-Jakob disease should be:",
+    "options": [
+      "Processed in a routine steam cycle at 270 °F for the standard exposure time",
+      "Cleaned with alcohol wipes only",
+      "Disposable when possible, or processed with a special prion protocol per policy",
+      "Sterilized with low-temperature hydrogen peroxide only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prions resist routine sterilization. Facilities follow special protocols or discard instruments."
+  },
+  {
+    "id": "sterilization_014",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Liquid peracetic acid processing is used for:",
+    "options": [
+      "Items that will be stored for months",
+      "Heat-sensitive, immersible items that are used right after processing",
+      "Liquids and powders",
+      "Linen packs and drapes that will be stored in the clean supply room"
+    ],
+    "correctIndex": 1,
+    "explanation": "Items processed this way are wet and unwrapped, so they are used immediately rather than stored."
+  },
+  {
+    "id": "sterilization_015",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which item is NOT compatible with hydrogen peroxide gas plasma sterilization?",
+    "options": [
+      "Cellulose-based materials such as paper and linen",
+      "Stainless steel instruments",
+      "Many heat-sensitive devices",
+      "Polypropylene containers and wraps designed for use with the process"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cellulose absorbs hydrogen peroxide; special non-cellulose packaging is required."
+  },
+  {
+    "id": "sterilization_016",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "A major disadvantage of ethylene oxide sterilization is that it:",
+    "options": [
+      "Damages all plastics",
+      "Uses extremely high heat that can damage plastics and electronic components",
+      "Cannot penetrate packaging",
+      "Is toxic and requires aeration time"
+    ],
+    "correctIndex": 3,
+    "explanation": "EO is effective for heat-sensitive items but is toxic and carcinogenic, requiring aeration and monitoring."
+  },
+  {
+    "id": "sterilization_017",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "What is the primary reference for how a specific device should be cleaned and sterilized?",
+    "options": [
+      "The previous device's instructions, because the new device is similar to it",
+      "The manufacturer's instructions for use (IFU)",
+      "The surgeon's preference card",
+      "Staff preference"
+    ],
+    "correctIndex": 1,
+    "explanation": "Validated IFUs define the cleaning agents, methods, and cycles for each device."
+  },
+  {
+    "id": "sterilization_018",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Ultrasonic cleaners remove soil primarily through:",
+    "options": [
+      "Steam penetration",
+      "Chemical oxidation",
+      "Cavitation",
+      "Heat sterilization"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ultrasonic energy creates tiny bubbles that implode (cavitation), removing soil from crevices. It is not a disinfection step."
+  },
+  {
+    "id": "sterilization_019",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Hinged instruments should be prepared for sterilization:",
+    "options": [
+      "Stored wet",
+      "Locked closed",
+      "Taped shut",
+      "In the open or unlocked position"
+    ],
+    "correctIndex": 3,
+    "explanation": "Opening hinges allows the sterilant to contact all surfaces."
+  },
+  {
+    "id": "sterilization_020",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Sterile supplies should be stored with what minimum clearance below the ceiling or sprinkler heads?",
+    "options": [
+      "18 inches",
+      "6 inches",
+      "2 inches",
+      "36 inches"
+    ],
+    "correctIndex": 0,
+    "explanation": "Typical guidance: 18 inches below the ceiling or sprinklers, 8-10 inches above the floor, and 2 inches from outside walls."
+  },
+  {
+    "id": "sterilization_021",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Terminal cleaning of an operating room should be performed:",
+    "options": [
+      "Only when visibly soiled",
+      "At least once every 24 hours when the room has been used",
+      "Only once a week",
+      "Only after contaminated cases, using an approved disinfectant on the high-touch surfaces"
+    ],
+    "correctIndex": 1,
+    "explanation": "Terminal cleaning includes floors and all surfaces and occurs daily in used rooms, in addition to between-case cleaning."
+  },
+  {
+    "id": "sterilization_022",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "When reprocessing a flexible endoscope, which step occurs before manual cleaning?",
+    "options": [
+      "High-level disinfection",
+      "Storage in a cabinet",
+      "Drying with alcohol",
+      "Leak testing"
+    ],
+    "correctIndex": 3,
+    "explanation": "Leak testing detects damage that could allow fluid invasion and compromise reprocessing."
+  },
+  {
+    "id": "sterilization_023",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Why should soiled instruments be kept moist after point-of-use treatment until they are cleaned?",
+    "options": [
+      "Dried blood and debris are harder to remove and can lead to biofilm formation",
+      "Dry instruments rust immediately",
+      "Moisture sterilizes the instruments",
+      "Moisture makes the instruments lighter and easier to transport to the decontamination area"
+    ],
+    "correctIndex": 0,
+    "explanation": "Keeping instruments moist with a product intended for this purpose, such as an enzymatic foam or a moist towel, prevents soil from drying."
+  },
+  {
+    "id": "sterilization_024",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "How should contaminated instruments be transported to the decontamination area?",
+    "options": [
+      "Wrapped in the drapes on an open cart",
+      "In an open basin carried by hand through the corridor to the decontamination room",
+      "In a closed, leak-proof, puncture-resistant container labeled as biohazardous",
+      "In a patient belongings bag"
+    ],
+    "correctIndex": 2,
+    "explanation": "Closed, labeled containers protect staff and the environment from exposure during transport."
+  },
+  {
+    "id": "sterilization_025",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which air pressure relationship is correct for the decontamination area of sterile processing?",
+    "options": [
+      "Positive pressure relative to the clean area, to keep the air fresh",
+      "Pressure is not relevant to decontamination",
+      "Negative pressure relative to surrounding areas",
+      "Equal pressure with the sterile storage area"
+    ],
+    "correctIndex": 2,
+    "explanation": "Negative pressure keeps contaminated air from flowing into clean areas. Sterile storage and preparation areas are positive pressure."
+  },
+  {
+    "id": "sterilization_026",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Which personal protective equipment is required when manually cleaning instruments in decontamination?",
+    "options": [
+      "A surgical mask only, since the instruments have already been through point-of-use treatment",
+      "Sterile gloves only",
+      "Scrub attire alone",
+      "Fluid-resistant gown, heavy-duty gloves, and eye and face protection"
+    ],
+    "correctIndex": 3,
+    "explanation": "Manual cleaning produces splashes and aerosols; full PPE protects staff from blood and chemical exposure."
+  },
+  {
+    "id": "sterilization_027",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Why should instruments be cleaned under the water surface when brushing manually?",
+    "options": [
+      "To prevent aerosolizing contaminated material",
+      "To sterilize the brush",
+      "To increase the detergent concentration at the surface of the instruments",
+      "To make the water warmer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Brushing below the water level reduces splashes and aerosols that could expose staff to microorganisms."
+  },
+  {
+    "id": "sterilization_028",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "What is the purpose of an enzymatic detergent in instrument cleaning?",
+    "options": [
+      "To lubricate box locks",
+      "To break down proteins and other organic soil",
+      "To sterilize instruments without heat, using proteins to kill the bacteria",
+      "To remove rust permanently"
+    ],
+    "correctIndex": 1,
+    "explanation": "Enzymes such as proteases break down blood and tissue, making it easier to remove soil. The detergent is diluted and used per its instructions."
+  },
+  {
+    "id": "sterilization_029",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "Instruments with lumens such as suction tips are being cleaned. Which practice is essential?",
+    "options": [
+      "Soak them in water without brushing",
+      "Brush the lumens with a correctly sized brush and flush them as directed by the IFU",
+      "Rinse only the outside surfaces",
+      "Send them for sterilization with visible soil, because sterilization removes the soil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lumens trap debris. Brushes of the correct diameter and length, followed by flushing, are needed to clean them; sterilization cannot overcome residual soil."
+  },
+  {
+    "id": "sterilization_030",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Why must instruments be inspected under lighted magnification after cleaning?",
+    "options": [
+      "To verify that the instruments are sterile before they are wrapped for use",
+      "To polish them",
+      "To remove rust spots",
+      "To detect residual soil and damage that could prevent sterilization or harm patients"
+    ],
+    "correctIndex": 3,
+    "explanation": "Inspection detects bioburden, cracks, burrs, and other damage. Soiled items are recleaned and damaged ones are removed from service."
+  },
+  {
+    "id": "sterilization_031",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "Why is insulation testing performed on laparoscopic electrosurgical instruments during processing?",
+    "options": [
+      "To detect breaches in insulation that can cause burns to the patient",
+      "To measure the instrument's weight",
+      "To check the color coding",
+      "To verify that the instruments are sterile before the next procedure begins"
+    ],
+    "correctIndex": 0,
+    "explanation": "Small insulation defects may not be visible and can allow current to escape. Insulation testers detect these breaches."
+  },
+  {
+    "id": "sterilization_032",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which type of water is recommended for the final rinse of critical devices?",
+    "options": [
+      "Untreated tap water",
+      "Water from the scrub sink, because it is filtered at the point of use in most facilities",
+      "Treated water, such as critical water, as specified by the device and guidelines",
+      "Water from a fountain"
+    ],
+    "correctIndex": 2,
+    "explanation": "Water quality affects cleaning outcomes. Mineral deposits, bacteria, and endotoxin in untreated water can harm patients and devices."
+  },
+  {
+    "id": "sterilization_033",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "What is the main function of a washer-disinfector?",
+    "options": [
+      "Wrapping instrument sets",
+      "Sterilization of instruments for immediate use in the same room",
+      "Automated cleaning followed by thermal or chemical disinfection",
+      "Drying of linen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Washer-disinfectors clean and disinfect instruments to make them safe to handle; sterilization is a separate step."
+  },
+  {
+    "id": "sterilization_034",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "After ophthalmic surgery, several patients develop toxic anterior segment syndrome (TASS). Which processing issue is a likely contributor?",
+    "options": [
+      "Using sterile water for rinsing",
+      "Following the IFU for ophthalmic instruments, including the specified detergent and rinse",
+      "Using lighted magnification for inspection",
+      "Residues from detergents, enzymes, or inadequate rinsing of intraocular instruments"
+    ],
+    "correctIndex": 3,
+    "explanation": "TASS is a noninfectious inflammatory reaction often linked to residues on instruments or solutions. Thorough rinsing and device-specific processing are essential."
+  },
+  {
+    "id": "sterilization_035",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which practice is correct when using an ultrasonic cleaner?",
+    "options": [
+      "Remove gross soil first and use it only for compatible instruments",
+      "Use it instead of manual cleaning for gross soil",
+      "Use it with the lid open to monitor aerosols",
+      "Use it for all instruments, including lensed devices and power equipment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ultrasonic cleaning removes fine debris through cavitation but is not intended for gross soil, and some devices are not compatible."
+  },
+  {
+    "id": "sterilization_036",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Why are instruments lubricated after cleaning and before sterilization?",
+    "options": [
+      "To mark instruments for tracking",
+      "To protect moving parts and keep hinges working smoothly",
+      "To sterilize the instrument",
+      "To remove soil left on the instruments after manual and automated cleaning"
+    ],
+    "correctIndex": 1,
+    "explanation": "Water-soluble, sterilant-permeable lubricants are used per the manufacturer's instructions. Oil-based lubricants are not used because they block sterilant contact."
+  },
+  {
+    "id": "sterilization_037",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "A reusable instrument has a crack in the box lock. What should be done?",
+    "options": [
+      "Use it until it breaks",
+      "Tape the crack so that debris does not collect inside it, then process as usual",
+      "Sterilize it longer",
+      "Remove it from service for repair or replacement"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cracks can harbor debris and lead to breakage in a patient. Damaged instruments are removed from service."
+  },
+  {
+    "id": "sterilization_038",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "Which statement best describes why cleaning is required before sterilization?",
+    "options": [
+      "Sterilization removes all organic debris",
+      "Soil and bioburden can shield microorganisms from the sterilant and cause failure",
+      "Cleaning is optional if the sterilization cycle is extended beyond its normal exposure time",
+      "Cleaning is needed only for instruments that look dirty"
+    ],
+    "correctIndex": 1,
+    "explanation": "If an item is not clean, it cannot be reliably sterilized. Organic material protects microorganisms and can inactivate chemicals."
+  },
+  {
+    "id": "sterilization_039",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "What is the purpose of verifying the cleaning process with a cleaning verification test?",
+    "options": [
+      "To confirm sterility",
+      "To measure humidity",
+      "To confirm that cleaning methods remove residual soil such as protein, blood, or ATP",
+      "To check sterilizer temperature and pressure during the exposure phase of the cycle"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cleaning verification tests evaluate the effectiveness of cleaning methods and equipment as part of quality monitoring."
+  },
+  {
+    "id": "sterilization_040",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Who has primary responsibility for ensuring a reusable device is processed according to its IFU?",
+    "options": [
+      "The facility and staff performing processing",
+      "The surgeon who uses the device",
+      "The device manufacturer's sales representative",
+      "The FDA inspector who approved the device"
+    ],
+    "correctIndex": 0,
+    "explanation": "The facility must obtain and follow current IFUs for every device it processes."
+  },
+  {
+    "id": "sterilization_041",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which action should the scrub person take at the end of a case to support decontamination?",
+    "options": [
+      "Rinse instruments in saline and let them dry",
+      "Place the sharps on top of the instruments in an open tray for the decontamination staff",
+      "Remove gross soil, open hinged instruments, separate sharps, and keep items moist",
+      "Lock all hinged instruments"
+    ],
+    "correctIndex": 2,
+    "explanation": "Point-of-use care reduces drying and biofilm, protects staff, and prepares instruments for thorough cleaning."
+  },
+  {
+    "id": "sterilization_042",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Why should saline not be used to rinse or soak instruments?",
+    "options": [
+      "Saline is too expensive",
+      "Saline can cause corrosion, pitting, and rusting of stainless steel",
+      "Saline makes enzymatic detergents more effective",
+      "Saline sterilizes the instruments and changes their color after prolonged contact"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chlorides in saline damage stainless steel. Sterile water is preferred for wiping and rinsing instruments during surgery."
+  },
+  {
+    "id": "sterilization_043",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Chemical indicator tape on the outside of a wrapped package shows that:",
+    "options": [
+      "The package has been through a sterilization process",
+      "The package was cleaned properly and inspected before it was wrapped",
+      "The contents are sterile",
+      "The biological indicator passed"
+    ],
+    "correctIndex": 0,
+    "explanation": "External process indicators (Type 1) only distinguish processed from unprocessed items; they do not prove sterility."
+  },
+  {
+    "id": "sterilization_044",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which chemical indicator type reacts to all critical variables of a cycle and is designed to correlate with a biological indicator's performance?",
+    "options": [
+      "Type 2 Bowie-Dick indicator",
+      "A tape used for labeling only, which has no response to the sterilization process",
+      "Type 1 process indicator",
+      "Type 5 integrating indicator"
+    ],
+    "correctIndex": 3,
+    "explanation": "Type 5 integrating indicators respond to all critical variables and are calibrated against biological indicator performance."
+  },
+  {
+    "id": "sterilization_045",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "According to common steam sterilization guidance, how often should a biological indicator be run in each steam sterilizer at a minimum?",
+    "options": [
+      "Once a year",
+      "At least weekly, preferably daily, and in every implant load",
+      "Only when chemical indicators fail or the sterilizer has been repaired",
+      "Only after repairs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Routine BI testing is done at least weekly (preferably daily) in a process challenge device, and every load containing an implant is monitored with a BI."
+  },
+  {
+    "id": "sterilization_046",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "A biological indicator from yesterday's steam load is positive. What is the appropriate response?",
+    "options": [
+      "Repeat the BI and do nothing else",
+      "Ignore it if the chemical indicators changed color, since they also verify the cycle",
+      "Remove the sterilizer from service, recall that load and later loads, and investigate",
+      "Recall only the implants"
+    ],
+    "correctIndex": 2,
+    "explanation": "A positive BI suggests sterilization failure. The facility follows its recall policy, notifies appropriate personnel, and the sterilizer is retested before use."
+  },
+  {
+    "id": "sterilization_047",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "What is the purpose of a process challenge device (PCD)?",
+    "options": [
+      "To clean instruments before sterilization",
+      "To hold sharp instruments in a protective tray during transport to the OR",
+      "To dry wet packs",
+      "To present a defined resistance to the sterilization process for monitoring"
+    ],
+    "correctIndex": 3,
+    "explanation": "A PCD contains a BI and/or chemical indicator in a configuration that is at least as hard to sterilize as the items in the load."
+  },
+  {
+    "id": "sterilization_048",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "A typical gravity-displacement steam cycle for wrapped instruments at 250 °F (121 °C) requires an exposure time of about:",
+    "options": [
+      "30 minutes",
+      "180 minutes",
+      "4 minutes",
+      "3 minutes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gravity cycles at 250 °F typically require about 30 minutes for wrapped instrument sets, plus drying time; the device and sterilizer IFU must be followed."
+  },
+  {
+    "id": "sterilization_049",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "When is the Bowie-Dick test run?",
+    "options": [
+      "After every load",
+      "Monthly with a full load",
+      "Daily on days the dynamic-air-removal sterilizer is used, empty, before the first load",
+      "In gravity-displacement sterilizers only, after the final load of each day"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Bowie-Dick (Type 2) test checks air removal and is run daily in an empty dynamic-air-removal sterilizer before the first load."
+  },
+  {
+    "id": "sterilization_050",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "What does mechanical monitoring of a sterilization cycle include?",
+    "options": [
+      "Reviewing the printout of time, temperature, and pressure",
+      "Inspecting the wrapper for holes",
+      "Culturing the biological indicator",
+      "Checking the color of the external tape on each package after the cycle"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mechanical monitors show whether cycle parameters were met. The operator reviews and initials the record for each cycle."
+  },
+  {
+    "id": "sterilization_051",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which practice is correct when using paper-plastic peel pouches?",
+    "options": [
+      "Fold the pouch over to save space",
+      "Use paper clips to close the pouch",
+      "Write on the paper side with a ballpoint pen, pressing firmly so the label stays legible",
+      "Place the item so it fits with room to spare and seal without wrinkles"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pouches should be large enough for the item, sealed properly, and labeled on the plastic side or the seal area to avoid damaging the paper."
+  },
+  {
+    "id": "sterilization_052",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "What is the maximum recommended total weight of a wrapped instrument set or rigid container for steam sterilization in typical guidance?",
+    "options": [
+      "There is no limit, as long as the set is wrapped in two layers of wrap",
+      "25 pounds (about 11 kg), including the container",
+      "50 pounds",
+      "5 pounds"
+    ],
+    "correctIndex": 1,
+    "explanation": "Heavy sets are difficult to dry and handle safely. Guidance limits complete sets to 25 pounds unless the IFU validates otherwise."
+  },
+  {
+    "id": "sterilization_053",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "After a steam cycle, a pack has visible water droplets inside. How should it be handled?",
+    "options": [
+      "Wipe the outside and store it",
+      "Use it immediately before the moisture can wick any further through the wrapper",
+      "Let it dry on the shelf and use it",
+      "Consider it contaminated and reprocess it, and investigate the cause"
+    ],
+    "correctIndex": 3,
+    "explanation": "Moisture can wick microorganisms through the packaging. Wet packs are not sterile and must be reprocessed; causes such as load configuration are investigated."
+  },
+  {
+    "id": "sterilization_054",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Why should sterilized items be allowed to cool before they are handled?",
+    "options": [
+      "Touching warm packs can draw in moisture and cause condensation",
+      "Warm items cannot be stored",
+      "Heat damages the external indicator",
+      "Cooling completes the sterilization process by killing remaining spores"
+    ],
+    "correctIndex": 0,
+    "explanation": "Warm packs placed on cool surfaces or handled too early can form condensation, compromising the package."
+  },
+  {
+    "id": "sterilization_055",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "How should instruments be arranged in a tray before sterilization?",
+    "options": [
+      "Hinged instruments closed and locked",
+      "All items tightly stacked together",
+      "Heavy items on the bottom, hinged items open, and items distributed evenly",
+      "Heavy items on top of delicate instruments, to hold them in place during the cycle"
+    ],
+    "correctIndex": 2,
+    "explanation": "Proper arrangement allows sterilant contact with all surfaces, prevents damage, and aids drying."
+  },
+  {
+    "id": "sterilization_056",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Which feature allows steam to penetrate a rigid sterilization container?",
+    "options": [
+      "A plastic bag over the container",
+      "Filters or valves designed for the sterilization method",
+      "Tape across the lid, so that the steam can enter around the edges of the lid",
+      "A solid sealed lid"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rigid containers have filters or valves that allow sterilant in while maintaining a barrier. Filters are checked each time the container is used."
+  },
+  {
+    "id": "sterilization_057",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "During immediate-use steam sterilization (IUSS), which practice is required?",
+    "options": [
+      "Use IUSS routinely for implants",
+      "Skip cleaning to save time",
+      "Wrap the items in towels and store them for later use in the department",
+      "Use a container designed for IUSS and take the item directly to the point of use"
+    ],
+    "correctIndex": 3,
+    "explanation": "IUSS items must be cleaned, processed in a container that protects them, and taken directly to the patient. IUSS of implants is avoided except in documented emergencies."
+  },
+  {
+    "id": "sterilization_058",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "What is the main purpose of load records for sterilization?",
+    "options": [
+      "To allow traceability of items to a specific cycle in case of a recall",
+      "To replace biological indicator testing",
+      "To record how long staff spent assembling sets and how many sets they completed",
+      "To document the reason for each IUSS cycle only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Load records include sterilizer, cycle, date, contents, and operator, enabling identification and recall if a problem is found."
+  },
+  {
+    "id": "sterilization_059",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "An internal chemical indicator inside a set has not changed to the expected color. What should be done?",
+    "options": [
+      "Use it for non-implant procedures only, since the sterilization risk is lower",
+      "Do not use the set; report it and return it for reprocessing",
+      "Change the indicator and use the set",
+      "Use it if the external tape changed"
+    ],
+    "correctIndex": 1,
+    "explanation": "An unchanged internal indicator means the contents may not have been exposed to the sterilant; the set is not used."
+  },
+  {
+    "id": "sterilization_060",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which wrapping method helps maintain sterility when the package is opened?",
+    "options": [
+      "Plastic wrap from the kitchen",
+      "Wrapping with newspaper",
+      "Sequential double wrapping or a validated single-use wrap per its IFU",
+      "A single layer of thin cotton towel folded around the tray and taped shut"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sterilization wraps are validated to allow sterilant penetration and provide a barrier; they are applied using an accepted technique."
+  },
+  {
+    "id": "sterilization_061",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "Why is an implant load quarantined until the biological indicator result is available?",
+    "options": [
+      "Because the IFU for all implants requires 48 hours",
+      "Implants carry high infection risk, and only a BI confirms microbial kill",
+      "The implant must cool for 24 hours",
+      "Chemical indicators cannot be used with implants because they contain metal parts"
+    ],
+    "correctIndex": 1,
+    "explanation": "Implants increase infection risk. Waiting for BI results confirms lethality; early release is permitted only in documented emergencies with a Type 5 indicator per policy."
+  },
+  {
+    "id": "sterilization_062",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "What does the Type 6 emulating indicator respond to?",
+    "options": [
+      "All critical variables of a specific cycle",
+      "Only humidity",
+      "Only temperature",
+      "Air removal in an empty chamber before the first load of the day only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Type 6 indicators are designed for specific cycles and respond to all critical variables of that cycle."
+  },
+  {
+    "id": "sterilization_063",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Which sterilization method is most appropriate for heat- and moisture-sensitive items when the IFU allows it?",
+    "options": [
+      "Dry heat at 340 °F",
+      "Gravity steam at 270 °F for the standard time, which is fast and economical",
+      "A low-temperature method such as vaporized hydrogen peroxide or ethylene oxide",
+      "Boiling water"
+    ],
+    "correctIndex": 2,
+    "explanation": "Heat- and moisture-sensitive devices require low-temperature methods validated for that device by the manufacturer."
+  },
+  {
+    "id": "sterilization_064",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Why are items sterilized with ethylene oxide aerated before use?",
+    "options": [
+      "To cool them for handling",
+      "To complete the incubation of the biological indicator inside the package",
+      "To dry the packaging after steam",
+      "To remove residual ethylene oxide, which is toxic to patients and staff"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ethylene oxide is toxic and carcinogenic; residuals are removed through aeration for the time specified by the manufacturer."
+  },
+  {
+    "id": "sterilization_065",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which packaging material is appropriate for hydrogen peroxide gas plasma sterilization?",
+    "options": [
+      "Polypropylene wrap or Tyvek-type pouches compatible with the system",
+      "Paper-plastic pouches, which are standard for steam but also acceptable for this process",
+      "Cellulose-based towels",
+      "Cotton muslin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cellulose absorbs hydrogen peroxide and can cause cycle aborts. Nonwoven polypropylene wraps and compatible pouches are used."
+  },
+  {
+    "id": "sterilization_066",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "A hydrogen peroxide low-temperature cycle aborts repeatedly. What is a likely cause?",
+    "options": [
+      "Instruments are too clean",
+      "The load contains only stainless steel",
+      "The room temperature is too low for staff to operate the sterilizer door",
+      "Moisture on the items or cellulose-containing materials in the load"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hydrogen peroxide systems are sensitive to moisture and absorbent materials. Items must be completely dry and packaged in compatible materials."
+  },
+  {
+    "id": "sterilization_067",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Which statement about high-level disinfection is correct?",
+    "options": [
+      "It is used for noncritical items such as BP cuffs and stethoscopes",
+      "It removes only visible soil",
+      "It kills all microorganisms except high numbers of bacterial spores",
+      "It kills all forms of life, including spores"
+    ],
+    "correctIndex": 2,
+    "explanation": "High-level disinfection destroys vegetative bacteria, mycobacteria, fungi, and viruses, but not necessarily all spores."
+  },
+  {
+    "id": "sterilization_068",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Before each use of a reusable high-level disinfectant solution such as glutaraldehyde, staff should:",
+    "options": [
+      "Add fresh solution to bring the level back up",
+      "Test it with the manufacturer's test strip to confirm minimum effective concentration",
+      "Confirm the solution is within its 1-year shelf life since it was first mixed",
+      "Check that the solution's color has not changed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reused HLD solutions become diluted. Test strips confirm the minimum effective concentration; results are documented."
+  },
+  {
+    "id": "sterilization_069",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which safety measure is required when using glutaraldehyde for high-level disinfection?",
+    "options": [
+      "Adequate ventilation and PPE such as nitrile gloves and eye protection",
+      "Using it near open flames",
+      "Using latex gloves for extended soaking, because they are the most flexible",
+      "Mixing it with bleach for faster action"
+    ],
+    "correctIndex": 0,
+    "explanation": "Glutaraldehyde vapors irritate the eyes and respiratory tract and can cause sensitization; ventilation and PPE are needed."
+  },
+  {
+    "id": "sterilization_070",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "Ortho-phthalaldehyde (OPA) should not be used to reprocess urologic instruments for patients with a history of bladder cancer because:",
+    "options": [
+      "It is not effective against bacteria",
+      "It causes immediate corrosion of the scope's outer sheath and its working channels",
+      "Repeated exposure has been associated with anaphylaxis in these patients",
+      "It requires steam to activate"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anaphylaxis-like reactions have been reported after cystoscopy with OPA-processed scopes in patients with repeated procedures; the manufacturer contraindicates this use."
+  },
+  {
+    "id": "sterilization_071",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "After high-level disinfection, why must an instrument be rinsed thoroughly?",
+    "options": [
+      "To lubricate hinges",
+      "To remove chemical residues that can injure patient tissues",
+      "To complete disinfection",
+      "To sterilize the instrument after the high-level disinfectant has been removed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Residual disinfectant can cause chemical burns, colitis, or other injuries. Rinsing follows the disinfectant's instructions."
+  },
+  {
+    "id": "sterilization_072",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Which factor is critical for achieving high-level disinfection with a liquid chemical?",
+    "options": [
+      "Agitating the solution with bare hands",
+      "Using the solution for as long as it looks clean and clear in the container",
+      "Using any available container",
+      "Following the required contact time, temperature, and concentration on the label"
+    ],
+    "correctIndex": 3,
+    "explanation": "Label parameters such as time, temperature, and concentration determine efficacy and must be met."
+  },
+  {
+    "id": "sterilization_073",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which items are best suited for liquid chemical sterilization with peracetic acid?",
+    "options": [
+      "Immersible, heat-sensitive devices used shortly after processing",
+      "Linen packs",
+      "Powders and oils",
+      "Large orthopedic implant sets that will be stored in the department for weeks"
+    ],
+    "correctIndex": 0,
+    "explanation": "Items processed in liquid chemical sterilant systems are wet and not wrapped; they are used promptly to avoid contamination."
+  },
+  {
+    "id": "sterilization_074",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "Which item is NOT appropriate for steam sterilization even though it is reusable?",
+    "options": [
+      "Stainless steel retractors",
+      "A device whose IFU specifies low-temperature processing only",
+      "A basin set",
+      "A standard laparotomy instrument tray, wrapped in two layers of sterilization wrap"
+    ],
+    "correctIndex": 1,
+    "explanation": "The IFU determines the validated method. Steam can damage heat-sensitive devices such as some scopes and cameras."
+  },
+  {
+    "id": "sterilization_075",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which ventilation requirement applies to areas where ethylene oxide sterilizers are used?",
+    "options": [
+      "Use of ceiling fans only, since the gas disperses quickly in open air",
+      "No ventilation is needed",
+      "Open windows during cycles",
+      "Dedicated exhaust and monitoring to keep exposure below occupational limits"
+    ],
+    "correctIndex": 3,
+    "explanation": "EO exposure is regulated by OSHA. Engineering controls and personnel monitoring keep exposures below permissible limits."
+  },
+  {
+    "id": "sterilization_076",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "What is the purpose of a biological indicator?",
+    "options": [
+      "To measure water hardness",
+      "To show that items are clean",
+      "To show the process killed a highly resistant population of spores",
+      "To indicate that the item was exposed to heat during the sterilization cycle"
+    ],
+    "correctIndex": 2,
+    "explanation": "BIs contain resistant spores; failure to grow after incubation shows the cycle achieved lethality."
+  },
+  {
+    "id": "sterilization_077",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which agent kills Clostridioides difficile spores on environmental surfaces?",
+    "options": [
+      "Quaternary ammonium without sporicidal claims, applied at the label dilution",
+      "Alcohol-based hand rub",
+      "An EPA-registered sporicidal disinfectant such as a bleach-based product",
+      "Plain soap and water only"
+    ],
+    "correctIndex": 2,
+    "explanation": "C. difficile spores resist many disinfectants. Sporicidal agents with label claims are used in rooms of infected patients."
+  },
+  {
+    "id": "sterilization_078",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "A semicritical device cannot tolerate heat. Which processing option is acceptable at minimum?",
+    "options": [
+      "Low-level disinfection with a quaternary wipe and a brief contact time",
+      "Storage under UV light",
+      "Rinsing with sterile water",
+      "High-level disinfection per the IFU, or sterilization if used in sterile tissue"
+    ],
+    "correctIndex": 3,
+    "explanation": "Semicritical items need at least HLD; if a device enters sterile tissue it becomes critical and requires sterilization."
+  },
+  {
+    "id": "sterilization_079",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Why must detergent residues be rinsed off before high-level disinfection?",
+    "options": [
+      "Residual detergent can neutralize or dilute the disinfectant",
+      "Residues are needed to protect the instrument from corrosion during soaking",
+      "Rinsing is optional",
+      "Detergent increases the disinfectant's strength"
+    ],
+    "correctIndex": 0,
+    "explanation": "Residual detergent and water can reduce disinfectant concentration and effectiveness; items are rinsed and dried before immersion."
+  },
+  {
+    "id": "sterilization_080",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Which method is most commonly used to sterilize heat- and moisture-stable surgical instruments?",
+    "options": [
+      "Ultraviolet light",
+      "Steam sterilization",
+      "Ethylene oxide",
+      "Glutaraldehyde soak"
+    ],
+    "correctIndex": 1,
+    "explanation": "Steam is fast, inexpensive, nontoxic, and effective, making it the preferred method for items that tolerate heat and moisture."
+  },
+  {
+    "id": "sterilization_081",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "What is the sterilization agent in a dry heat sterilizer used for powders and oils?",
+    "options": [
+      "Hot air at high temperature for extended time",
+      "Hydrogen peroxide vapor at low temperature for a short time",
+      "Ethylene oxide gas",
+      "Steam under pressure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dry heat is used for items that steam cannot penetrate, such as oils and powders, but it requires higher temperatures and longer times."
+  },
+  {
+    "id": "sterilization_082",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "Which statement about reprocessing single-use devices is correct?",
+    "options": [
+      "Any hospital can reprocess single-use devices by following its steam cycles",
+      "Reprocessing is permitted only for implants",
+      "It must be done by an entity that meets FDA requirements for reprocessors",
+      "Single-use devices can be reused without processing"
+    ],
+    "correctIndex": 2,
+    "explanation": "In the United States, reprocessed single-use devices are regulated; third-party reprocessors must meet FDA requirements."
+  },
+  {
+    "id": "sterilization_083",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "When should precleaning of a flexible endoscope begin?",
+    "options": [
+      "After the scope dries in the procedure room and is carried to the decontamination room",
+      "At the point of use, immediately after the procedure",
+      "Only after leak testing in storage",
+      "The next morning"
+    ],
+    "correctIndex": 1,
+    "explanation": "Immediate bedside precleaning, such as wiping the insertion tube and suctioning detergent through channels, prevents soil from drying in channels."
+  },
+  {
+    "id": "sterilization_084",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "A flexible endoscope fails a leak test. What should be done?",
+    "options": [
+      "Use it once more before sending it for repair, if the next case is urgent",
+      "Tape the leak and process normally",
+      "Continue the full HLD cycle",
+      "Remove it from service and follow the manufacturer's instructions for repair"
+    ],
+    "correctIndex": 3,
+    "explanation": "A leak allows fluid into internal components, causing damage and possible contamination. The scope is removed from service."
+  },
+  {
+    "id": "sterilization_085",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "Duodenoscopes have been linked to multidrug-resistant infection outbreaks primarily because of:",
+    "options": [
+      "The use of sterile water for rinsing",
+      "Their compatibility with steam sterilization, which exposes them to high heat",
+      "The complex elevator mechanism that is difficult to clean",
+      "Their short insertion tubes"
+    ],
+    "correctIndex": 2,
+    "explanation": "The elevator mechanism and its channel can retain debris and microorganisms. Meticulous manual cleaning per the IFU, and newer designs, address this risk."
+  },
+  {
+    "id": "sterilization_086",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "How should flexible endoscopes be stored after reprocessing?",
+    "options": [
+      "Hanging in a ventilated or drying cabinet, with valves removed per the IFU",
+      "Coiled in the carrying case, with the valves in place, so that they are protected",
+      "Stored wet in a plastic bag",
+      "Lying flat on a countertop"
+    ],
+    "correctIndex": 0,
+    "explanation": "Moisture supports microbial growth. Drying channels with forced air and storing scopes to allow continued drying reduces contamination."
+  },
+  {
+    "id": "sterilization_087",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Which surfaces should be cleaned and disinfected between surgical procedures?",
+    "options": [
+      "No cleaning is needed between cases",
+      "High-touch surfaces and areas near the field, such as the OR bed and anesthesia equipment",
+      "The ceiling and walls only",
+      "Only the floor around the trash cans, since it is the most contaminated area"
+    ],
+    "correctIndex": 1,
+    "explanation": "Between-case cleaning targets surfaces likely to be contaminated, such as the OR bed, anesthesia equipment, and high-touch areas."
+  },
+  {
+    "id": "sterilization_088",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "What is meant by the 'contact time' of a disinfectant?",
+    "options": [
+      "The time between cases",
+      "The shelf life of the product",
+      "The time needed to mix the solution to the correct concentration",
+      "The time the surface must stay wet for the disinfectant to work"
+    ],
+    "correctIndex": 3,
+    "explanation": "Disinfectants must remain wet on a surface for the label contact time to achieve the stated kill."
+  },
+  {
+    "id": "sterilization_089",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "How should a small blood spill on the OR floor be handled?",
+    "options": [
+      "Spray it with alcohol and walk away",
+      "Cover it with a towel until the end of the day and then clean the area",
+      "Wear gloves, absorb the spill, then clean and disinfect with an EPA-registered product",
+      "Mop it with water only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Standard precautions and proper disinfection protect staff and patients from bloodborne pathogens."
+  },
+  {
+    "id": "sterilization_090",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "Which practice is recommended for cleaning an operating room after a patient on contact precautions for MRSA?",
+    "options": [
+      "Use standard cleaning with an EPA-registered disinfectant; extra steps follow policy",
+      "Leave the room closed for 24 hours",
+      "Discard all unused sterile supplies left in the room after the case, even if unopened",
+      "Use only dry dusting"
+    ],
+    "correctIndex": 0,
+    "explanation": "Standard cleaning with appropriate disinfectants is effective for most organisms. Unused items opened for the case are handled per policy."
+  },
+  {
+    "id": "sterilization_091",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "How often should an operating room be terminally cleaned when it is in use?",
+    "options": [
+      "Only when it is visibly soiled or when the infection prevention team requests it",
+      "Once a week",
+      "Once a month",
+      "At least once every 24 hours"
+    ],
+    "correctIndex": 3,
+    "explanation": "Terminal cleaning of all surfaces and floors occurs at least daily for rooms in use."
+  },
+  {
+    "id": "sterilization_092",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Why should mop heads or cleaning cloths be changed frequently during room cleaning?",
+    "options": [
+      "To save cleaning solution",
+      "To avoid spreading contaminants from one area to another",
+      "To make the floor shinier",
+      "Because the cleaning solution evaporates and leaves residue on the floor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reusing soiled cloths or mop heads can redistribute microorganisms. Fresh cloths and mop heads are used per protocol."
+  },
+  {
+    "id": "sterilization_093",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "Which method best evaluates the effectiveness of environmental cleaning in the OR?",
+    "options": [
+      "Asking staff if they cleaned",
+      "Direct observation, fluorescent markers, or ATP testing in a monitoring program",
+      "Checking the smell of the room",
+      "Waiting for infection reports from the infection prevention department each month"
+    ],
+    "correctIndex": 1,
+    "explanation": "Objective monitoring methods help verify cleaning and provide feedback for improvement."
+  },
+  {
+    "id": "sterilization_094",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Why should the reprocessing area for flexible endoscopes have separate clean and dirty areas?",
+    "options": [
+      "To allow leak testing near the storage cabinet",
+      "To keep high-level disinfectant vapors in the clean area",
+      "To speed up scope turnover between cases",
+      "To prevent cross-contamination between soiled and processed scopes"
+    ],
+    "correctIndex": 3,
+    "explanation": "A one-way workflow from dirty to clean reduces contamination of processed scopes."
+  },
+  {
+    "id": "sterilization_095",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "What is the most important first step in cleaning a contaminated surface?",
+    "options": [
+      "Spray alcohol on the surface",
+      "Apply disinfectant over the visible soil and wipe it away with a dry towel",
+      "Remove visible soil before disinfecting",
+      "Dry the surface with a towel"
+    ],
+    "correctIndex": 2,
+    "explanation": "Organic material interferes with disinfectants; surfaces must be cleaned before disinfection."
+  },
+  {
+    "id": "sterilization_096",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which item requires disinfection between patients because it contacts intact skin?",
+    "options": [
+      "Blood pressure cuff",
+      "Bronchoscope",
+      "Implantable mesh",
+      "Laparoscopic grasper"
+    ],
+    "correctIndex": 0,
+    "explanation": "Noncritical items such as BP cuffs require low- or intermediate-level disinfection between patients."
+  },
+  {
+    "id": "sterilization_097",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "A sterile processing technician wants to use a disinfectant at a stronger concentration to be 'safer.' What is the best response?",
+    "options": [
+      "Use it undiluted with no PPE",
+      "Double the concentration for all surfaces, to be sure that every microorganism is killed",
+      "Use the label concentration, because changes can reduce efficacy or damage surfaces",
+      "Mix it with another disinfectant"
+    ],
+    "correctIndex": 2,
+    "explanation": "Labels specify concentrations validated for efficacy and safety. Altering them can harm staff and surfaces and may not improve kill."
+  },
+  {
+    "id": "sterilization_098",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "What is the purpose of drying endoscope channels with instrument air after reprocessing?",
+    "options": [
+      "To remove residual moisture that supports microbial growth",
+      "To sterilize the scope channels after the high-level disinfection step",
+      "To test for leaks",
+      "To lubricate the channels"
+    ],
+    "correctIndex": 0,
+    "explanation": "Drying channels reduces the risk of bacterial growth during storage; many guidelines recommend forced air drying."
+  },
+  {
+    "id": "sterilization_099",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Which organism group is most resistant to disinfection and sterilization?",
+    "options": [
+      "Vegetative bacteria",
+      "Lipid-enveloped viruses",
+      "Fungi",
+      "Prions"
+    ],
+    "correctIndex": 3,
+    "explanation": "Prions are the most resistant, followed by bacterial spores and mycobacteria."
+  },
+  {
+    "id": "sterilization_100",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which practice is recommended for handling linens in the OR?",
+    "options": [
+      "Shake linens to remove debris",
+      "Handle soiled linen with minimal agitation and place it in leak-resistant bags",
+      "Sort linen in the OR",
+      "Carry soiled linen against the body to prevent it from touching the floor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Minimal agitation prevents aerosolization of contaminants; linens are bagged at the point of use."
+  },
+  {
+    "id": "sterilization_101",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "During environmental cleaning, why should cleaning progress from clean to dirty and high to low areas?",
+    "options": [
+      "To avoid spreading contamination to areas that have already been cleaned",
+      "Because floors must always be done first, and walls and ceilings last",
+      "To use less disinfectant",
+      "To finish faster"
+    ],
+    "correctIndex": 0,
+    "explanation": "Systematic cleaning prevents recontamination of cleaned surfaces."
+  },
+  {
+    "id": "sterilization_102",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "What is the recommended action for a used surgical suction canister at the end of a case?",
+    "options": [
+      "Empty it into the scrub sink",
+      "Leave it in the room for the next shift to empty at the start of the day",
+      "Reuse it for the next patient",
+      "Dispose of it per facility policy for regulated medical waste"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fluid waste is managed per regulation, often with solidifiers or closed disposal systems, to prevent exposure."
+  },
+  {
+    "id": "sterilization_103",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Sterile supplies should be stored at least how far above the floor?",
+    "options": [
+      "1 inch",
+      "8-10 inches",
+      "2 feet",
+      "Directly on the floor is acceptable"
+    ],
+    "correctIndex": 1,
+    "explanation": "Keeping supplies 8-10 inches above the floor protects them from floor cleaning and contamination."
+  },
+  {
+    "id": "sterilization_104",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which storage condition is recommended for sterile supplies?",
+    "options": [
+      "Under sinks for easy access, and close to the hand-washing area in the OR",
+      "In hallways close to traffic",
+      "Controlled temperature and humidity, limited access, and clean, dry shelving",
+      "Near windows for natural light"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sterile storage should be clean, dry, temperature- and humidity-controlled, and away from sources of moisture and traffic."
+  },
+  {
+    "id": "sterilization_105",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "What is the purpose of stock rotation of sterile supplies?",
+    "options": [
+      "Moving items between departments daily so that no one department's stock expires",
+      "Discarding items after 30 days",
+      "Keeping the newest items in front",
+      "Using older items first (first in, first out)"
+    ],
+    "correctIndex": 3,
+    "explanation": "First-in, first-out rotation helps ensure items are used before expiration or damage."
+  },
+  {
+    "id": "sterilization_106",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "Instruments used on high-risk tissue of a patient later confirmed to have Creutzfeldt-Jakob disease have already been processed with routine methods. What is the most appropriate action?",
+    "options": [
+      "Use them as normal because they were already sterilized in a routine steam cycle",
+      "Rinse them with saline",
+      "Notify infection prevention and follow the facility's prion protocol",
+      "Discard all instruments in the department"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prions resist routine sterilization. Infection prevention guides tracking, reprocessing, or removal of affected instruments per policy."
+  },
+  {
+    "id": "sterilization_107",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "How should sterile items be transported to the OR?",
+    "options": [
+      "In closed or covered carts that protect them from contamination",
+      "On open carts through public hallways, as long as the packages are dry",
+      "Carried by hand in stacks",
+      "In the same cart as soiled items"
+    ],
+    "correctIndex": 0,
+    "explanation": "Covered or enclosed carts protect sterile items from damage and environmental contaminants."
+  },
+  {
+    "id": "sterilization_108",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Who is responsible for checking a sterile package before opening?",
+    "options": [
+      "The surgeon only",
+      "The person opening it, who checks integrity, indicators, and expiration if any",
+      "No one; packages are assumed sterile",
+      "Only the sterile processing technician who assembled and wrapped the package"
+    ],
+    "correctIndex": 1,
+    "explanation": "Before opening, staff inspect for damage, moisture, indicator change, and labeling."
+  },
+  {
+    "id": "sterilization_109",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "What is the minimum clearance recommended between sterile supplies and outside walls?",
+    "options": [
+      "5 feet",
+      "12 inches",
+      "2 inches",
+      "No clearance"
+    ],
+    "correctIndex": 2,
+    "explanation": "A small clearance from outside walls helps prevent condensation and contamination."
+  },
+  {
+    "id": "sterilization_110",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "A loaner instrument set arrives on the morning of surgery. What is the most appropriate action?",
+    "options": [
+      "Use IUSS for the entire set",
+      "Use it without processing because the vendor says it was sterilized before shipment",
+      "Wipe it with alcohol before use",
+      "Process the set fully according to the IFU, which may require delaying the case"
+    ],
+    "correctIndex": 3,
+    "explanation": "Loaner sets must be inspected, decontaminated, and sterilized at the receiving facility according to the IFU."
+  },
+  {
+    "id": "sterilization_111",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Which item should not be used to secure instruments in a set?",
+    "options": [
+      "Rubber bands",
+      "Validated tip protectors",
+      "Instrument stringers",
+      "Silicone mats"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rubber bands prevent sterilant contact with underlying surfaces; validated organizers are used instead."
+  },
+  {
+    "id": "sterilization_112",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which documentation is required for an IUSS cycle?",
+    "options": [
+      "Only the sterilizer model",
+      "The item, patient identification, cycle parameters, and reason for IUSS",
+      "Only the surgeon's name",
+      "No documentation is required for IUSS because the cycle is not stored"
+    ],
+    "correctIndex": 1,
+    "explanation": "Documentation allows traceability of IUSS items to patients and supports efforts to reduce IUSS use."
+  },
+  {
+    "id": "sterilization_113",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which action should be taken when a sterile package is dropped on a clean floor?",
+    "options": [
+      "Always use it immediately",
+      "Put it back on the shelf",
+      "Open it and inspect the contents before deciding whether it can be used",
+      "Inspect it and follow policy; many policies treat it as contaminated"
+    ],
+    "correctIndex": 3,
+    "explanation": "Event-related sterility means dropping can compromise the package; policy determines how dropped items are handled."
+  },
+  {
+    "id": "sterilization_114",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "Which water-related problem commonly causes spotting and staining on instruments?",
+    "options": [
+      "High mineral content or poor water quality during cleaning or steam generation",
+      "Using distilled water",
+      "Using deionized water for rinsing",
+      "Using enzymatic detergents correctly, followed by a thorough rinse with treated water"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hard water and poor steam quality can leave deposits. Water treatment and correct detergent use help prevent staining."
+  },
+  {
+    "id": "sterilization_115",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Which instruments require special care so they do not become damaged during processing?",
+    "options": [
+      "Basins",
+      "Delicate instruments such as microsurgical sets, which need protection and separate handling",
+      "Large retractors and other heavy stainless steel instruments",
+      "Towel clips"
+    ],
+    "correctIndex": 1,
+    "explanation": "Delicate instruments need protective holders and gentle handling to prevent damage."
+  },
+  {
+    "id": "sterilization_116",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "What is the purpose of tracking systems for instrument sets?",
+    "options": [
+      "To calculate surgeon fees",
+      "To track staff attendance",
+      "To trace items through processing and link them to patients",
+      "To replace biological indicators and cycle records in daily monitoring"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tracking systems support recalls, quality monitoring, and efficient workflow."
+  },
+  {
+    "id": "sterilization_117",
+    "category": "sterilization",
+    "difficulty": "hard",
+    "question": "Which statement about extended steam cycles is correct?",
+    "options": [
+      "They replace cleaning",
+      "Only when validated by the device manufacturer and the sterilizer can run them",
+      "They are always safer for every device because the exposure time is longer",
+      "They are required for all loaner sets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Extended cycles are specified in some IFUs. Sterilizers must be able to run the cycle and staff must follow the IFU."
+  },
+  {
+    "id": "sterilization_118",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Which situation would most likely compromise sterility of a stored package?",
+    "options": [
+      "Storage on a wire shelf in a clean room",
+      "Storage in a closed cabinet in a room with controlled temperature and humidity",
+      "Storage under a sink with exposure to moisture",
+      "Storage in a controlled sterile supply room"
+    ],
+    "correctIndex": 2,
+    "explanation": "Moisture and contamination sources such as sinks threaten sterile packages."
+  },
+  {
+    "id": "sterilization_119",
+    "category": "sterilization",
+    "difficulty": "easy",
+    "question": "Which area of sterile processing receives contaminated items?",
+    "options": [
+      "Preparation and packaging area",
+      "Sterile storage area",
+      "Clean assembly area",
+      "Decontamination area"
+    ],
+    "correctIndex": 3,
+    "explanation": "Contaminated items enter the decontamination area, which is physically separated from clean areas."
+  },
+  {
+    "id": "sterilization_120",
+    "category": "sterilization",
+    "difficulty": "medium",
+    "question": "Why are sterile processing staff often required to maintain certification and competency?",
+    "options": [
+      "Processing quality depends on knowledge of complex devices, IFUs, and standards",
+      "Certification replaces the need to follow IFUs",
+      "Certification is required for staff to enter the OR",
+      "Certification is required to operate washer-disinfectors and sterilizers under state law"
+    ],
+    "correctIndex": 0,
+    "explanation": "Competency validation and certification help ensure staff can process devices safely and consistently."
+  }
+]

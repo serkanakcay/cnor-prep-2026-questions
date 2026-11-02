@@ -1,0 +1,1794 @@
+[
+  {
+    "id": "intraop_care_001",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "Which portion of a sterile gown is considered sterile?",
+    "options": [
+      "Front from chest to table level, and sleeves from 2 inches above the elbow to the cuff",
+      "The front from the neckline to the floor, and the sleeves from the shoulder seam to the cuff",
+      "The entire gown, including the back",
+      "Only the cuffs"
+    ],
+    "correctIndex": 0,
+    "explanation": "The back, neckline, shoulders, underarms, and areas below the sterile field cannot be continuously observed and are not considered sterile."
+  },
+  {
+    "id": "intraop_care_002",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "Which part of a draped sterile table is considered sterile?",
+    "options": [
+      "Any part the scrub person can reach",
+      "The entire drape to the floor",
+      "Only the tabletop at table level",
+      "The drape 12 inches below the table edge"
+    ],
+    "correctIndex": 2,
+    "explanation": "Items that fall below table level are out of view and considered contaminated."
+  },
+  {
+    "id": "intraop_care_003",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Where should the electrosurgical dispersive electrode be placed?",
+    "options": [
+      "Over scar tissue",
+      "Over a metal implant",
+      "Over a bony prominence or scar tissue near the surgical site to keep the cable short",
+      "Over a large, well-vascularized muscle mass close to the surgical site"
+    ],
+    "correctIndex": 3,
+    "explanation": "Good contact over muscle disperses current. Avoid bony prominences, scars, hair, fluid pooling, and implants."
+  },
+  {
+    "id": "intraop_care_004",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "When an alcohol-based skin antiseptic is used, what is the key fire-safety step?",
+    "options": [
+      "Pour extra antiseptic under the patient",
+      "Allow the prep to dry completely and avoid pooling before draping",
+      "Use the ESU to dry the prep",
+      "Drape immediately to keep the prep moist and trap the antiseptic against the skin until incision"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alcohol vapors are flammable. Drying time per manufacturer and preventing pooling or soaked linens reduce fire risk."
+  },
+  {
+    "id": "intraop_care_005",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "In the fire triangle, which element is primarily controlled by the anesthesia professional?",
+    "options": [
+      "Fuel (alcohol prep)",
+      "Oxidizer (oxygen and nitrous oxide)",
+      "Ignition source (ESU)",
+      "Fuel, such as the drapes, sponges, and endotracheal tube that the anesthesia team supplies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Anesthesia manages oxidizers; surgeons usually control ignition sources and nurses manage many fuels. Fire prevention requires all roles."
+  },
+  {
+    "id": "intraop_care_006",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "When placing a patient in lithotomy position, the legs should be:",
+    "options": [
+      "Lowered by the patient",
+      "Raised one at a time quickly, by one person, so that the patient is in position sooner",
+      "Raised and lowered slowly and simultaneously by two people",
+      "Placed in stirrups before induction by one person"
+    ],
+    "correctIndex": 2,
+    "explanation": "Simultaneous slow movement prevents hip dislocation, lumbosacral strain, and sudden blood pressure changes."
+  },
+  {
+    "id": "intraop_care_007",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "In lithotomy position, pressure on the lateral knee against a stirrup can injure which nerve?",
+    "options": [
+      "Common peroneal (fibular) nerve",
+      "Ulnar nerve, from pressure of the stirrup post on the medial elbow",
+      "Radial nerve",
+      "Femoral nerve"
+    ],
+    "correctIndex": 0,
+    "explanation": "The common peroneal nerve wraps around the fibular head and is vulnerable to compression, which can cause foot drop."
+  },
+  {
+    "id": "intraop_care_008",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "In supine position, arm boards should be positioned to keep arm abduction at:",
+    "options": [
+      "Any angle if padded",
+      "Greater than 90 degrees",
+      "Exactly 120 degrees",
+      "Less than 90 degrees"
+    ],
+    "correctIndex": 3,
+    "explanation": "Abduction greater than 90 degrees stretches the brachial plexus and can cause nerve injury."
+  },
+  {
+    "id": "intraop_care_009",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "For a patient in prone position, which consideration is a priority for the face?",
+    "options": [
+      "Ensure there is no direct pressure on the eyes",
+      "Turn the head without support",
+      "Tape the eyes open",
+      "Rest the face directly on the mattress with the head turned to one side for the entire case"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pressure on the eyes can contribute to corneal injury and vision loss; the face is supported in a specialized headrest."
+  },
+  {
+    "id": "intraop_care_010",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "When should surgical sponges be counted?",
+    "options": [
+      "Only when the surgeon requests it",
+      "Only at the end of the procedure, once the surgeon has begun to close the skin and the dressing is ready to be applied",
+      "Before the procedure, before closing a cavity within a cavity, before wound closure, at skin closure, and at relief",
+      "Only for procedures longer than 2 hours"
+    ],
+    "correctIndex": 2,
+    "explanation": "AORN guidance recommends counts at these points to prevent retained surgical items."
+  },
+  {
+    "id": "intraop_care_011",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "A sponge count is incorrect and the sponge cannot be located. What should the team do?",
+    "options": [
+      "Ignore it if the sponge was small",
+      "Close the wound and recount in the PACU, since the radiograph can be done after the closure is finished",
+      "Document a correct count to avoid delay",
+      "Inform the surgeon, search the field and room, and obtain an intraoperative radiograph per policy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Discrepancies must be communicated and resolved; imaging is used per policy when the item is not found, and actions are documented."
+  },
+  {
+    "id": "intraop_care_012",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which information must be included when labeling a surgical specimen?",
+    "options": [
+      "Only the patient's room number and the name of the surgeon who performed the case and the date of surgery",
+      "Patient identifiers, specimen name, and site including laterality, verified with the surgeon",
+      "Only the surgeon's name",
+      "Only the procedure date"
+    ],
+    "correctIndex": 1,
+    "explanation": "Accurate labeling and read-back verification prevent specimen errors that could lead to misdiagnosis."
+  },
+  {
+    "id": "intraop_care_013",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "To reduce exposure to surgical smoke, the nurse should ensure:",
+    "options": [
+      "Staff wear standard surgical masks, which filter the plume well and replace the need for evacuation",
+      "The ESU is set to a higher power",
+      "Room doors are kept open",
+      "A smoke evacuation device is used with the capture device close to the source"
+    ],
+    "correctIndex": 3,
+    "explanation": "Surgical smoke contains hazardous chemicals and particulates; local exhaust ventilation near the source is recommended."
+  },
+  {
+    "id": "intraop_care_014",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which practice is correct when using a pneumatic tourniquet?",
+    "options": [
+      "Allow the prep to pool beneath the cuff",
+      "Apply the cuff directly over a bony prominence so that it does not slip during the case, using thin padding",
+      "Apply low-lint padding under the cuff, protect it from prep pooling, and report inflation time",
+      "Leave the tourniquet inflated until the patient reaches the PACU"
+    ],
+    "correctIndex": 2,
+    "explanation": "Padding, protection from chemical burns, and monitoring inflation time reduce skin, nerve, and ischemic injury."
+  },
+  {
+    "id": "intraop_care_015",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "An elective cholecystectomy without a break in technique is classified as which wound class?",
+    "options": [
+      "Class II, clean-contaminated",
+      "Class IV, dirty/infected",
+      "Class III, contaminated",
+      "Class I, clean"
+    ],
+    "correctIndex": 0,
+    "explanation": "Entering the biliary, respiratory, GI, or genitourinary tract under controlled conditions is clean-contaminated."
+  },
+  {
+    "id": "intraop_care_016",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "Surgery for a perforated bowel with purulent peritonitis is classified as which wound class?",
+    "options": [
+      "Class III, contaminated",
+      "Class IV, dirty/infected",
+      "Class II, clean-contaminated",
+      "Class I, clean"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wounds with existing infection or perforated viscera are Class IV, dirty/infected."
+  },
+  {
+    "id": "intraop_care_017",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "If hair must be removed from the surgical site, the preferred method is:",
+    "options": [
+      "Shaving with a razor the night before surgery, so that the skin has time to heal before incision",
+      "Shaving in the OR after draping",
+      "Depilatory cream applied on the sterile field",
+      "Clipping, preferably outside the operating room"
+    ],
+    "correctIndex": 3,
+    "explanation": "Razors cause microabrasions that increase infection risk; clippers are used only when necessary, outside the room where surgery occurs."
+  },
+  {
+    "id": "intraop_care_018",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "A sterile instrument drops below the level of the sterile table. It is considered:",
+    "options": [
+      "Contaminated",
+      "Sterile if it did not touch the floor",
+      "Sterile if picked up quickly",
+      "Sterile if wiped with alcohol"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anything below the level of the sterile field is considered contaminated."
+  },
+  {
+    "id": "intraop_care_019",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "When opening a wrapped sterile package on a flat surface, which flap is opened first?",
+    "options": [
+      "The flap nearest the person",
+      "Either side flap first, because the order does not affect the sterility of the contents",
+      "The flap farthest from the person opening it",
+      "The flap that is largest"
+    ],
+    "correctIndex": 2,
+    "explanation": "Opening the far flap first avoids reaching over the sterile contents."
+  },
+  {
+    "id": "intraop_care_020",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "What is the correct technique for pouring a sterile solution onto the field?",
+    "options": [
+      "Pour quickly from high above to save time",
+      "Pour the contents slowly to avoid splashing, and do not recap the bottle for reuse",
+      "Recap the bottle and return it to the shelf so that the remaining solution can be used later",
+      "Let the scrub person hold the bottle lip"
+    ],
+    "correctIndex": 1,
+    "explanation": "Splashing can strike through and contaminate the field; once opened, the bottle edge is not considered sterile."
+  },
+  {
+    "id": "intraop_care_021",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "During laser surgery, which safety measure is required for personnel in the room?",
+    "options": [
+      "Eye protection only for the laser operator",
+      "Wavelength-specific eye protection with an appropriate optical density",
+      "Any tinted safety goggles available in the room, regardless of the laser's wavelength or output",
+      "Standard prescription eyeglasses"
+    ],
+    "correctIndex": 1,
+    "explanation": "Laser eyewear must match the laser's wavelength; warning signs and controlled access are also required."
+  },
+  {
+    "id": "intraop_care_022",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which information must be documented for an implant?",
+    "options": [
+      "Manufacturer, lot or serial number, expiration date, and implant site",
+      "Only the cost of the implant",
+      "Only the implant color",
+      "Only the surgeon's preference card number and the supplier's name for the implant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Implant records support traceability for recalls and adverse event reporting."
+  },
+  {
+    "id": "intraop_care_023",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "How should two scrubbed team members pass each other on the sterile field?",
+    "options": [
+      "Only after one of the two people has stepped back and regowned with a fresh sterile gown",
+      "Front to back",
+      "Side to side with arms raised",
+      "Front to front or back to back"
+    ],
+    "correctIndex": 3,
+    "explanation": "Passing front to front or back to back keeps sterile areas facing sterile areas and nonsterile backs facing each other."
+  },
+  {
+    "id": "intraop_care_024",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "What is the most appropriate action when a scrubbed person's glove is punctured during surgery?",
+    "options": [
+      "Cover the puncture with a sterile towel clip or adhesive strip and continue with the procedure",
+      "Pour antiseptic over the glove",
+      "Step away from the field, remove the glove, and don a new sterile glove properly",
+      "Continue until the end of the procedure"
+    ],
+    "correctIndex": 2,
+    "explanation": "A perforated glove is no longer a barrier. It is changed promptly using a technique that avoids contaminating the gown cuffs."
+  },
+  {
+    "id": "intraop_care_025",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which gloving method is recommended for the initial gloving of a scrubbed person who is gowning without assistance?",
+    "options": [
+      "Gloving before gowning",
+      "Closed-glove technique",
+      "Bare-hand gloving after touching the gown cuffs",
+      "Open-glove technique"
+    ],
+    "correctIndex": 1,
+    "explanation": "With the closed technique the hands remain inside the gown sleeves while gloving, which keeps the cuffs and gloves sterile."
+  },
+  {
+    "id": "intraop_care_026",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Why is double gloving recommended for scrubbed team members?",
+    "options": [
+      "It eliminates the need for surgical hand antisepsis",
+      "It makes changing gloves after contamination unnecessary during longer procedures with more than one cavity",
+      "It reduces blood exposure through glove perforations and helps detect breaches",
+      "It allows the outer glove to be worn for multiple cases"
+    ],
+    "correctIndex": 2,
+    "explanation": "Double gloving lowers the risk of blood contact when the outer glove is perforated. Colored inner gloves make perforations easier to see."
+  },
+  {
+    "id": "intraop_care_027",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "What is the minimum distance a nonsterile person should maintain from the sterile field?",
+    "options": [
+      "Direct contact is acceptable if gloved",
+      "6 inches (15 cm)",
+      "2 inches (5 cm)",
+      "At least 12 inches (about 30 cm)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Maintaining at least 12 inches from the sterile field reduces the risk of accidental contamination."
+  },
+  {
+    "id": "intraop_care_028",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "A sterile field has been set up but the case is delayed for several hours. Which practice is recommended?",
+    "options": [
+      "Monitor the field continuously; it should not be left unattended",
+      "Leave the room and close the door until the surgeon arrives",
+      "Reopen the field in a different room, then reuse the same sterile supplies for the next scheduled case",
+      "Cover the field and leave it for up to 24 hours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sterile fields should be prepared as close as possible to the time of use and continuously monitored, because contamination cannot be detected if the field is unobserved."
+  },
+  {
+    "id": "intraop_care_029",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "When opening a sterile item for the scrub person, how should the circulating nurse present it?",
+    "options": [
+      "Reach over the sterile field and place it on the instrument tray, taking care not to touch the items",
+      "Toss it onto the center of the back table",
+      "Drop it from shoulder height onto the field",
+      "Present it so the scrub person can take it directly, without a nonsterile hand over the field"
+    ],
+    "correctIndex": 3,
+    "explanation": "Items are presented directly or placed securely on the field without nonsterile arms reaching over sterile areas. Tossing can cause items to roll or fall off the edge."
+  },
+  {
+    "id": "intraop_care_030",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "During a procedure, a scrubbed person's hands drop below waist level and then return to the field. What is the appropriate response?",
+    "options": [
+      "Continue because the gloves did not touch anything",
+      "Wipe the gloves with alcohol and continue",
+      "Consider the gloves contaminated and change them before continuing",
+      "Change only the sterile gown and keep the same gloves, since the gown protects the hands"
+    ],
+    "correctIndex": 2,
+    "explanation": "Areas below the sterile field level cannot be continuously viewed and are considered contaminated. Gloves that drop below the field must be changed."
+  },
+  {
+    "id": "intraop_care_031",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "Which statement about the edges of a sterile wrapper is correct?",
+    "options": [
+      "The edges within about 1 inch are considered nonsterile",
+      "The edges become sterile after opening",
+      "The edges are the most sterile part of the wrapper because they are folded and protected inside",
+      "Only the inside corners are nonsterile"
+    ],
+    "correctIndex": 0,
+    "explanation": "The outer edges of a sterile wrapper are considered contaminated because they are touched when opening the package."
+  },
+  {
+    "id": "intraop_care_032",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "What is the recommended approach to surgical attire for hair?",
+    "options": [
+      "Cover only hair longer than shoulder length",
+      "Cover the head and hair, including facial hair and sideburns",
+      "Hair covering is needed only for scrubbed staff",
+      "Hair covering is optional for the anesthesia professional, who stays at the head of the bed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hair harbors microorganisms and sheds them into the environment. All personnel in semi-restricted and restricted areas should cover head and facial hair."
+  },
+  {
+    "id": "intraop_care_033",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "A scrub person notices that a sterile drape has a small hole after it is placed on the patient. What should be done?",
+    "options": [
+      "Tape the hole from the nonsterile side",
+      "Ignore it if the hole is smaller than a coin, since the patient is draped in several layers",
+      "Cover the hole with additional sterile drape material or replace the drape as appropriate",
+      "Move the drape so the hole is over the floor"
+    ],
+    "correctIndex": 2,
+    "explanation": "A hole means the barrier is compromised. Additional sterile drape is placed over the area, or the drape is replaced if needed, without dragging contaminated portions across the field."
+  },
+  {
+    "id": "intraop_care_034",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "During draping, a drape is placed slightly off-center. What is the correct action?",
+    "options": [
+      "Slide it toward the incision site to center it",
+      "Ask the circulator to adjust it from under the drape and then smooth it flat toward the incision site",
+      "Shake it out over the field to reposition",
+      "Leave it in place and add drapes if needed, or remove it without moving it toward the incision"
+    ],
+    "correctIndex": 3,
+    "explanation": "Once placed, a sterile drape should not be moved toward the incision because this can carry contaminants from the periphery to the surgical site."
+  },
+  {
+    "id": "intraop_care_035",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "What is the primary purpose of surgical hand antisepsis before gowning and gloving?",
+    "options": [
+      "To sterilize the skin of the hands",
+      "To reduce transient and resident microorganisms on the hands and forearms",
+      "To remove the need for gloves in short procedures",
+      "To make gloves fit better and to prevent the sleeves from sticking to the forearms during the case"
+    ],
+    "correctIndex": 1,
+    "explanation": "Surgical hand antisepsis lowers the microbial load on the hands and forearms; skin cannot be sterilized."
+  },
+  {
+    "id": "intraop_care_036",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "When using an alcohol-based surgical hand rub, the scrub person should:",
+    "options": [
+      "Follow the manufacturer's directions for application time and allow the hands to dry before gowning",
+      "Use it only after donning sterile gloves",
+      "Apply it over visibly soiled hands",
+      "Dry the hands with a sterile towel immediately after applying the rub, and then proceed to gown and glove"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alcohol rubs are applied to clean, dry hands per the manufacturer's instructions and must dry completely before gloving. Visibly soiled hands are washed first."
+  },
+  {
+    "id": "intraop_care_037",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which jewelry practice is appropriate for scrubbed team members?",
+    "options": [
+      "Bracelets are acceptable for short cases",
+      "Watches can be worn if covered by the sleeve of the gown, since they are considered clean",
+      "Rings may be worn under the inner glove",
+      "Remove rings, watches, and bracelets before surgical hand antisepsis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jewelry on the hands and arms harbors microorganisms, interferes with antisepsis, and can tear gloves."
+  },
+  {
+    "id": "intraop_care_038",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "During a case, the scrub person must change a contaminated gown and gloves. What is the correct order of removal?",
+    "options": [
+      "Remove the gloves first, then the gown",
+      "Remove the gown first, then the gloves",
+      "Remove only the outer glove and leave the gown",
+      "Remove both together by pulling the gown over the gloves"
+    ],
+    "correctIndex": 1,
+    "explanation": "The gown is removed first so the gloves protect the hands during gown removal; the gloves are then removed, and new gown and gloves are donned using a sterile technique, often with assistance."
+  },
+  {
+    "id": "intraop_care_039",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "Sterile tables are considered sterile only at:",
+    "options": [
+      "Any area within reach of the scrub person",
+      "The underside of the drape",
+      "Table level",
+      "The sides down to the floor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Only the top surface of a draped table is considered sterile; drapes hanging below table level are not."
+  },
+  {
+    "id": "intraop_care_040",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "A sterile package is found with a wet spot on the wrapper. How should it be handled?",
+    "options": [
+      "Consider it contaminated and do not use it",
+      "Wipe the wrapper with alcohol, let it dry, and then open the package onto the sterile field",
+      "Open it and use the items if they look dry",
+      "Use it after the spot dries"
+    ],
+    "correctIndex": 0,
+    "explanation": "Moisture can wick microorganisms through the packaging. Wet packages are considered contaminated and are returned for reprocessing."
+  },
+  {
+    "id": "intraop_care_041",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "During a case the surgeon's face shield fogs and the surgeon touches it with a gloved hand. What is the best response from the scrub person?",
+    "options": [
+      "Wipe the glove with sterile saline",
+      "Point out the contamination and provide a new sterile glove for the surgeon",
+      "Say nothing because face shields are clean, and only the gown and gloves are considered sterile",
+      "Wait until the end of the case to mention it"
+    ],
+    "correctIndex": 1,
+    "explanation": "Face shields and masks are not sterile. Speaking up when a sterile glove contacts a nonsterile surface protects the patient; the glove is changed."
+  },
+  {
+    "id": "intraop_care_042",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "How should a sterile solution be dispensed when it is delivered in a bottle with a cap?",
+    "options": [
+      "Recap it and use it again later in the same case, since it was only opened for a short period",
+      "Pour it back into the bottle if not needed",
+      "Pour the amount needed at once and discard the remainder; do not recap for later use",
+      "Recap it for the next case"
+    ],
+    "correctIndex": 2,
+    "explanation": "Once opened, the bottle edge and cap may be contaminated. Solutions are poured in one step and any remainder is discarded."
+  },
+  {
+    "id": "intraop_care_043",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which person should apply the sterile gown and gloves for the surgeon who has just completed surgical hand antisepsis?",
+    "options": [
+      "The anesthesia professional",
+      "The surgeon without assistance only",
+      "The circulating nurse with bare hands, who then secures the gown from behind with a sterile tie",
+      "The scrubbed person who is already gowned and gloved"
+    ],
+    "correctIndex": 3,
+    "explanation": "A gowned and gloved scrubbed person can assist with gowning and gloving, keeping the surgeon's gown and gloves sterile."
+  },
+  {
+    "id": "intraop_care_044",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "When performing a surgical skin prep around a clean incision site, the usual direction of application is:",
+    "options": [
+      "From the incision site outward toward the periphery",
+      "In random strokes over the entire area, and moving back and forth between clean and dirty sites",
+      "From the periphery inward toward the incision",
+      "From the most contaminated area toward the incision"
+    ],
+    "correctIndex": 0,
+    "explanation": "The prep typically moves from the cleanest area at the incision site outward, unless the manufacturer's instructions specify a back-and-forth friction technique."
+  },
+  {
+    "id": "intraop_care_045",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "When the surgical prep area includes a stoma, how should the stoma be handled?",
+    "options": [
+      "Prep it with the same sponge used for the incision site, before moving on to the remaining skin",
+      "Leave the stoma open and prep over it first",
+      "Prep it first",
+      "Isolate it and prep it last because it is the most contaminated area"
+    ],
+    "correctIndex": 3,
+    "explanation": "Areas of higher contamination, such as stomas, the umbilicus, or open wounds, are prepped last or isolated to avoid moving bacteria to the incision."
+  },
+  {
+    "id": "intraop_care_046",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Why should chlorhexidine gluconate be avoided on the eyes and in the middle ear?",
+    "options": [
+      "It can cause corneal injury and ototoxicity",
+      "It stains the eye permanently",
+      "It is flammable only near the eyes",
+      "It is ineffective on mucous membranes and can leave a residue that prevents wound healing"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chlorhexidine can cause serious eye injury and is ototoxic if it reaches the middle ear. Alternatives are chosen per the manufacturer's instructions."
+  },
+  {
+    "id": "intraop_care_047",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "After an alcohol-based prep, which practice best reduces the risk of a surgical fire?",
+    "options": [
+      "Drape immediately to trap the vapors under the drapes, where the alcohol dries faster and the field is warmer",
+      "Activate electrosurgery briefly to test for ignition",
+      "Wait the full recommended dry time, remove soaked materials, and confirm the prep is dry before draping",
+      "Use a fan to blow the vapors toward the head"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alcohol vapors are flammable. Allowing full drying, preventing pooling, and removing soaked linens before draping reduces ignition risk."
+  },
+  {
+    "id": "intraop_care_048",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "Which surgical position places the patient flat on the back with arms on arm boards or tucked at the sides?",
+    "options": [
+      "Prone",
+      "Supine",
+      "Lithotomy",
+      "Lateral"
+    ],
+    "correctIndex": 1,
+    "explanation": "Supine (dorsal recumbent) is the most common surgical position. Pressure points include the occiput, scapulae, elbows, sacrum, and heels."
+  },
+  {
+    "id": "intraop_care_049",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "When the arms are tucked at the patient's sides in supine position, how should the hands be placed?",
+    "options": [
+      "In a neutral position with the palms facing the body",
+      "Palms facing down with the fingers spread, resting against the table pad under the patient",
+      "Palms facing up under the hips",
+      "Fists clenched against the table edge"
+    ],
+    "correctIndex": 0,
+    "explanation": "A neutral position with palms toward the body, with the elbows padded, reduces pressure on the ulnar nerve."
+  },
+  {
+    "id": "intraop_care_050",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "For a patient in the lateral position, where should the axillary roll be placed?",
+    "options": [
+      "Under the upper arm",
+      "Under the dependent chest wall just caudal to the axilla",
+      "Directly in the dependent axilla, to lift the shoulder and support the upper chest wall",
+      "Under the patient's neck"
+    ],
+    "correctIndex": 1,
+    "explanation": "The roll lifts the chest wall to relieve pressure on the dependent shoulder and brachial plexus. Placing it in the axilla can compress the neurovascular bundle."
+  },
+  {
+    "id": "intraop_care_051",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "When applying the safety strap for a patient in supine position, where should it be placed?",
+    "options": [
+      "Over the ankles",
+      "Directly over the knees",
+      "Across the chest at nipple level, so that the patient cannot lift the upper body off the table",
+      "About 2 inches above the knees, secure but not tight"
+    ],
+    "correctIndex": 3,
+    "explanation": "Placing the strap above the knees avoids pressure on the common peroneal nerve; it should allow a hand to fit between the strap and the patient."
+  },
+  {
+    "id": "intraop_care_052",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which physiologic change is a major concern when a patient is placed in steep Trendelenburg position for a long robotic procedure?",
+    "options": [
+      "Reduced risk of sliding on the bed",
+      "Decreased venous return to the heart, with a fall in cardiac output and lower intraocular pressure",
+      "Increased intracranial and intraocular pressure with facial and airway edema",
+      "Improved diaphragmatic movement"
+    ],
+    "correctIndex": 2,
+    "explanation": "Head-down positioning shifts fluid toward the head, increasing intracranial and intraocular pressure and causing facial and airway edema; anti-slide measures are also needed."
+  },
+  {
+    "id": "intraop_care_053",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "For a patient in the prone position, how should the chest be supported?",
+    "options": [
+      "With the arms tucked under the chest",
+      "Directly on the mattress with a pillow under the abdomen to support the spine and raise the buttocks",
+      "With chest rolls or a frame from clavicles to iliac crests, leaving the abdomen free",
+      "With a single roll across the abdomen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Supports that leave the abdomen free allow diaphragmatic movement and reduce pressure on the vena cava, decreasing bleeding and improving ventilation."
+  },
+  {
+    "id": "intraop_care_054",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "In the prone position, which body areas require special attention to prevent pressure?",
+    "options": [
+      "Occiput, scapulae, sacrum, and the back of the heels, which bear most of the weight when prone",
+      "Face, eyes, breasts, genitalia, knees, and toes",
+      "The posterior thighs only",
+      "Back of the heels only"
+    ],
+    "correctIndex": 1,
+    "explanation": "In prone position, pressure falls on the anterior body, including the face, eyes, breasts, genitalia, iliac crests, knees, and toes."
+  },
+  {
+    "id": "intraop_care_055",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "A patient will be in the beach-chair (sitting) position for shoulder surgery. Which risk should the team specifically plan for?",
+    "options": [
+      "Increased venous return to the right heart",
+      "Increased intraocular pressure from head-down tilt",
+      "Brachial plexus stretch from arm abduction of 30 degrees",
+      "Reduced cerebral perfusion and venous air embolism"
+    ],
+    "correctIndex": 3,
+    "explanation": "The elevated head lowers cerebral perfusion pressure, and the surgical site above the heart increases air embolism risk. Blood pressure measurement relative to brain level is considered."
+  },
+  {
+    "id": "intraop_care_056",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "To protect the ulnar nerve when a patient's arm is on an arm board, the forearm should be:",
+    "options": [
+      "Supinated or in a neutral position with the elbow padded",
+      "Abducted beyond 90 degrees",
+      "Strapped tightly at the elbow",
+      "Pronated with the elbow pressing against the edge of the arm board for added stability"
+    ],
+    "correctIndex": 0,
+    "explanation": "Supination or a neutral position reduces pressure on the ulnar groove at the elbow, where the ulnar nerve is vulnerable."
+  },
+  {
+    "id": "intraop_care_057",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "Which positioning action helps prevent heel pressure injuries in a supine patient?",
+    "options": [
+      "Elevate the heels off the bed while supporting the calves, with the knees slightly flexed",
+      "Rest the heels on a rolled towel placed directly under the Achilles tendon to relieve pressure on the soles",
+      "Place the heels directly on the mattress",
+      "Cross the ankles to reduce contact"
+    ],
+    "correctIndex": 0,
+    "explanation": "Floating the heels while distributing weight along the calves reduces heel pressure. Slight knee flexion helps prevent popliteal vein compression."
+  },
+  {
+    "id": "intraop_care_058",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Why should a patient's legs not be crossed in supine position?",
+    "options": [
+      "It affects the electrosurgical unit's settings and can cause the dispersive pad to lose contact",
+      "It makes skin prep impossible",
+      "Crossing the legs creates pressure on the peroneal nerve and on blood vessels",
+      "It increases the risk of hypothermia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Crossed legs or ankles create pressure points that can injure nerves and impair circulation, increasing DVT risk."
+  },
+  {
+    "id": "intraop_care_059",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "During a procedure on a fracture table, which nerve is at risk from pressure of the perineal post?",
+    "options": [
+      "Facial nerve",
+      "Optic nerve",
+      "Radial nerve",
+      "Pudendal nerve"
+    ],
+    "correctIndex": 3,
+    "explanation": "The perineal post can compress the pudendal nerve and perineal tissue. Padding and limiting traction time reduce injury risk."
+  },
+  {
+    "id": "intraop_care_060",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Who should be present when moving an anesthetized patient from supine to prone position?",
+    "options": [
+      "Only the circulating nurse and the scrub person, so that the sterile field is not disturbed by other staff",
+      "Enough trained staff to move the patient safely, with anesthesia controlling the head and airway",
+      "Only the surgeon",
+      "A single staff member using a slide board"
+    ],
+    "correctIndex": 1,
+    "explanation": "Turning a patient prone requires coordinated personnel. The anesthesia professional directs the move and protects the airway, head, and neck."
+  },
+  {
+    "id": "intraop_care_061",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "A patient in supine position for a long procedure is at risk for occipital pressure injury. Which intervention is most appropriate?",
+    "options": [
+      "Use a hard foam block under the neck",
+      "Turn the head fully to one side for the entire case to keep the airway clear of the table surface",
+      "Use a pressure-redistributing head positioner and keep the head neutral",
+      "Raise the head on several folded blankets"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pressure-redistributing devices reduce occipital pressure; the head is kept neutral to prevent neck strain and venous obstruction."
+  },
+  {
+    "id": "intraop_care_062",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "Which item helps keep a patient from sliding toward the foot of the bed in steep reverse Trendelenburg position?",
+    "options": [
+      "A wrist restraint",
+      "An axillary roll",
+      "A shoulder brace placed against the neck",
+      "A padded footboard"
+    ],
+    "correctIndex": 3,
+    "explanation": "A padded footboard prevents the patient from sliding toward the foot of the bed in reverse Trendelenburg, while padding protects the soles."
+  },
+  {
+    "id": "intraop_care_063",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "After a lengthy lithotomy procedure, a patient cannot dorsiflex the foot and has numbness on the top of the foot. Which nerve was most likely injured?",
+    "options": [
+      "Common peroneal (fibular) nerve",
+      "Femoral nerve",
+      "Sciatic nerve at the buttock",
+      "Median nerve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Compression of the common peroneal nerve at the fibular head causes foot drop and numbness over the dorsum of the foot. Padding and correct stirrup positioning help prevent it."
+  },
+  {
+    "id": "intraop_care_064",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "What is the main purpose of a preprocedure positioning plan for a patient with a high BMI?",
+    "options": [
+      "To decide the incision length and the order in which the sutures will be placed during closure",
+      "To select equipment, staffing, and padding that prevent injury and support ventilation",
+      "To determine the case cost",
+      "To select the antibiotic dose only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patients with obesity need equipment rated for their weight and dimensions, extra personnel, and positioning that supports ventilation and reduces pressure injuries."
+  },
+  {
+    "id": "intraop_care_065",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "When the active electrosurgical electrode is not in use, it should be:",
+    "options": [
+      "Clipped to the edge of the Mayo stand drape, where the scrub person can reach it quickly",
+      "Laid on the patient's drapes",
+      "Placed in a clean, dry, insulated holster",
+      "Placed in a basin of saline"
+    ],
+    "correctIndex": 2,
+    "explanation": "Holstering the active electrode prevents unintended activation and burns or fires when it is not in use."
+  },
+  {
+    "id": "intraop_care_066",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which situation most increases the risk of an alternate-site burn with monopolar electrosurgery?",
+    "options": [
+      "Patient skin touching a metal part of the OR bed",
+      "Cleaning the active electrode tip with a sponge",
+      "Using a dispersive electrode placed over a large, well-perfused muscle near the incision",
+      "Using the lowest effective power setting"
+    ],
+    "correctIndex": 0,
+    "explanation": "Current can exit through small contact points such as metal bed parts or ECG electrodes, creating high current density and burns."
+  },
+  {
+    "id": "intraop_care_067",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "How should eschar be removed from an electrosurgical active electrode tip?",
+    "options": [
+      "By leaving it, because eschar improves cutting",
+      "With a nonabrasive cleaning pad or a moist sponge, as directed by the manufacturer",
+      "By activating the electrode against a metal instrument on the back table until the debris burns off",
+      "By scraping with a scalpel blade"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eschar increases resistance and can ignite. Nonabrasive cleaning protects the tip coating and keeps the electrode working efficiently."
+  },
+  {
+    "id": "intraop_care_068",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "During laparoscopic surgery with monopolar instruments, which hazard can cause burns outside the surgeon's view?",
+    "options": [
+      "Low irrigation pressure",
+      "Too much CO2 in the abdomen causing high pressure, which can burn tissue at the trocar site",
+      "Using a 0-degree laparoscope",
+      "Insulation failure or capacitive coupling that transfers current to nearby tissue"
+    ],
+    "correctIndex": 3,
+    "explanation": "Damaged insulation and capacitive coupling can transfer current to bowel or other structures out of view. Inspecting insulation and active electrode monitoring reduce risk."
+  },
+  {
+    "id": "intraop_care_069",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "Why is the dispersive electrode placed on clean, dry, hair-free skin?",
+    "options": [
+      "To increase the sterile surface area of the electrode so that current is directed to the surgical site",
+      "To increase the current density at the pad",
+      "To make removal more painful",
+      "To ensure full, uniform contact that disperses current safely"
+    ],
+    "correctIndex": 3,
+    "explanation": "Good contact over a large area keeps current density low. Hair, moisture, lotion, and bony prominences cause poor contact and burns."
+  },
+  {
+    "id": "intraop_care_070",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which electrosurgical technique generally reduces the risk of current passing through a pacemaker or ICD?",
+    "options": [
+      "Monopolar cutting at high power",
+      "Bipolar electrosurgery",
+      "Monopolar spray coagulation",
+      "Placing the dispersive electrode near the device"
+    ],
+    "correctIndex": 1,
+    "explanation": "In bipolar electrosurgery the current flows only between the two tips of the instrument, so no dispersive electrode is needed and the current path is localized."
+  },
+  {
+    "id": "intraop_care_071",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which action supports laser safety in the operating room?",
+    "options": [
+      "Post laser warning signs at entrances and cover windows as required for the laser type",
+      "Allow anyone to activate the laser foot pedal",
+      "Use dry towels around the surgical site",
+      "Keep the laser in 'ready' mode throughout the case so that the surgeon can fire it at any time"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signage, window coverings, standby mode when not firing, wet drapes near the field, and only the operator activating the laser are standard measures."
+  },
+  {
+    "id": "intraop_care_072",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "During CO2 laser surgery of the airway, which endotracheal tube is most appropriate?",
+    "options": [
+      "A standard polyvinyl chloride tube",
+      "A red rubber tube wrapped in paper tape, with the cuff inflated with air to hold a seal",
+      "A laser-resistant tube matched to the wavelength, with the cuff filled with saline",
+      "A standard tube with an air-filled cuff"
+    ],
+    "correctIndex": 2,
+    "explanation": "Standard tubes can ignite. Laser-resistant tubes matched to the wavelength, with saline (often tinted) in the cuff, reduce airway fire risk."
+  },
+  {
+    "id": "intraop_care_073",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "What is the most effective protection for staff against ionizing radiation from fluoroscopy, besides shielding?",
+    "options": [
+      "Using a lead apron only below the waist",
+      "Standing as close as possible to the C-arm",
+      "Wearing a surgical mask",
+      "Maximizing distance from the radiation source"
+    ],
+    "correctIndex": 3,
+    "explanation": "Exposure decreases sharply with distance (inverse square law). Time, distance, and shielding are the basic principles of radiation protection."
+  },
+  {
+    "id": "intraop_care_074",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Where is a radiation dosimeter usually worn when only one badge is assigned and a lead apron is used?",
+    "options": [
+      "In the locker room",
+      "Under the apron at the waist always",
+      "At the collar outside the apron, or as directed by the radiation safety program",
+      "Inside the shoe, so that it measures exposure at the level of the floor and the C-arm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dosimeters measure occupational exposure. Placement is set by the radiation safety officer; a collar badge outside the apron is common for estimating dose to unshielded areas."
+  },
+  {
+    "id": "intraop_care_075",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "What is a typical intra-abdominal CO2 insufflation pressure for adult laparoscopy?",
+    "options": [
+      "About 12-15 mm Hg",
+      "About 2-3 mm Hg",
+      "About 50-60 mm Hg",
+      "About 30-40 mm Hg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pressures of about 12-15 mm Hg provide adequate working space. Higher pressures reduce venous return and impair ventilation."
+  },
+  {
+    "id": "intraop_care_076",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "During laparoscopic surgery, the patient suddenly becomes hypotensive with a drop in end-tidal CO2 and a 'mill-wheel' murmur. What should the team suspect?",
+    "options": [
+      "Normal response to pneumoperitoneum",
+      "CO2 gas embolism",
+      "Malignant hyperthermia",
+      "Hypoglycemia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gas entering the venous system can obstruct right heart outflow. Insufflation is stopped, the gas released, and supportive treatment begun."
+  },
+  {
+    "id": "intraop_care_077",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "What is the main hazard of surgical smoke from electrosurgery and lasers?",
+    "options": [
+      "It can contain toxic chemicals and viable particles that are harmful to inhale",
+      "It is a harmless odor only",
+      "It is only a cosmetic concern",
+      "It is a hazard only during laser use, since electrosurgical smoke contains only water vapor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Surgical smoke contains hydrocarbons, particulates, and possibly viable or viral material. Local exhaust ventilation at the source is recommended."
+  },
+  {
+    "id": "intraop_care_078",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "Before using a robotic surgical system, which plan must the team know?",
+    "options": [
+      "How to adjust the surgeon console's ergonomic settings",
+      "How to change robotic instrument arms between cases",
+      "The procedure for reprocessing robotic instruments",
+      "The emergency undocking and conversion procedure"
+    ],
+    "correctIndex": 3,
+    "explanation": "If the patient deteriorates, the team must be able to undock the robot quickly to allow rapid access, CPR, or conversion to open surgery."
+  },
+  {
+    "id": "intraop_care_079",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which practice reduces the risk of a sharps injury during surgery?",
+    "options": [
+      "Leaving sharps on the drapes after use",
+      "Using a neutral zone for passing sharps and blunt-tip suture needles when appropriate",
+      "Recapping needles with two hands",
+      "Passing scalpels hand to hand with the blade toward the receiver"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hands-free passing, blunt suture needles, and engineered safety devices reduce percutaneous injuries."
+  },
+  {
+    "id": "intraop_care_080",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "A fluid warming cabinet is used to store irrigation solutions. Which practice is recommended?",
+    "options": [
+      "Warm IV fluids in a microwave",
+      "Store all fluids at the highest setting indefinitely",
+      "Follow the manufacturer's instructions for temperature and maximum storage time, and label items with the date placed",
+      "Use blanket warmer temperatures for all fluids"
+    ],
+    "correctIndex": 2,
+    "explanation": "Warming cabinet temperatures and storage durations follow the fluid manufacturer's directions; overheated solutions can cause burns and degradation."
+  },
+  {
+    "id": "intraop_care_081",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "When using a pneumatic tourniquet, why is the inflation time monitored and reported to the surgeon at set intervals?",
+    "options": [
+      "The tourniquet must be inflated for exactly 15 minutes before it is released and re-inflated",
+      "Prolonged ischemia increases the risk of nerve and muscle injury",
+      "The time determines the antibiotic dose",
+      "The cuff loses sterility over time"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tourniquet time and pressure are monitored and reported per policy so the surgeon can limit ischemia time and deflate as needed."
+  },
+  {
+    "id": "intraop_care_082",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "What is the purpose of a smoke evacuation device's capture device being placed close to the surgical site?",
+    "options": [
+      "To filter the room air conditioning",
+      "To cool the electrosurgical tip",
+      "To improve the surgeon's lighting",
+      "To capture smoke at the source before it disperses"
+    ],
+    "correctIndex": 3,
+    "explanation": "Smoke capture is most effective within a short distance of where it is produced, before it spreads into the breathing zone."
+  },
+  {
+    "id": "intraop_care_083",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "Which patient-related factor increases the risk of a dispersive electrode burn?",
+    "options": [
+      "Placement over scar tissue or a bony prominence",
+      "Placement on a shaved, well-perfused area",
+      "Placement on the anterior thigh muscle",
+      "Placement on clean, dry skin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Scar tissue, bony prominences, and areas with poor perfusion have higher resistance and uneven contact, which concentrates current and heat."
+  },
+  {
+    "id": "intraop_care_084",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "A patient undergoing a hysteroscopy is receiving distending fluid. Which monitoring is essential?",
+    "options": [
+      "Blood glucose every 10 minutes",
+      "Hourly neurologic checks only",
+      "Accurate intake and output of the distending fluid to detect fluid deficit",
+      "Train-of-four every 5 minutes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Absorption of distending media can cause fluid overload and electrolyte disturbances. Fluid deficit is tracked and reported at set thresholds."
+  },
+  {
+    "id": "intraop_care_085",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which action is appropriate when using an argon beam coagulator during laparoscopy?",
+    "options": [
+      "Use it only in an oxygen-enriched environment",
+      "Activate it in direct contact with tissue at all times",
+      "Turn off insufflation monitoring",
+      "Vent the abdomen as needed, because argon adds gas and increases intra-abdominal pressure"
+    ],
+    "correctIndex": 3,
+    "explanation": "Argon gas adds to the pneumoperitoneum and can raise pressure and risk gas embolism. Pressure is monitored and the abdomen vented."
+  },
+  {
+    "id": "intraop_care_086",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "Who performs the surgical count?",
+    "options": [
+      "The surgeon alone",
+      "The circulating nurse and scrub person together, counting aloud and viewing each item",
+      "The scrub person alone",
+      "The anesthesia professional, who records the totals from the monitor during the case and the PACU"
+    ],
+    "correctIndex": 1,
+    "explanation": "Counts are performed concurrently and audibly by two people, one of whom is the RN circulator, while both view the items."
+  },
+  {
+    "id": "intraop_care_087",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "Which type of sponge should be used inside a body cavity or wound?",
+    "options": [
+      "Nonradiopaque gauze dressings",
+      "Cotton balls",
+      "Only radiopaque sponges",
+      "Laparotomy sponges with the tag removed"
+    ],
+    "correctIndex": 2,
+    "explanation": "Radiopaque sponges can be detected on imaging. Nonradiopaque dressing sponges are kept off the field until closure."
+  },
+  {
+    "id": "intraop_care_088",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "When should additional items added to the field during surgery be counted?",
+    "options": [
+      "When they are added, and they are recorded on the count sheet or board",
+      "Only at the final count",
+      "At the end of the day",
+      "Only if more than 10 items are added at the same time, since small additions do not matter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Items added to the field are counted at the time they are added and recorded, so the final count reflects all items used."
+  },
+  {
+    "id": "intraop_care_089",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Why should counted items not be removed from the operating room during the procedure?",
+    "options": [
+      "Counted items must be reprocessed in the same room",
+      "Infection prevention requires all waste to stay until terminal cleaning",
+      "Removing items breaks the sterile field",
+      "Removing them can cause an inaccurate count and delay reconciliation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Keeping all counted items, including trash and linen, in the room until the final count is reconciled prevents count errors."
+  },
+  {
+    "id": "intraop_care_090",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "The final count is incorrect, and an intraoperative radiograph does not reveal the missing needle. What should happen next?",
+    "options": [
+      "Discard the count sheet",
+      "Follow facility protocol with surgeon decision, documentation, and reporting, and hand off the discrepancy",
+      "Record the count as correct because imaging was negative, and notify the PACU nurse that all items are accounted for",
+      "Do not document because nothing was found"
+    ],
+    "correctIndex": 1,
+    "explanation": "An unresolved discrepancy is documented as such with the actions taken, reported per policy, and communicated to the next care providers."
+  },
+  {
+    "id": "intraop_care_091",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "How should sponges be handled after use to support an accurate count?",
+    "options": [
+      "Pile them on the floor in a basin",
+      "Discard them in the trash as they are used, then estimate the total at the end of the case",
+      "Separate them and place them in a counter bag or system that allows them to be viewed",
+      "Wrap them together tightly with tape"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sponge counter bags separate sponges so each can be viewed and counted, reducing errors and supporting blood loss estimation."
+  },
+  {
+    "id": "intraop_care_092",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "Which situation requires a count?",
+    "options": [
+      "A change of scrub person or circulating nurse during the case",
+      "A change of room lighting",
+      "A change of the anesthesia machine circuit or breathing bag during a long procedure",
+      "A change in music volume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Counts are performed before the procedure, when new items are added, before closing a cavity, at wound closure, and when permanent relief of staff occurs."
+  },
+  {
+    "id": "intraop_care_093",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "Which practice is most effective for preventing retained instruments in a large open procedure?",
+    "options": [
+      "Standardized instrument counts with complete trays and a methodical wound sweep",
+      "Relying on the surgeon's memory",
+      "Counting only sharp instruments",
+      "Counting instruments only for pediatric cases and procedures that involve a body cavity"
+    ],
+    "correctIndex": 0,
+    "explanation": "Standard counts, organized trays, a methodical wound exploration, and imaging when indicated reduce the risk of retained surgical items."
+  },
+  {
+    "id": "intraop_care_094",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "What is the purpose of adjunct technology such as radiofrequency detection for sponges?",
+    "options": [
+      "To replace manual counts entirely",
+      "To supplement manual counts in detecting retained sponges",
+      "To sterilize sponges after use",
+      "To measure blood loss"
+    ],
+    "correctIndex": 1,
+    "explanation": "Adjunct technology supports but does not replace manual counts and methodical wound sweeps."
+  },
+  {
+    "id": "intraop_care_095",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "How should a specimen be passed off the sterile field?",
+    "options": [
+      "Handed to the circulator with bare hands",
+      "Left in the wound until the end of the case",
+      "In an appropriate container, with the specimen name confirmed verbally by the surgeon and scrub person",
+      "Wrapped in a dry sponge and placed on the back table until the circulator can label it later in the case"
+    ],
+    "correctIndex": 2,
+    "explanation": "Specimens are confirmed verbally, placed in the proper container, labeled, and documented to prevent loss or misidentification."
+  },
+  {
+    "id": "intraop_care_096",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "A specimen is sent for frozen section. How should it be sent to pathology?",
+    "options": [
+      "In 10% formalin",
+      "Frozen in the OR freezer",
+      "In alcohol",
+      "Fresh, without preservative, delivered promptly"
+    ],
+    "correctIndex": 3,
+    "explanation": "Frozen sections require fresh tissue so pathology can freeze and examine it quickly. Preservatives make frozen section impossible."
+  },
+  {
+    "id": "intraop_care_097",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which specimen is typically sent without formalin so special studies can be performed?",
+    "options": [
+      "A routine appendix for permanent pathology",
+      "A tissue sample for culture",
+      "A uterine fibroid for permanent section",
+      "A routine gallbladder for permanent pathology"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cultures require living organisms, so specimens for culture are not placed in formalin. Routine tissue for permanent section usually is."
+  },
+  {
+    "id": "intraop_care_098",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "Why is time to fixation documented for breast tissue specimens?",
+    "options": [
+      "Formalin loses its strength after 10 minutes in the container if it is not covered",
+      "It is required only for specimens from the axilla",
+      "Delays in fixation can affect hormone receptor and HER2 testing accuracy",
+      "It determines whether a frozen section can be performed"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cold ischemia time affects biomarker results. Guidelines call for placing breast specimens in fixative promptly and documenting the times."
+  },
+  {
+    "id": "intraop_care_099",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "The back table holds a single medication cup of local anesthetic and nothing else. Which labeling practice applies?",
+    "options": [
+      "Label the cup as soon as the drug is transferred, even though it is the only one",
+      "Label it only if the surgeon requests a second drug",
+      "Label it after the procedure for the record",
+      "Labeling is optional because only one drug is on the back table and the scrub person knows what it is"
+    ],
+    "correctIndex": 0,
+    "explanation": "All medications and solutions on and off the sterile field are labeled when they are transferred to a container, including when only one is present."
+  },
+  {
+    "id": "intraop_care_100",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "An unlabeled syringe of clear fluid is found on the sterile back table. What should the scrub person do?",
+    "options": [
+      "Use it as saline because most clear fluids are saline",
+      "Ask the circulator to taste-test it",
+      "Label it based on memory",
+      "Discard it, because its contents cannot be verified"
+    ],
+    "correctIndex": 3,
+    "explanation": "Unlabeled medications or solutions are discarded. Guessing contents can lead to serious medication errors."
+  },
+  {
+    "id": "intraop_care_101",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "What information should a medication label on the sterile field include?",
+    "options": [
+      "The patient's diagnosis",
+      "Only the medication color and the time at which the drug was placed in the container",
+      "Medication name, strength, and amount (plus expiration time if held over 24 hours)",
+      "The surgeon's initials only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Labels should include the drug name, strength, amount, and other elements as required, such as diluent and expiration when relevant."
+  },
+  {
+    "id": "intraop_care_102",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "During the procedure, the scrub person must transfer local anesthetic with epinephrine to the field. Which verification is required?",
+    "options": [
+      "The circulator and scrub person verify name, strength, and expiration by reading the label aloud",
+      "No verification is needed for local anesthetics, since the dose is small and the surgeon draws it up",
+      "The circulator states the name only",
+      "The scrub person verifies by color"
+    ],
+    "correctIndex": 0,
+    "explanation": "Verbal and visual verification of the medication name, strength, dose, and expiration during transfer prevents wrong-drug or wrong-strength errors."
+  },
+  {
+    "id": "intraop_care_103",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "Which instrument is used to retract tissue rather than cut or clamp?",
+    "options": [
+      "A #10 scalpel blade",
+      "A Metzenbaum scissors",
+      "A Kelly hemostat",
+      "A Richardson retractor"
+    ],
+    "correctIndex": 3,
+    "explanation": "Retractors such as Richardson, Army-Navy, and Deaver expose the surgical site; scissors cut and hemostats clamp."
+  },
+  {
+    "id": "intraop_care_104",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which statement about topical hemostatic agents is correct?",
+    "options": [
+      "All topical hemostats are interchangeable",
+      "Each agent's preparation and use follow its instructions, and the type and amount are documented",
+      "They can be left on the field unlabeled, because the scrub person remembers which agent was opened",
+      "They are never left in the patient"
+    ],
+    "correctIndex": 1,
+    "explanation": "Agents such as gelatin, collagen, oxidized cellulose, and thrombin have different preparations and indications; they are documented when used."
+  },
+  {
+    "id": "intraop_care_105",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which practice is important when using bovine-derived topical thrombin?",
+    "options": [
+      "Mix it with the irrigation solution",
+      "Never inject it intravascularly, and label it clearly on the field",
+      "Use it unlabeled because it is topical",
+      "Inject it IV to stop bleeding faster"
+    ],
+    "correctIndex": 1,
+    "explanation": "Topical thrombin is for topical use only; intravascular administration can cause fatal thrombosis. Clear labeling prevents mix-ups with injectable drugs."
+  },
+  {
+    "id": "intraop_care_106",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "During a cesarean birth, the count is incorrect after closure of the uterus. Which action is most appropriate?",
+    "options": [
+      "Inform the surgeon immediately and search before the abdominal wall is closed",
+      "Close the abdomen and recount in the PACU",
+      "Ignore it because the uterine sponges dissolve and will not be seen on any imaging study",
+      "Document as correct if the surgeon agrees"
+    ],
+    "correctIndex": 0,
+    "explanation": "Counts are performed before closing a cavity within a cavity, such as the uterus. Discrepancies are communicated immediately so a search occurs before closure proceeds."
+  },
+  {
+    "id": "intraop_care_107",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "What is the primary purpose of a preoperative 'count sheet' or whiteboard?",
+    "options": [
+      "To track the surgeon's preference cards",
+      "To record operating room temperature",
+      "To provide a visible, accurate record of counted items for the team",
+      "To record the patient's vital signs"
+    ],
+    "correctIndex": 2,
+    "explanation": "Recording items visibly supports accurate reconciliation and communication of the count status."
+  },
+  {
+    "id": "intraop_care_108",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "A surgical wound that is closed with sutures at the end of the procedure heals by:",
+    "options": [
+      "Tertiary intention only",
+      "Secondary intention",
+      "Granulation from the base without closure",
+      "Primary intention"
+    ],
+    "correctIndex": 3,
+    "explanation": "Primary intention occurs when wound edges are approximated. Secondary intention is healing of an open wound by granulation; tertiary is delayed primary closure."
+  },
+  {
+    "id": "intraop_care_109",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which suture type is generally chosen when long-term tensile strength is needed, such as for a vascular anastomosis?",
+    "options": [
+      "Nonabsorbable monofilament suture such as polypropylene",
+      "Fast-absorbing plain gut",
+      "Chromic gut",
+      "Rapidly absorbing braided polyglactin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nonabsorbable sutures such as polypropylene retain strength indefinitely, which is important for vascular anastomoses."
+  },
+  {
+    "id": "intraop_care_110",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "What is the purpose of a closed-suction wound drain such as a Jackson-Pratt drain?",
+    "options": [
+      "To deliver antibiotics directly to the wound bed to prevent infection during the first week",
+      "To measure wound temperature",
+      "To prevent the patient from moving",
+      "To remove fluid and blood and reduce dead space and the risk of seroma or hematoma"
+    ],
+    "correctIndex": 3,
+    "explanation": "Closed-suction drains create gentle negative pressure to evacuate fluid, which can reduce infection risk and support healing."
+  },
+  {
+    "id": "intraop_care_111",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "The surgeon plans to inject 25 mL of 1% lidocaine. How many milligrams of lidocaine is this?",
+    "options": [
+      "2,500 mg",
+      "25 mg",
+      "250 mg",
+      "2.5 mg"
+    ],
+    "correctIndex": 2,
+    "explanation": "A 1% solution contains 1 g per 100 mL, or 10 mg/mL. 25 mL x 10 mg/mL = 250 mg. Tracking total dose helps prevent local anesthetic toxicity."
+  },
+  {
+    "id": "intraop_care_112",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "Local anesthetic with epinephrine 1:200,000 contains how much epinephrine per mL?",
+    "options": [
+      "50 micrograms",
+      "5 micrograms",
+      "500 micrograms",
+      "0.5 micrograms"
+    ],
+    "correctIndex": 1,
+    "explanation": "1:200,000 means 1 g in 200,000 mL, which equals 5 micrograms per mL."
+  },
+  {
+    "id": "intraop_care_113",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which implant-related practice is required in the OR?",
+    "options": [
+      "Record implant identification such as lot or serial number in the patient record",
+      "Discard the implant packaging before recording anything, since the packaging is not part of the record",
+      "Allow the manufacturer's representative to scrub in and implant the device",
+      "Record implants only if they are metallic"
+    ],
+    "correctIndex": 0,
+    "explanation": "Implant traceability allows recalls and adverse events to be linked to patients. Industry representatives may not perform patient care."
+  },
+  {
+    "id": "intraop_care_114",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "An explanted orthopedic device is removed during revision surgery. How should it be handled?",
+    "options": [
+      "Leave it on the back table at the end of the case",
+      "Discard it in the sharps container without documentation, since the device is no longer in the patient",
+      "Per facility policy, which may require pathology review or return to the patient after decontamination",
+      "Give it to the device representative without documentation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Explants are handled per policy and may be needed for analysis or legal purposes. Their disposition is documented."
+  },
+  {
+    "id": "intraop_care_115",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "A pregnant patient in the second half of pregnancy is positioned supine for nonobstetric surgery. Which action prevents aortocaval compression?",
+    "options": [
+      "Placing the patient in steep Trendelenburg",
+      "Raising the legs in stirrups",
+      "Positioning flat with no tilt",
+      "Left uterine displacement with a wedge under the right hip"
+    ],
+    "correctIndex": 3,
+    "explanation": "A gravid uterus can compress the vena cava and aorta in supine position, reducing cardiac output. Left uterine displacement relieves this."
+  },
+  {
+    "id": "intraop_care_116",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "When the RN is monitoring a patient receiving moderate sedation, what is the RN's role during the procedure?",
+    "options": [
+      "Monitor the surgeon's instrument needs and keep the sterile back table organized during the case",
+      "Continuously monitor the patient without other duties that would interrupt monitoring",
+      "Leave the room between doses",
+      "Also act as the scrub person"
+    ],
+    "correctIndex": 1,
+    "explanation": "The RN monitoring moderate sedation should have no other responsibilities that would leave the patient unmonitored."
+  },
+  {
+    "id": "intraop_care_117",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "How is intraoperative blood loss estimated more accurately when using sponges?",
+    "options": [
+      "Weighing used sponges and subtracting dry weight, with about 1 gram equal to 1 mL",
+      "Estimating from the color of the suction tubing and the number of laparotomy sponges opened",
+      "Asking the surgeon to estimate",
+      "Counting the number of red sponges"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gravimetric measurement of sponges plus suction volume minus irrigation improves the accuracy of blood loss estimates."
+  },
+  {
+    "id": "intraop_care_118",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "Which situation is generally a contraindication to intraoperative cell salvage?",
+    "options": [
+      "Elective spine fusion",
+      "Liver transplant with significant bleeding",
+      "Gross contamination of the field with bowel contents",
+      "Cardiac surgery with expected large blood loss and a need for washed, reinfused red cells"
+    ],
+    "correctIndex": 2,
+    "explanation": "Blood contaminated with bowel contents can carry bacteria that washing may not remove. Decisions about other relative contraindications are made by the team."
+  },
+  {
+    "id": "intraop_care_119",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "During cemented hip arthroplasty, the patient becomes hypotensive and hypoxemic as bone cement is inserted. What is the likely cause?",
+    "options": [
+      "Malignant hyperthermia from cement",
+      "Bone cement implantation syndrome",
+      "Spinal headache",
+      "Normal response to positioning"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pressurization of cement can embolize marrow and fat, causing hypoxemia, hypotension, and possible cardiac arrest. The team must communicate when cement is inserted."
+  },
+  {
+    "id": "intraop_care_120",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Why should methyl methacrylate bone cement be mixed using a closed mixing system or with smoke and fume evacuation?",
+    "options": [
+      "Mixing generates radiation",
+      "The vapor prevents infection",
+      "The cement becomes sterile only when it is mixed openly on the back table, away from the patient",
+      "The vapors are irritating and can affect staff and soft contact lenses"
+    ],
+    "correctIndex": 3,
+    "explanation": "Methyl methacrylate vapors irritate the eyes and respiratory tract. Closed systems and evacuation reduce exposure."
+  },
+  {
+    "id": "intraop_care_121",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "Why should operating room doors be kept closed during surgery?",
+    "options": [
+      "To prevent noise only",
+      "To keep the room warmer for staff",
+      "To maintain positive pressure and reduce airborne contamination",
+      "To keep patients' families from watching"
+    ],
+    "correctIndex": 2,
+    "explanation": "Open doors disrupt positive pressure airflow and increase airborne particles near the sterile field. Traffic should be minimized."
+  },
+  {
+    "id": "intraop_care_122",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which intraoperative measure helps maintain normothermia?",
+    "options": [
+      "Removing all blankets once draped",
+      "Using room-temperature irrigation only",
+      "Lowering the room temperature to 15 °C so that the patient loses less heat through sweating",
+      "Using warmed IV and irrigation fluids along with active warming devices"
+    ],
+    "correctIndex": 3,
+    "explanation": "Warmed fluids, forced-air or other active warming, and covering exposed areas reduce heat loss during surgery."
+  },
+  {
+    "id": "intraop_care_123",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "What is the main purpose of a sterile dressing placed at the end of surgery?",
+    "options": [
+      "To protect the incision from contamination and absorb drainage",
+      "To keep the patient warm",
+      "To speed up the absorption of sutures",
+      "To prevent the patient from moving"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dressings protect the incision for the first 24-48 hours while epithelialization occurs and absorb exudate."
+  },
+  {
+    "id": "intraop_care_124",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which practice reduces the risk of surgical site infection during intraoperative wound irrigation?",
+    "options": [
+      "Use tap water for large volumes",
+      "Use sterile solutions and follow the surgeon's order for the agent and volume",
+      "Reuse irrigation from the previous patient",
+      "Use expired solutions if sealed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Only sterile irrigation is used. The type and volume are based on the surgeon's order and evidence; the volume is recorded."
+  },
+  {
+    "id": "intraop_care_125",
+    "category": "intraop_care",
+    "difficulty": "hard",
+    "question": "During an orthopedic case using a pneumatic tourniquet, the anesthesia professional reports a rising end-tidal CO2 and potassium after cuff deflation. What is the most likely cause?",
+    "options": [
+      "Release of metabolic byproducts from the ischemic limb into the circulation",
+      "Malignant hyperthermia triggered by the cuff",
+      "An allergic reaction to padding",
+      "A defective CO2 absorbent only"
+    ],
+    "correctIndex": 0,
+    "explanation": "On deflation, CO2, lactate, and potassium from the ischemic limb enter the circulation. Transient changes are expected and are monitored."
+  },
+  {
+    "id": "intraop_care_126",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "What is the best way to prevent wrong-side surgery during laterality procedures?",
+    "options": [
+      "Rely on the surgeon's memory",
+      "Check only the patient's ID band, because it lists the laterality and procedure on its face",
+      "Verify the site against the consent, imaging, and marking during the time-out with the whole team",
+      "Verify only during scheduling"
+    ],
+    "correctIndex": 2,
+    "explanation": "Multiple sources are cross-checked during the time-out. Active participation of the team helps catch discrepancies."
+  },
+  {
+    "id": "intraop_care_127",
+    "category": "intraop_care",
+    "difficulty": "easy",
+    "question": "Which device warms the patient by blowing heated air through a blanket?",
+    "options": [
+      "Pneumatic tourniquet",
+      "Sequential compression device",
+      "Electrosurgical unit",
+      "Forced-air warming system"
+    ],
+    "correctIndex": 3,
+    "explanation": "Forced-air warming blankets are an effective way to prevent and treat perioperative hypothermia when used according to the manufacturer's instructions."
+  },
+  {
+    "id": "intraop_care_128",
+    "category": "intraop_care",
+    "difficulty": "medium",
+    "question": "Which action is correct for a patient's own medication brought from home that is needed during surgery?",
+    "options": [
+      "Store it on the sterile field",
+      "Follow facility policy for verifying, labeling, and giving patient-supplied medications",
+      "Use it without inspection",
+      "Ask the patient's family to administer it in the OR once the patient has been anesthetized"
+    ],
+    "correctIndex": 1,
+    "explanation": "Policies outline how home medications are identified, verified, stored, and administered to maintain safety."
+  }
+]
